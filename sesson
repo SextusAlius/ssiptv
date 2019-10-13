@@ -1,198 +1,1838 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",COMBATE HD
-http://23.237.132.90:8080/Combate/index.ts
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",SPORTV HD
-http://189.18.228.223:2086/play/a052/index.m3u8
-
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",SPORTV 2 HD
-http://23.237.132.90:8080/SporTV-2-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",SPORTV 3 HD
-http://23.237.132.90:8080/SporTV-3-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",OFF HD
-http://167.114.210.177:80/OFF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD
-https://prx6.spotiflix.site:4433/live/hls/premiere-clubes.m3u8
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE 2 HD
-http://23.237.132.90:8080/Premiere-2-HD/mpegts
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE 3 HD
-http://23.237.132.90:8080/Premiere-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE 4 HD
-http://23.237.132.90:8080/Premiere-4-HD/mpegts
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE 5 HD
-http://23.237.132.90:8080/Premiere-5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE 6 HD
-http://23.237.132.90:8080/Premiere-6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",PREMIERE 7 SD
-http://189.18.228.223:2086/play/a03n/index.m3u8
-
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",BAND SPORTS HD
-http://23.237.132.90:8080/Band-Sports-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="DAZN HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",DAZN BR HD
-https://prx5.spotiflix.site:4433/live/hls/dazn.m3u8
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES" ,ESPN BRASIL HD
-http://167.114.210.177:80/ESPN-Brasil-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",ESPN BRASIL SD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
-
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",ESPN HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,b3613fa25a4b07654e97c8b7619d8f31;base64np;sRXx4lbShFv2ySM!/amlst:sRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",ESPN2 HD
-
-
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",ESPN EXTRA HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
-
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",FOX PREMIUM 1 HD "LALIGA"
-http://23.237.132.90:80/Fox-Premium-1-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",FOX SPORTS HD
-
-
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",FOX SPORTS 2 HD
-http://hvod.imirun.net:8080/Fox-Sports-2/index.m3u8
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",FISH TV SD
-http://189.18.228.223:2086/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",TNT HD
-http://23.237.132.90:80/TNT-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",SPACE HD (CHAMPIONS LEAGUE)
-http://23.237.132.90:80/SpaceHD/tracks-a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",AL: DAZN 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52424
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",AL: DAZN 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52423
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",ES: BEIN LA LIGA  HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/65881
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",ES: BARÇA TV HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/65922
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: BEIN SPORTS 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/65653
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: BEIN SPORTS 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52861
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: BEIN SPORTS 3 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52860
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52863
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52864
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT 3 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52865
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT 4 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/52866
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT LIVE 5 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/65635
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT LIVE 6 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/65634
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",FR: RMC SPORT LIVE 7 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/65633
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",IT: SKY SPORT FÓRMULA 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/57538
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: FOX SPORTS 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1959
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: FOX SPORTS 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1961
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: FOX SPORTS 3 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1962
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: FOX SPORTS 4 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1963
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: FOX SPORTS 5 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1964
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: FOX SPORTS 6 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1965
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: ZIGGO SPORT VOETBAL HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1954
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: ZIGGO SPORT SELECT HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1953
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",NL: ZIGGO SPORT EXTRA 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1957
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",ZIGGO SPORT EXTRA 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/1958
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: BENFICA TV HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/11401
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: ELEVEN SPORTS 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/50215
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: ELEVEN SPORTS 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/50217
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: ELEVEN SPORTS 3 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/50213
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: ELEVEN SPORTS 4 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/50214
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: SPORT TV 1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/6726
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: SPORT TV 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/6727
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: SPORT TV 3 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/6728
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: SPORT TV 4 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/6729
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: SPORT TV 5 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/6730
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",PT: SPORTING TV HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/9680
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",UK: SKY SPORTS F1 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/12196
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",UK: SKY SPORTS MAIN EVENT HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/12186
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",UK: SKY SPORTS PREMIER LEAGUE HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/12194
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",UK: BT SPORT 2 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/12109
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES INTERNACIONAL",UK: BT SPORT 3 HD
-http://nettv-xcruiser.com:8000/7XuPcbXwum/KLEddYKZbk/12111
+#EXTINF:-1,A&E (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2499.ts
+#EXTINF:-1,A&E (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2487.ts
+#EXTINF:-1,A&E (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2475.ts
+#EXTINF:-1,A&E [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1918.ts
+#EXTINF:-1,A&E [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1914.ts
+#EXTINF:-1,A&E [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1922.ts
+#EXTINF:-1,AMC (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2627.ts
+#EXTINF:-1,AMC (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2422.ts
+#EXTINF:-1,AMC (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2557.ts
+#EXTINF:-1,AMC [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2111.ts
+#EXTINF:-1,AMC [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2045.ts
+#EXTINF:-1,AMC [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2011.ts
+#EXTINF:-1,ANIMAL PLANET (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2500.ts
+#EXTINF:-1,ANIMAL PLANET (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2488.ts
+#EXTINF:-1,ANIMAL PLANET (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2476.ts
+#EXTINF:-1,ANIMAL PLANET [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1917.ts
+#EXTINF:-1,ANIMAL PLANET [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1913.ts
+#EXTINF:-1,ANIMAL PLANET [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1921.ts
+#EXTINF:-1,ARTE 1 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1853.ts
+#EXTINF:-1,AXN (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2628.ts
+#EXTINF:-1,AXN (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2594.ts
+#EXTINF:-1,AXN (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2558.ts
+#EXTINF:-1,AXN [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2073.ts
+#EXTINF:-1,AXN [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2044.ts
+#EXTINF:-1,AXN [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2010.ts
+#EXTINF:-1,BABY TV (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2663.ts
+#EXTINF:-1,BABY TV [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2091.ts
+#EXTINF:-1,BABY TV [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2081.ts
+#EXTINF:-1,BOOMERANG (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2629.ts
+#EXTINF:-1,BOOMERANG (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2596.ts
+#EXTINF:-1,BOOMERANG (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2560.ts
+#EXTINF:-1,BOOMERANG [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2072.ts
+#EXTINF:-1,BOOMERANG [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2042.ts
+#EXTINF:-1,BOOMERANG [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2009.ts
+#EXTINF:-1,BRAZZERS
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1845.ts
+#EXTINF:-1,Buteco Gusttavo Lima ( Brasilia - 12/10 )
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2700.ts
+#EXTINF:-1,CANAL BRASIL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2414.ts
+#EXTINF:-1,CANAL BRASIL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1852.ts
+#EXTINF:-1,CARTOON NETWORK (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2673.ts
+#EXTINF:-1,CARTOON NETWORK (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2664.ts
+#EXTINF:-1,CARTOON NETWORK (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1778.ts
+#EXTINF:-1,CARTOON NETWORK [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2098.ts
+#EXTINF:-1,CARTOON NETWORK [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2090.ts
+#EXTINF:-1,CARTOON NETWORK [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2080.ts
+#EXTINF:-1,CINEMAX (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2630.ts
+#EXTINF:-1,CINEMAX (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2597.ts
+#EXTINF:-1,CINEMAX (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2561.ts
+#EXTINF:-1,CINEMAX [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2071.ts
+#EXTINF:-1,CINEMAX [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2041.ts
+#EXTINF:-1,CINEMAX [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2008.ts
+#EXTINF:-1,CNT (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2415.ts
+#EXTINF:-1,CNT [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1920.ts
+#EXTINF:-1,COMBATE (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2541.ts
+#EXTINF:-1,COMBATE (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2526.ts
+#EXTINF:-1,COMBATE (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2505.ts
+#EXTINF:-1,COMBATE [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1977.ts
+#EXTINF:-1,COMBATE [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1961.ts
+#EXTINF:-1,COMBATE [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1945.ts
+#EXTINF:-1,COMEDY CENTRAL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2502.ts
+#EXTINF:-1,COMEDY CENTRAL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2489.ts
+#EXTINF:-1,COMEDY CENTRAL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2478.ts
+#EXTINF:-1,COMEDY CENTRAL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1916.ts
+#EXTINF:-1,COMEDY CENTRAL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1912.ts
+#EXTINF:-1,COMEDY CENTRAL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1919.ts
+#EXTINF:-1,DAZN BRASIL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2542.ts
+#EXTINF:-1,DAZN BRASIL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2527.ts
+#EXTINF:-1,DAZN BRASIL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1960.ts
+#EXTINF:-1,DISCOVERY CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2459.ts
+#EXTINF:-1,DISCOVERY CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2444.ts
+#EXTINF:-1,DISCOVERY CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2428.ts
+#EXTINF:-1,DISCOVERY CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1899.ts
+#EXTINF:-1,DISCOVERY CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1885.ts
+#EXTINF:-1,DISCOVERY CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1874.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2460.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2445.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2429.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1898.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1884.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1873.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2461.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2446.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2430.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1897.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1883.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1872.ts
+#EXTINF:-1,DISCOVERY KIDS (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2674.ts
+#EXTINF:-1,DISCOVERY KIDS (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2665.ts
+#EXTINF:-1,DISCOVERY KIDS (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1788.ts
+#EXTINF:-1,DISCOVERY KIDS [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1896.ts
+#EXTINF:-1,DISCOVERY KIDS [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1882.ts
+#EXTINF:-1,DISCOVERY KIDS [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1871.ts
+#EXTINF:-1,DISCOVERY SCIENCE (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2462.ts
+#EXTINF:-1,DISCOVERY SCIENCE (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2447.ts
+#EXTINF:-1,DISCOVERY SCIENCE (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2431.ts
+#EXTINF:-1,DISCOVERY SCIENCE [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1895.ts
+#EXTINF:-1,DISCOVERY SCIENCE [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1881.ts
+#EXTINF:-1,DISCOVERY SCIENCE [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1870.ts
+#EXTINF:-1,DISCOVERY THEATER (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2463.ts
+#EXTINF:-1,DISCOVERY THEATER (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2448.ts
+#EXTINF:-1,DISCOVERY THEATER (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2432.ts
+#EXTINF:-1,DISCOVERY THEATER [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1894.ts
+#EXTINF:-1,DISCOVERY THEATER [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1880.ts
+#EXTINF:-1,DISCOVERY THEATER [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1869.ts
+#EXTINF:-1,DISCOVERY TLC (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2449.ts
+#EXTINF:-1,DISCOVERY TLC (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2433.ts
+#EXTINF:-1,DISCOVERY TLC [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1879.ts
+#EXTINF:-1,DISCOVERY TLC [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1868.ts
+#EXTINF:-1,DISCOVERY TURBO (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2464.ts
+#EXTINF:-1,DISCOVERY TURBO (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2450.ts
+#EXTINF:-1,DISCOVERY TURBO (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2434.ts
+#EXTINF:-1,DISCOVERY TURBO [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1893.ts
+#EXTINF:-1,DISCOVERY TURBO [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1878.ts
+#EXTINF:-1,DISCOVERY TURBO [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1867.ts
+#EXTINF:-1,DISCOVERY WORLD (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2465.ts
+#EXTINF:-1,DISCOVERY WORLD (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2451.ts
+#EXTINF:-1,DISCOVERY WORLD (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2435.ts
+#EXTINF:-1,DISCOVERY WORLD [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1892.ts
+#EXTINF:-1,DISCOVERY WORLD [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1877.ts
+#EXTINF:-1,DISCOVERY WORLD [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1866.ts
+#EXTINF:-1,DISNEY CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2466.ts
+#EXTINF:-1,DISNEY CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2452.ts
+#EXTINF:-1,DISNEY CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2436.ts
+#EXTINF:-1,DISNEY CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2097.ts
+#EXTINF:-1,DISNEY CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2089.ts
+#EXTINF:-1,DISNEY CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2079.ts
+#EXTINF:-1,DISNEY JR (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2675.ts
+#EXTINF:-1,DISNEY JR (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2667.ts
+#EXTINF:-1,DISNEY JR (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1779.ts
+#EXTINF:-1,DISNEY JR SD
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2657.ts
+#EXTINF:-1,DISNEY JR [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2096.ts
+#EXTINF:-1,DISNEY JR [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2088.ts
+#EXTINF:-1,DISNEY JR [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2078.ts
+#EXTINF:-1,DISNEY XD (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2676.ts
+#EXTINF:-1,DISNEY XD (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2668.ts
+#EXTINF:-1,DISNEY XD (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1780.ts
+#EXTINF:-1,DISNEY XD (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2658.ts
+#EXTINF:-1,DISNEY XD [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2095.ts
+#EXTINF:-1,DISNEY XD [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2087.ts
+#EXTINF:-1,DISNEY XD [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2077.ts
+#EXTINF:-1,E! (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2491.ts
+#EXTINF:-1,E! (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2480.ts
+#EXTINF:-1,E! [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1911.ts
+#EXTINF:-1,E! [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1944.ts
+#EXTINF:-1,EI PLUS (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2506.ts
+#EXTINF:-1,ESPN (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2544.ts
+#EXTINF:-1,ESPN (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2529.ts
+#EXTINF:-1,ESPN (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2508.ts
+#EXTINF:-1,ESPN BRASIL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2543.ts
+#EXTINF:-1,ESPN BRASIL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2528.ts
+#EXTINF:-1,ESPN BRASIL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2507.ts
+#EXTINF:-1,ESPN BRASIL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1975.ts
+#EXTINF:-1,ESPN BRASIL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1958.ts
+#EXTINF:-1,ESPN BRASIL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1942.ts
+#EXTINF:-1,ESPN  [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1976.ts
+#EXTINF:-1,ESPN [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1974.ts
+#EXTINF:-1,ESPN  [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1959.ts
+#EXTINF:-1,ESPN [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1957.ts
+#EXTINF:-1,ESPN  [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1943.ts
+#EXTINF:-1,ESPN [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1941.ts
+#EXTINF:-1,ESPN+ (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2545.ts
+#EXTINF:-1,ESPN+ (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2530.ts
+#EXTINF:-1,ESPN+ (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2509.ts
+#EXTINF:-1,FISH TV (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2492.ts
+#EXTINF:-1,FISH TV (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2481.ts
+#EXTINF:-1,FISH TV [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1910.ts
+#EXTINF:-1,FISH TV [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1905.ts
+#EXTINF:-1,FOOD NETWORK (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2503.ts
+#EXTINF:-1,FOOD NETWORK (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2493.ts
+#EXTINF:-1,FOOD NETWORK (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2482.ts
+#EXTINF:-1,FOOD NETWORK [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1915.ts
+#EXTINF:-1,FOOD NETWORK [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1909.ts
+#EXTINF:-1,FOOD NETWORK [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1904.ts
+#EXTINF:-1,FOX (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2631.ts
+#EXTINF:-1,FOX (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2598.ts
+#EXTINF:-1,FOX (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2565.ts
+#EXTINF:-1,FOX LIFE (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2599.ts
+#EXTINF:-1,FOX LIFE (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2562.ts
+#EXTINF:-1,FOX LIFE [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2039.ts
+#EXTINF:-1,FOX LIFE [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2007.ts
+#EXTINF:-1,FOX PREMIUM 1 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2632.ts
+#EXTINF:-1,FOX PREMIUM 1 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2600.ts
+#EXTINF:-1,FOX PREMIUM 1 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2563.ts
+#EXTINF:-1,FOX PREMIUM 1 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2069.ts
+#EXTINF:-1,FOX PREMIUM 1 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2038.ts
+#EXTINF:-1,FOX PREMIUM 1 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2006.ts
+#EXTINF:-1,FOX PREMIUM 2 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2633.ts
+#EXTINF:-1,FOX PREMIUM 2 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2601.ts
+#EXTINF:-1,FOX PREMIUM 2 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2564.ts
+#EXTINF:-1,FOX PREMIUM 2 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2068.ts
+#EXTINF:-1,FOX PREMIUM 2 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2037.ts
+#EXTINF:-1,FOX PREMIUM 2 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2005.ts
+#EXTINF:-1,FOX SPORTS (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2547.ts
+#EXTINF:-1,FOX SPORTS (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2532.ts
+#EXTINF:-1,FOX SPORTS (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2511.ts
+#EXTINF:-1,FOX SPORTS 2 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2546.ts
+#EXTINF:-1,FOX SPORTS 2 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2531.ts
+#EXTINF:-1,FOX SPORTS 2 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2510.ts
+#EXTINF:-1,FOX SPORTS 2 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1973.ts
+#EXTINF:-1,FOX SPORTS 2 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1956.ts
+#EXTINF:-1,FOX SPORTS 2 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1940.ts
+#EXTINF:-1,FOX SPORTS [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1972.ts
+#EXTINF:-1,FOX SPORTS [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1955.ts
+#EXTINF:-1,FOX SPORTS [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1939.ts
+#EXTINF:-1,FOX [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2070.ts
+#EXTINF:-1,FOX [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2040.ts
+#EXTINF:-1,FOX [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2004.ts
+#EXTINF:-1,FUTURA (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2425.ts
+#EXTINF:-1,FUTURA (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2417.ts
+#EXTINF:-1,FUTURA [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1849.ts
+#EXTINF:-1,FX (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2634.ts
+#EXTINF:-1,FX (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2602.ts
+#EXTINF:-1,FX (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2566.ts
+#EXTINF:-1,FX [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2067.ts
+#EXTINF:-1,FX [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2036.ts
+#EXTINF:-1,FX [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2003.ts
+#EXTINF:-1,H2 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2467.ts
+#EXTINF:-1,H2 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2453.ts
+#EXTINF:-1,H2 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2437.ts
+#EXTINF:-1,H2 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1891.ts
+#EXTINF:-1,H2 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1876.ts
+#EXTINF:-1,H2 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1862.ts
+#EXTINF:-1,HBO (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2636.ts
+#EXTINF:-1,HBO (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2605.ts
+#EXTINF:-1,HBO (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2571.ts
+#EXTINF:-1,HBO 2 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2635.ts
+#EXTINF:-1,HBO 2 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2603.ts
+#EXTINF:-1,HBO 2 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2567.ts
+#EXTINF:-1,HBO 2 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2066.ts
+#EXTINF:-1,HBO 2 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2035.ts
+#EXTINF:-1,HBO 2 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2002.ts
+#EXTINF:-1,HBO FAMILY (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2604.ts
+#EXTINF:-1,HBO FAMILY (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2568.ts
+#EXTINF:-1,HBO FAMILY [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2034.ts
+#EXTINF:-1,HBO FAMILY [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2001.ts
+#EXTINF:-1,HBO PLUS (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2637.ts
+#EXTINF:-1,HBO PLUS (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2606.ts
+#EXTINF:-1,HBO PLUS (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2569.ts
+#EXTINF:-1,HBO PLUS [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2064.ts
+#EXTINF:-1,HBO PLUS [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2032.ts
+#EXTINF:-1,HBO PLUS [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2000.ts
+#EXTINF:-1,HBO PLUS*E (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2607.ts
+#EXTINF:-1,HBO PLUS*E (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2570.ts
+#EXTINF:-1,HBO SIGNATURE (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2638.ts
+#EXTINF:-1,HBO SIGNATURE (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2608.ts
+#EXTINF:-1,HBO SIGNATURE (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2572.ts
+#EXTINF:-1,HBO SIGNATURE [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2063.ts
+#EXTINF:-1,HBO SIGNATURE [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2031.ts
+#EXTINF:-1,HBO SIGNATURE [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1999.ts
+#EXTINF:-1,HBO [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2065.ts
+#EXTINF:-1,HBO [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2033.ts
+#EXTINF:-1,HISTORY CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2468.ts
+#EXTINF:-1,HISTORY CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2454.ts
+#EXTINF:-1,HISTORY CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2438.ts
+#EXTINF:-1,HISTORY CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1890.ts
+#EXTINF:-1,HISTORY CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1875.ts
+#EXTINF:-1,HISTORY CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1861.ts
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2469.ts
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2455.ts
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1889.ts
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1907.ts
+#EXTINF:-1,ID INVESTIGACAO DISCOVERY (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2439.ts
+#EXTINF:-1,ID INVESTIGACAO DISCOVERY [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1860.ts
+#EXTINF:-1,LIFETIME (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2495.ts
+#EXTINF:-1,LIFETIME (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2440.ts
+#EXTINF:-1,LIFETIME [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1906.ts
+#EXTINF:-1,LIFETIME [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1903.ts
+#EXTINF:-1,MAX (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2609.ts
+#EXTINF:-1,MAX (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2575.ts
+#EXTINF:-1,MAX PRIME (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2639.ts
+#EXTINF:-1,MAX PRIME (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2610.ts
+#EXTINF:-1,MAX PRIME (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2573.ts
+#EXTINF:-1,MAX PRIME [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2062.ts
+#EXTINF:-1,MAX PRIME [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2029.ts
+#EXTINF:-1,MAX PRIME [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1998.ts
+#EXTINF:-1,MAX PRIME*E (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2611.ts
+#EXTINF:-1,MAX PRIME*E (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2574.ts
+#EXTINF:-1,MAX UP (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2612.ts
+#EXTINF:-1,MAX UP (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2576.ts
+#EXTINF:-1,MAX UP [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2028.ts
+#EXTINF:-1,MAX UP [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1996.ts
+#EXTINF:-1,MAX [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2030.ts
+#EXTINF:-1,MAX [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1997.ts
+#EXTINF:-1,MEGAPIX (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2640.ts
+#EXTINF:-1,MEGAPIX (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2613.ts
+#EXTINF:-1,MEGAPIX (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2577.ts
+#EXTINF:-1,MEGAPIX [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2061.ts
+#EXTINF:-1,MEGAPIX [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2027.ts
+#EXTINF:-1,MEGAPIX [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1995.ts
+#EXTINF:-1,NAT GEO KIDS (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2470.ts
+#EXTINF:-1,NAT GEO KIDS [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1888.ts
+#EXTINF:-1,NATGEO (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2471.ts
+#EXTINF:-1,NATGEO KIDS (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2456.ts
+#EXTINF:-1,NATGEO KIDS (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2441.ts
+#EXTINF:-1,NATGEO KIDS [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1865.ts
+#EXTINF:-1,NATGEO WILD (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2472.ts
+#EXTINF:-1,NATGEO WILD (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2457.ts
+#EXTINF:-1,NATGEO WILD (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2442.ts
+#EXTINF:-1,NATGEO WILD [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1887.ts
+#EXTINF:-1,NATGEO WILD [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1864.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2473.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2458.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2443.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1886.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1863.ts
+#EXTINF:-1,NICK JR (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2678.ts
+#EXTINF:-1,NICK JR (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2670.ts
+#EXTINF:-1,NICK JR SD
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2660.ts
+#EXTINF:-1,NICK JR [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2092.ts
+#EXTINF:-1,NICK JR [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2084.ts
+#EXTINF:-1,NICK JR [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2075.ts
+#EXTINF:-1,NICKELODEON (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2671.ts
+#EXTINF:-1,NICKELODEON SD
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2661.ts
+#EXTINF:-1,NICKELODEON [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2083.ts
+#EXTINF:-1,PARAMOUNT CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2641.ts
+#EXTINF:-1,PARAMOUNT CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2614.ts
+#EXTINF:-1,PARAMOUNT CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2578.ts
+#EXTINF:-1,PARAMOUNT CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2060.ts
+#EXTINF:-1,PARAMOUNT CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2026.ts
+#EXTINF:-1,PARAMOUNT CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1994.ts
+#EXTINF:-1,PREMIERE 1 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2513.ts
+#EXTINF:-1,PREMIERE 1 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1938.ts
+#EXTINF:-1,PREMIERE 2 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2548.ts
+#EXTINF:-1,PREMIERE 2 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2533.ts
+#EXTINF:-1,PREMIERE 2 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2514.ts
+#EXTINF:-1,PREMIERE 2 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1971.ts
+#EXTINF:-1,PREMIERE 2 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1954.ts
+#EXTINF:-1,PREMIERE 2 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1937.ts
+#EXTINF:-1,PREMIERE 3 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2549.ts
+#EXTINF:-1,PREMIERE 3 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2534.ts
+#EXTINF:-1,PREMIERE 3 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2515.ts
+#EXTINF:-1,PREMIERE 3 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1970.ts
+#EXTINF:-1,PREMIERE 3 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1953.ts
+#EXTINF:-1,PREMIERE 3 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1936.ts
+#EXTINF:-1,PREMIERE 4 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2550.ts
+#EXTINF:-1,PREMIERE 4 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2535.ts
+#EXTINF:-1,PREMIERE 4 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2516.ts
+#EXTINF:-1,PREMIERE 4 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1969.ts
+#EXTINF:-1,PREMIERE 4 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1952.ts
+#EXTINF:-1,PREMIERE 4 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1935.ts
+#EXTINF:-1,PREMIERE 5 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2551.ts
+#EXTINF:-1,PREMIERE 5 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2536.ts
+#EXTINF:-1,PREMIERE 5 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2517.ts
+#EXTINF:-1,PREMIERE 5 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1968.ts
+#EXTINF:-1,PREMIERE 5 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1951.ts
+#EXTINF:-1,PREMIERE 5 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1934.ts
+#EXTINF:-1,PREMIERE 6 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2552.ts
+#EXTINF:-1,PREMIERE 6 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2518.ts
+#EXTINF:-1,PREMIERE 6 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1967.ts
+#EXTINF:-1,PREMIERE 6 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1933.ts
+#EXTINF:-1,PREMIERE 7 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2519.ts
+#EXTINF:-1,PREMIERE 7 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1932.ts
+#EXTINF:-1,PREMIERE 8 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2520.ts
+#EXTINF:-1,PREMIERE 8 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1931.ts
+#EXTINF:-1,PREMIERE CLUBES (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2553.ts
+#EXTINF:-1,PREMIERE CLUBES (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2537.ts
+#EXTINF:-1,PREMIERE CLUBES (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2521.ts
+#EXTINF:-1,PREMIERE CLUBES [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1966.ts
+#EXTINF:-1,PREMIERE CLUBES [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1950.ts
+#EXTINF:-1,PREMIERE CLUBES [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1930.ts
+#EXTINF:-1,SPORTV (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2556.ts
+#EXTINF:-1,SPORTV (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2540.ts
+#EXTINF:-1,SPORTV (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2524.ts
+#EXTINF:-1,SPORTV 2 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2554.ts
+#EXTINF:-1,SPORTV 2 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2538.ts
+#EXTINF:-1,SPORTV 2 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2522.ts
+#EXTINF:-1,SPORTV 2 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1965.ts
+#EXTINF:-1,SPORTV 2 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1949.ts
+#EXTINF:-1,SPORTV 2 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1929.ts
+#EXTINF:-1,SPORTV 3 (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2555.ts
+#EXTINF:-1,SPORTV 3 (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2539.ts
+#EXTINF:-1,SPORTV 3 (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2523.ts
+#EXTINF:-1,SPORTV 3 [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1964.ts
+#EXTINF:-1,SPORTV 3 [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1948.ts
+#EXTINF:-1,SPORTV 3 [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1928.ts
+#EXTINF:-1,SPORTV [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1963.ts
+#EXTINF:-1,SPORTV [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1947.ts
+#EXTINF:-1,SPORTV [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1927.ts
+#EXTINF:-1,STUDIO UNIVERSAL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2643.ts
+#EXTINF:-1,STUDIO UNIVERSAL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2615.ts
+#EXTINF:-1,STUDIO UNIVERSAL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2580.ts
+#EXTINF:-1,STUDIO UNIVERSAL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2057.ts
+#EXTINF:-1,STUDIO UNIVERSAL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2023.ts
+#EXTINF:-1,STUDIO UNIVERSAL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1991.ts
+#EXTINF:-1,SYFY (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2644.ts
+#EXTINF:-1,SYFY (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2616.ts
+#EXTINF:-1,SYFY (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2581.ts
+#EXTINF:-1,SYFY [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2056.ts
+#EXTINF:-1,SYFY [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2022.ts
+#EXTINF:-1,SYFY [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1990.ts
+#EXTINF:-1,TBS (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2582.ts
+#EXTINF:-1,TBS [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1989.ts
+#EXTINF:-1,TCM (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2583.ts
+#EXTINF:-1,TCM [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1988.ts
+#EXTINF:-1,TELECINE ACTION (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2645.ts
+#EXTINF:-1,TELECINE ACTION (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2617.ts
+#EXTINF:-1,TELECINE ACTION (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2584.ts
+#EXTINF:-1,TELECINE ACTION [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2055.ts
+#EXTINF:-1,TELECINE ACTION [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2021.ts
+#EXTINF:-1,TELECINE ACTION [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1987.ts
+#EXTINF:-1,TELECINE CULT (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2646.ts
+#EXTINF:-1,TELECINE CULT (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2618.ts
+#EXTINF:-1,TELECINE CULT (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2585.ts
+#EXTINF:-1,TELECINE CULT [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2054.ts
+#EXTINF:-1,TELECINE CULT [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2020.ts
+#EXTINF:-1,TELECINE CULT [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1986.ts
+#EXTINF:-1,TELECINE FUN (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2647.ts
+#EXTINF:-1,TELECINE FUN (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2619.ts
+#EXTINF:-1,TELECINE FUN (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2586.ts
+#EXTINF:-1,TELECINE FUN [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2053.ts
+#EXTINF:-1,TELECINE FUN [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2019.ts
+#EXTINF:-1,TELECINE FUN [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1985.ts
+#EXTINF:-1,TELECINE PIPOCA (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2648.ts
+#EXTINF:-1,TELECINE PIPOCA (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2620.ts
+#EXTINF:-1,TELECINE PIPOCA (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2587.ts
+#EXTINF:-1,TELECINE PIPOCA [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2052.ts
+#EXTINF:-1,TELECINE PIPOCA [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2018.ts
+#EXTINF:-1,TELECINE PIPOCA [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1984.ts
+#EXTINF:-1,TELECINE PREMIUM (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2649.ts
+#EXTINF:-1,TELECINE PREMIUM (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2621.ts
+#EXTINF:-1,TELECINE PREMIUM (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2588.ts
+#EXTINF:-1,TELECINE PREMIUM [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2051.ts
+#EXTINF:-1,TELECINE PREMIUM [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2017.ts
+#EXTINF:-1,TELECINE PREMIUM [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1983.ts
+#EXTINF:-1,TELECINE TOUCH (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2650.ts
+#EXTINF:-1,TELECINE TOUCH (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2622.ts
+#EXTINF:-1,TELECINE TOUCH (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2589.ts
+#EXTINF:-1,TELECINE TOUCH [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2050.ts
+#EXTINF:-1,TELECINE TOUCH [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2016.ts
+#EXTINF:-1,TELECINE TOUCH [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1982.ts
+#EXTINF:-1,TNT (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2651.ts
+#EXTINF:-1,TNT (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2623.ts
+#EXTINF:-1,TNT (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2590.ts
+#EXTINF:-1,TNT SERIES (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2652.ts
+#EXTINF:-1,TNT SERIES (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2624.ts
+#EXTINF:-1,TNT SERIES (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2591.ts
+#EXTINF:-1,TNT SERIES [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2048.ts
+#EXTINF:-1,TNT SERIES [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2014.ts
+#EXTINF:-1,TNT SERIES [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1980.ts
+#EXTINF:-1,TNT [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2049.ts
+#EXTINF:-1,TNT [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2015.ts
+#EXTINF:-1,TNT [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1981.ts
+#EXTINF:-1,TOONCAST (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2672.ts
+#EXTINF:-1,TOONCAST SD
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2662.ts
+#EXTINF:-1,TOONCAST [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2082.ts
+#EXTINF:-1,TOONCAST [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2074.ts
+#EXTINF:-1,TV GAZETA (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2420.ts
+#EXTINF:-1,TV GAZETA [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1847.ts
+#EXTINF:-1,UNIVERSAL CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2653.ts
+#EXTINF:-1,UNIVERSAL CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2625.ts
+#EXTINF:-1,UNIVERSAL CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2592.ts
+#EXTINF:-1,UNIVERSAL CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2047.ts
+#EXTINF:-1,UNIVERSAL CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2013.ts
+#EXTINF:-1,UNIVERSAL CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1979.ts
+#EXTINF:-1,WARNER CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2654.ts
+#EXTINF:-1,WARNER CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2626.ts
+#EXTINF:-1,WARNER CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2593.ts
+#EXTINF:-1,WARNER CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2046.ts
+#EXTINF:-1,WARNER CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2012.ts
+#EXTINF:-1,WARNER CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1978.ts
+#EXTINF:-1,WOOHOO (HD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2497.ts
+#EXTINF:-1,WOOHOO (SD)
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2485.ts
+#EXTINF:-1,WOOHOO [HD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1924.ts
+#EXTINF:-1,WOOHOO [SD]
+http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1902.ts
+#EXTINF:-1,A&E (FHD)
+http://m3u.iptvlegal.tv:25461/A&E (FHD)/index.m3u8?token=93476
+#EXTINF:-1,A&E (HD)
+http://m3u.iptvlegal.tv:25461/A&E (HD)/index.m3u8?token=93476
+#EXTINF:-1,A&E (SD)
+http://m3u.iptvlegal.tv:25461/A&E (SD)/index.m3u8?token=93476
+#EXTINF:-1,A&E [FHD]
+http://m3u.iptvlegal.tv:25461/A&E [FHD]/index.m3u8?token=93476
+#EXTINF:-1,A&E [HD]
+http://m3u.iptvlegal.tv:25461/A&E [HD]/index.m3u8?token=93476
+#EXTINF:-1,A&E [SD]
+http://m3u.iptvlegal.tv:25461/A&E [SD]/index.m3u8?token=93476
+#EXTINF:-1,AMC (FHD)
+http://m3u.iptvlegal.tv:25461/AMC (FHD)/index.m3u8?token=93476
+#EXTINF:-1,AMC (HD)
+http://m3u.iptvlegal.tv:25461/AMC (HD)/index.m3u8?token=93476
+#EXTINF:-1,AMC (SD)
+http://m3u.iptvlegal.tv:25461/AMC (SD)/index.m3u8?token=93476
+#EXTINF:-1,AMC [FHD]
+http://m3u.iptvlegal.tv:25461/AMC [FHD]/index.m3u8?token=93476
+#EXTINF:-1,AMC [HD]
+http://m3u.iptvlegal.tv:25461/AMC [HD]/index.m3u8?token=93476
+#EXTINF:-1,AMC [SD]
+http://m3u.iptvlegal.tv:25461/AMC [SD]/index.m3u8?token=93476
+#EXTINF:-1,ANIMAL PLANET (FHD)
+http://m3u.iptvlegal.tv:25461/ANIMAL PLANET (FHD)/index.m3u8?token=93476
+#EXTINF:-1,ANIMAL PLANET (HD)
+http://m3u.iptvlegal.tv:25461/ANIMAL PLANET (HD)/index.m3u8?token=93476
+#EXTINF:-1,ANIMAL PLANET (SD)
+http://m3u.iptvlegal.tv:25461/ANIMAL PLANET (SD)/index.m3u8?token=93476
+#EXTINF:-1,ANIMAL PLANET [FHD]
+http://m3u.iptvlegal.tv:25461/ANIMAL PLANET [FHD]/index.m3u8?token=93476
+#EXTINF:-1,ANIMAL PLANET [HD]
+http://m3u.iptvlegal.tv:25461/ANIMAL PLANET [HD]/index.m3u8?token=93476
+#EXTINF:-1,ANIMAL PLANET [SD]
+http://m3u.iptvlegal.tv:25461/ANIMAL PLANET [SD]/index.m3u8?token=93476
+#EXTINF:-1,ARTE 1 (FHD)
+http://m3u.iptvlegal.tv:25461/ARTE 1 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,ARTE 1 (HD)
+http://m3u.iptvlegal.tv:25461/ARTE 1 (HD)/index.m3u8?token=93476
+#EXTINF:-1,ARTE 1 (SD)
+http://m3u.iptvlegal.tv:25461/ARTE 1 (SD)/index.m3u8?token=93476
+#EXTINF:-1,ARTE 1 [HD]
+http://m3u.iptvlegal.tv:25461/ARTE 1 [HD]/index.m3u8?token=93476
+#EXTINF:-1,ARTE 1 [SD]
+http://m3u.iptvlegal.tv:25461/ARTE 1 [SD]/index.m3u8?token=93476
+#EXTINF:-1,AXN (FHD)
+http://m3u.iptvlegal.tv:25461/AXN (FHD)/index.m3u8?token=93476
+#EXTINF:-1,AXN (HD)
+http://m3u.iptvlegal.tv:25461/AXN (HD)/index.m3u8?token=93476
+#EXTINF:-1,AXN (SD)
+http://m3u.iptvlegal.tv:25461/AXN (SD)/index.m3u8?token=93476
+#EXTINF:-1,AXN [FHD]
+http://m3u.iptvlegal.tv:25461/AXN [FHD]/index.m3u8?token=93476
+#EXTINF:-1,AXN [HD]
+http://m3u.iptvlegal.tv:25461/AXN [HD]/index.m3u8?token=93476
+#EXTINF:-1,AXN [SD]
+http://m3u.iptvlegal.tv:25461/AXN [SD]/index.m3u8?token=93476
+#EXTINF:-1,BABY TV (HD)
+http://m3u.iptvlegal.tv:25461/BABY TV (HD)/index.m3u8?token=93476
+#EXTINF:-1,BOOMERANG (FHD)
+http://m3u.iptvlegal.tv:25461/BOOMERANG (FHD)/index.m3u8?token=93476
+#EXTINF:-1,BOOMERANG (HD)
+http://m3u.iptvlegal.tv:25461/BOOMERANG (HD)/index.m3u8?token=93476
+#EXTINF:-1,BOOMERANG (SD)
+http://m3u.iptvlegal.tv:25461/BOOMERANG (SD)/index.m3u8?token=93476
+#EXTINF:-1,BOOMERANG [FHD]
+http://m3u.iptvlegal.tv:25461/BOOMERANG [FHD]/index.m3u8?token=93476
+#EXTINF:-1,BOOMERANG [HD]
+http://m3u.iptvlegal.tv:25461/BOOMERANG [HD]/index.m3u8?token=93476
+#EXTINF:-1,BOOMERANG [SD]
+http://m3u.iptvlegal.tv:25461/BOOMERANG [SD]/index.m3u8?token=93476
+#EXTINF:-1,CARTOON NETWORK (HD)
+http://m3u.iptvlegal.tv:25461/CARTOON NETWORK (HD)/index.m3u8?token=93476
+#EXTINF:-1,CARTOON NETWORK (SD)
+http://m3u.iptvlegal.tv:25461/CARTOON NETWORK (SD)/index.m3u8?token=93476
+#EXTINF:-1,CARTOON NETWORK [FHD]
+http://m3u.iptvlegal.tv:25461/CARTOON NETWORK [FHD]/index.m3u8?token=93476
+#EXTINF:-1,CARTOON NETWORK [HD]
+http://m3u.iptvlegal.tv:25461/CARTOON NETWORK [HD]/index.m3u8?token=93476
+#EXTINF:-1,CARTOON NETWORK [SD]
+http://m3u.iptvlegal.tv:25461/CARTOON NETWORK [SD]/index.m3u8?token=93476
+#EXTINF:-1,CINEMAX (FHD)
+http://m3u.iptvlegal.tv:25461/CINEMAX (FHD)/index.m3u8?token=93476
+#EXTINF:-1,CINEMAX (HD)
+http://m3u.iptvlegal.tv:25461/CINEMAX (HD)/index.m3u8?token=93476
+#EXTINF:-1,CINEMAX (SD)
+http://m3u.iptvlegal.tv:25461/CINEMAX (SD)/index.m3u8?token=93476
+#EXTINF:-1,CINEMAX [FHD]
+http://m3u.iptvlegal.tv:25461/CINEMAX [FHD]/index.m3u8?token=93476
+#EXTINF:-1,CINEMAX [HD]
+http://m3u.iptvlegal.tv:25461/CINEMAX [HD]/index.m3u8?token=93476
+#EXTINF:-1,CINEMAX [SD]
+http://m3u.iptvlegal.tv:25461/CINEMAX [SD]/index.m3u8?token=93476
+#EXTINF:-1,CNT (SD)
+http://m3u.iptvlegal.tv:25461/CNT (SD)/index.m3u8?token=93476
+#EXTINF:-1,CNT [SD]
+http://m3u.iptvlegal.tv:25461/CNT [SD]/index.m3u8?token=93476
+#EXTINF:-1,COMBATE (FHD)
+http://m3u.iptvlegal.tv:25461/COMBATE (FHD)/index.m3u8?token=93476
+#EXTINF:-1,COMBATE (HD)
+http://m3u.iptvlegal.tv:25461/COMBATE (HD)/index.m3u8?token=93476
+#EXTINF:-1,COMBATE (SD)
+http://m3u.iptvlegal.tv:25461/COMBATE (SD)/index.m3u8?token=93476
+#EXTINF:-1,COMBATE [FHD]
+http://m3u.iptvlegal.tv:25461/COMBATE [FHD]/index.m3u8?token=93476
+#EXTINF:-1,COMBATE [HD]
+http://m3u.iptvlegal.tv:25461/COMBATE [HD]/index.m3u8?token=93476
+#EXTINF:-1,COMBATE [SD]
+http://m3u.iptvlegal.tv:25461/COMBATE [SD]/index.m3u8?token=93476
+#EXTINF:-1,COMEDY CENTRAL (FHD)
+http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,COMEDY CENTRAL (HD)
+http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL (HD)/index.m3u8?token=93476
+#EXTINF:-1,COMEDY CENTRAL (SD)
+http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL (SD)/index.m3u8?token=93476
+#EXTINF:-1,COMEDY CENTRAL [FHD]
+http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,COMEDY CENTRAL [HD]
+http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL [HD]/index.m3u8?token=93476
+#EXTINF:-1,COMEDY CENTRAL [SD]
+http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL [SD]/index.m3u8?token=93476
+#EXTINF:-1,DAZN BRASIL (FHD)
+http://m3u.iptvlegal.tv:25461/DAZN BRASIL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DAZN BRASIL (HD)
+http://m3u.iptvlegal.tv:25461/DAZN BRASIL (HD)/index.m3u8?token=93476
+#EXTINF:-1,DAZN BRASIL [HD]
+http://m3u.iptvlegal.tv:25461/DAZN BRASIL [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CIVILIZATION (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CIVILIZATION (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CIVILIZATION (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CIVILIZATION [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CIVILIZATION [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY CIVILIZATION [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY HOME & HEALTH (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY HOME & HEALTH (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY HOME & HEALTH (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY HOME & HEALTH [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY HOME & HEALTH [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY HOME & HEALTH [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY KIDS (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY KIDS (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY KIDS (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY KIDS [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY KIDS [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY KIDS [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY SCIENCE (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY SCIENCE (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY SCIENCE (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY SCIENCE [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY SCIENCE [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY SCIENCE [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY THEATER (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY THEATER (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY THEATER (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY THEATER [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY THEATER [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY THEATER [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TLC (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY TLC (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TLC (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY TLC (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TLC [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY TLC [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TLC [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY TLC [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TURBO (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TURBO (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TURBO (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TURBO [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TURBO [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY TURBO [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY WORLD (FHD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY WORLD (HD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY WORLD (SD)
+http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY WORLD [FHD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY WORLD [HD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISCOVERY WORLD [SD]
+http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR (FHD)
+http://m3u.iptvlegal.tv:25461/DISNEY JR (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR (HD)
+http://m3u.iptvlegal.tv:25461/DISNEY JR (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR (SD)
+http://m3u.iptvlegal.tv:25461/DISNEY JR (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR SD
+http://m3u.iptvlegal.tv:25461/DISNEY JR SD/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR [FHD]
+http://m3u.iptvlegal.tv:25461/DISNEY JR [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR [HD]
+http://m3u.iptvlegal.tv:25461/DISNEY JR [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY JR [SD]
+http://m3u.iptvlegal.tv:25461/DISNEY JR [SD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD (FHD)
+http://m3u.iptvlegal.tv:25461/DISNEY XD (FHD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD (HD)
+http://m3u.iptvlegal.tv:25461/DISNEY XD (HD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD (SD)
+http://m3u.iptvlegal.tv:25461/DISNEY XD (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD (SD)
+http://m3u.iptvlegal.tv:25461/DISNEY XD (SD)/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD [FHD]
+http://m3u.iptvlegal.tv:25461/DISNEY XD [FHD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD [HD]
+http://m3u.iptvlegal.tv:25461/DISNEY XD [HD]/index.m3u8?token=93476
+#EXTINF:-1,DISNEY XD [SD]
+http://m3u.iptvlegal.tv:25461/DISNEY XD [SD]/index.m3u8?token=93476
+#EXTINF:-1,E! (HD)
+http://m3u.iptvlegal.tv:25461/E! (HD)/index.m3u8?token=93476
+#EXTINF:-1,E! (SD)
+http://m3u.iptvlegal.tv:25461/E! (SD)/index.m3u8?token=93476
+#EXTINF:-1,E! [HD]
+http://m3u.iptvlegal.tv:25461/E! [HD]/index.m3u8?token=93476
+#EXTINF:-1,E! [SD]
+http://m3u.iptvlegal.tv:25461/E! [SD]/index.m3u8?token=93476
+#EXTINF:-1,EI PLUS (SD)
+http://m3u.iptvlegal.tv:25461/EI PLUS (SD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN (FHD)
+http://m3u.iptvlegal.tv:25461/ESPN (FHD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN (HD)
+http://m3u.iptvlegal.tv:25461/ESPN (HD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN (SD)
+http://m3u.iptvlegal.tv:25461/ESPN (SD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN BRASIL (FHD)
+http://m3u.iptvlegal.tv:25461/ESPN BRASIL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN BRASIL (HD)
+http://m3u.iptvlegal.tv:25461/ESPN BRASIL (HD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN BRASIL (SD)
+http://m3u.iptvlegal.tv:25461/ESPN BRASIL (SD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN BRASIL [FHD]
+http://m3u.iptvlegal.tv:25461/ESPN BRASIL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN BRASIL [HD]
+http://m3u.iptvlegal.tv:25461/ESPN BRASIL [HD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN BRASIL [SD]
+http://m3u.iptvlegal.tv:25461/ESPN BRASIL [SD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN  [FHD]
+http://m3u.iptvlegal.tv:25461/ESPN  [FHD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN [FHD]
+http://m3u.iptvlegal.tv:25461/ESPN [FHD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN  [HD]
+http://m3u.iptvlegal.tv:25461/ESPN  [HD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN [HD]
+http://m3u.iptvlegal.tv:25461/ESPN [HD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN  [SD]
+http://m3u.iptvlegal.tv:25461/ESPN  [SD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN [SD]
+http://m3u.iptvlegal.tv:25461/ESPN [SD]/index.m3u8?token=93476
+#EXTINF:-1,ESPN+ (FHD)
+http://m3u.iptvlegal.tv:25461/ESPN+ (FHD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN+ (HD)
+http://m3u.iptvlegal.tv:25461/ESPN+ (HD)/index.m3u8?token=93476
+#EXTINF:-1,ESPN+ (SD)
+http://m3u.iptvlegal.tv:25461/ESPN+ (SD)/index.m3u8?token=93476
+#EXTINF:-1,FISH TV (HD)
+http://m3u.iptvlegal.tv:25461/FISH TV (HD)/index.m3u8?token=93476
+#EXTINF:-1,FISH TV (SD)
+http://m3u.iptvlegal.tv:25461/FISH TV (SD)/index.m3u8?token=93476
+#EXTINF:-1,FISH TV [HD]
+http://m3u.iptvlegal.tv:25461/FISH TV [HD]/index.m3u8?token=93476
+#EXTINF:-1,FISH TV [SD]
+http://m3u.iptvlegal.tv:25461/FISH TV [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOOD NETWORK (FHD)
+http://m3u.iptvlegal.tv:25461/FOOD NETWORK (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FOOD NETWORK (HD)
+http://m3u.iptvlegal.tv:25461/FOOD NETWORK (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOOD NETWORK (SD)
+http://m3u.iptvlegal.tv:25461/FOOD NETWORK (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOOD NETWORK [FHD]
+http://m3u.iptvlegal.tv:25461/FOOD NETWORK [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FOOD NETWORK [HD]
+http://m3u.iptvlegal.tv:25461/FOOD NETWORK [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOOD NETWORK [SD]
+http://m3u.iptvlegal.tv:25461/FOOD NETWORK [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOX (FHD)
+http://m3u.iptvlegal.tv:25461/FOX (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FOX (HD)
+http://m3u.iptvlegal.tv:25461/FOX (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOX (SD)
+http://m3u.iptvlegal.tv:25461/FOX (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOX LIFE (HD)
+http://m3u.iptvlegal.tv:25461/FOX LIFE (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOX LIFE (SD)
+http://m3u.iptvlegal.tv:25461/FOX LIFE (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOX LIFE [HD]
+http://m3u.iptvlegal.tv:25461/FOX LIFE [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOX LIFE [SD]
+http://m3u.iptvlegal.tv:25461/FOX LIFE [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 1 (FHD)
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 1 (HD)
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 1 (SD)
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 1 [FHD]
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 1 [HD]
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 1 [SD]
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 2 (FHD)
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 2 (HD)
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 2 (SD)
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 2 [FHD]
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 2 [HD]
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOX PREMIUM 2 [SD]
+http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS (FHD)
+http://m3u.iptvlegal.tv:25461/FOX SPORTS (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS (HD)
+http://m3u.iptvlegal.tv:25461/FOX SPORTS (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS (SD)
+http://m3u.iptvlegal.tv:25461/FOX SPORTS (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS 2 (FHD)
+http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS 2 (HD)
+http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 (HD)/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS 2 (SD)
+http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 (SD)/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS 2 [FHD]
+http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS 2 [HD]
+http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS 2 [SD]
+http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS [FHD]
+http://m3u.iptvlegal.tv:25461/FOX SPORTS [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS [HD]
+http://m3u.iptvlegal.tv:25461/FOX SPORTS [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOX SPORTS [SD]
+http://m3u.iptvlegal.tv:25461/FOX SPORTS [SD]/index.m3u8?token=93476
+#EXTINF:-1,FOX [FHD]
+http://m3u.iptvlegal.tv:25461/FOX [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FOX [HD]
+http://m3u.iptvlegal.tv:25461/FOX [HD]/index.m3u8?token=93476
+#EXTINF:-1,FOX [SD]
+http://m3u.iptvlegal.tv:25461/FOX [SD]/index.m3u8?token=93476
+#EXTINF:-1,FUTURA (HD)
+http://m3u.iptvlegal.tv:25461/FUTURA (HD)/index.m3u8?token=93476
+#EXTINF:-1,FUTURA (SD)
+http://m3u.iptvlegal.tv:25461/FUTURA (SD)/index.m3u8?token=93476
+#EXTINF:-1,FUTURA [SD]
+http://m3u.iptvlegal.tv:25461/FUTURA [SD]/index.m3u8?token=93476
+#EXTINF:-1,FX (FHD)
+http://m3u.iptvlegal.tv:25461/FX (FHD)/index.m3u8?token=93476
+#EXTINF:-1,FX (HD)
+http://m3u.iptvlegal.tv:25461/FX (HD)/index.m3u8?token=93476
+#EXTINF:-1,FX (SD)
+http://m3u.iptvlegal.tv:25461/FX (SD)/index.m3u8?token=93476
+#EXTINF:-1,FX [FHD]
+http://m3u.iptvlegal.tv:25461/FX [FHD]/index.m3u8?token=93476
+#EXTINF:-1,FX [HD]
+http://m3u.iptvlegal.tv:25461/FX [HD]/index.m3u8?token=93476
+#EXTINF:-1,FX [SD]
+http://m3u.iptvlegal.tv:25461/FX [SD]/index.m3u8?token=93476
+#EXTINF:-1,GNT (HD)
+http://m3u.iptvlegal.tv:25461/GNT (HD)/index.m3u8?token=93476
+#EXTINF:-1,GNT (SD)
+http://m3u.iptvlegal.tv:25461/GNT (SD)/index.m3u8?token=93476
+#EXTINF:-1,GNT [HD]
+http://m3u.iptvlegal.tv:25461/GNT [HD]/index.m3u8?token=93476
+#EXTINF:-1,GNT [SD]
+http://m3u.iptvlegal.tv:25461/GNT [SD]/index.m3u8?token=93476
+#EXTINF:-1,H2 (FHD)
+http://m3u.iptvlegal.tv:25461/H2 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,H2 (HD)
+http://m3u.iptvlegal.tv:25461/H2 (HD)/index.m3u8?token=93476
+#EXTINF:-1,H2 (SD)
+http://m3u.iptvlegal.tv:25461/H2 (SD)/index.m3u8?token=93476
+#EXTINF:-1,H2 [FHD]
+http://m3u.iptvlegal.tv:25461/H2 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,H2 [HD]
+http://m3u.iptvlegal.tv:25461/H2 [HD]/index.m3u8?token=93476
+#EXTINF:-1,H2 [SD]
+http://m3u.iptvlegal.tv:25461/H2 [SD]/index.m3u8?token=93476
+#EXTINF:-1,HBO (FHD)
+http://m3u.iptvlegal.tv:25461/HBO (FHD)/index.m3u8?token=93476
+#EXTINF:-1,HBO (HD)
+http://m3u.iptvlegal.tv:25461/HBO (HD)/index.m3u8?token=93476
+#EXTINF:-1,HBO (SD)
+http://m3u.iptvlegal.tv:25461/HBO (SD)/index.m3u8?token=93476
+#EXTINF:-1,HBO 2 (FHD)
+http://m3u.iptvlegal.tv:25461/HBO 2 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,HBO 2 (HD)
+http://m3u.iptvlegal.tv:25461/HBO 2 (HD)/index.m3u8?token=93476
+#EXTINF:-1,HBO 2 (SD)
+http://m3u.iptvlegal.tv:25461/HBO 2 (SD)/index.m3u8?token=93476
+#EXTINF:-1,HBO 2 [FHD]
+http://m3u.iptvlegal.tv:25461/HBO 2 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,HBO 2 [HD]
+http://m3u.iptvlegal.tv:25461/HBO 2 [HD]/index.m3u8?token=93476
+#EXTINF:-1,HBO 2 [SD]
+http://m3u.iptvlegal.tv:25461/HBO 2 [SD]/index.m3u8?token=93476
+#EXTINF:-1,HBO FAMILY (HD)
+http://m3u.iptvlegal.tv:25461/HBO FAMILY (HD)/index.m3u8?token=93476
+#EXTINF:-1,HBO FAMILY (SD)
+http://m3u.iptvlegal.tv:25461/HBO FAMILY (SD)/index.m3u8?token=93476
+#EXTINF:-1,HBO FAMILY [HD]
+http://m3u.iptvlegal.tv:25461/HBO FAMILY [HD]/index.m3u8?token=93476
+#EXTINF:-1,HBO FAMILY [SD]
+http://m3u.iptvlegal.tv:25461/HBO FAMILY [SD]/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS (FHD)
+http://m3u.iptvlegal.tv:25461/HBO PLUS (FHD)/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS (HD)
+http://m3u.iptvlegal.tv:25461/HBO PLUS (HD)/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS (SD)
+http://m3u.iptvlegal.tv:25461/HBO PLUS (SD)/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS [FHD]
+http://m3u.iptvlegal.tv:25461/HBO PLUS [FHD]/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS [HD]
+http://m3u.iptvlegal.tv:25461/HBO PLUS [HD]/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS [SD]
+http://m3u.iptvlegal.tv:25461/HBO PLUS [SD]/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS*E (HD)
+http://m3u.iptvlegal.tv:25461/HBO PLUS*E (HD)/index.m3u8?token=93476
+#EXTINF:-1,HBO PLUS*E (SD)
+http://m3u.iptvlegal.tv:25461/HBO PLUS*E (SD)/index.m3u8?token=93476
+#EXTINF:-1,HBO SIGNATURE (FHD)
+http://m3u.iptvlegal.tv:25461/HBO SIGNATURE (FHD)/index.m3u8?token=93476
+#EXTINF:-1,HBO SIGNATURE (HD)
+http://m3u.iptvlegal.tv:25461/HBO SIGNATURE (HD)/index.m3u8?token=93476
+#EXTINF:-1,HBO SIGNATURE (SD)
+http://m3u.iptvlegal.tv:25461/HBO SIGNATURE (SD)/index.m3u8?token=93476
+#EXTINF:-1,HBO SIGNATURE [FHD]
+http://m3u.iptvlegal.tv:25461/HBO SIGNATURE [FHD]/index.m3u8?token=93476
+#EXTINF:-1,HBO SIGNATURE [HD]
+http://m3u.iptvlegal.tv:25461/HBO SIGNATURE [HD]/index.m3u8?token=93476
+#EXTINF:-1,HBO SIGNATURE [SD]
+http://m3u.iptvlegal.tv:25461/HBO SIGNATURE [SD]/index.m3u8?token=93476
+#EXTINF:-1,HBO [FHD]
+http://m3u.iptvlegal.tv:25461/HBO [FHD]/index.m3u8?token=93476
+#EXTINF:-1,HBO [HD]
+http://m3u.iptvlegal.tv:25461/HBO [HD]/index.m3u8?token=93476
+#EXTINF:-1,HISTORY CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,HISTORY CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL (HD)/index.m3u8?token=93476
+#EXTINF:-1,HISTORY CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL (SD)/index.m3u8?token=93476
+#EXTINF:-1,HISTORY CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,HISTORY CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL [HD]/index.m3u8?token=93476
+#EXTINF:-1,HISTORY CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL [SD]/index.m3u8?token=93476
+#EXTINF:-1,LIFETIME (HD)
+http://m3u.iptvlegal.tv:25461/LIFETIME (HD)/index.m3u8?token=93476
+#EXTINF:-1,LIFETIME (SD)
+http://m3u.iptvlegal.tv:25461/LIFETIME (SD)/index.m3u8?token=93476
+#EXTINF:-1,LIFETIME [HD]
+http://m3u.iptvlegal.tv:25461/LIFETIME [HD]/index.m3u8?token=93476
+#EXTINF:-1,LIFETIME [SD]
+http://m3u.iptvlegal.tv:25461/LIFETIME [SD]/index.m3u8?token=93476
+#EXTINF:-1,MAX (HD)
+http://m3u.iptvlegal.tv:25461/MAX (HD)/index.m3u8?token=93476
+#EXTINF:-1,MAX (SD)
+http://m3u.iptvlegal.tv:25461/MAX (SD)/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME (FHD)
+http://m3u.iptvlegal.tv:25461/MAX PRIME (FHD)/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME (HD)
+http://m3u.iptvlegal.tv:25461/MAX PRIME (HD)/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME (SD)
+http://m3u.iptvlegal.tv:25461/MAX PRIME (SD)/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME [FHD]
+http://m3u.iptvlegal.tv:25461/MAX PRIME [FHD]/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME [HD]
+http://m3u.iptvlegal.tv:25461/MAX PRIME [HD]/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME [SD]
+http://m3u.iptvlegal.tv:25461/MAX PRIME [SD]/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME*E (HD)
+http://m3u.iptvlegal.tv:25461/MAX PRIME*E (HD)/index.m3u8?token=93476
+#EXTINF:-1,MAX PRIME*E (SD)
+http://m3u.iptvlegal.tv:25461/MAX PRIME*E (SD)/index.m3u8?token=93476
+#EXTINF:-1,MAX UP (HD)
+http://m3u.iptvlegal.tv:25461/MAX UP (HD)/index.m3u8?token=93476
+#EXTINF:-1,MAX UP (SD)
+http://m3u.iptvlegal.tv:25461/MAX UP (SD)/index.m3u8?token=93476
+#EXTINF:-1,MAX UP [HD]
+http://m3u.iptvlegal.tv:25461/MAX UP [HD]/index.m3u8?token=93476
+#EXTINF:-1,MAX UP [SD]
+http://m3u.iptvlegal.tv:25461/MAX UP [SD]/index.m3u8?token=93476
+#EXTINF:-1,MAX [HD]
+http://m3u.iptvlegal.tv:25461/MAX [HD]/index.m3u8?token=93476
+#EXTINF:-1,MAX [SD]
+http://m3u.iptvlegal.tv:25461/MAX [SD]/index.m3u8?token=93476
+#EXTINF:-1,MEGAPIX (FHD)
+http://m3u.iptvlegal.tv:25461/MEGAPIX (FHD)/index.m3u8?token=93476
+#EXTINF:-1,MEGAPIX (HD)
+http://m3u.iptvlegal.tv:25461/MEGAPIX (HD)/index.m3u8?token=93476
+#EXTINF:-1,MEGAPIX (SD)
+http://m3u.iptvlegal.tv:25461/MEGAPIX (SD)/index.m3u8?token=93476
+#EXTINF:-1,MEGAPIX [FHD]
+http://m3u.iptvlegal.tv:25461/MEGAPIX [FHD]/index.m3u8?token=93476
+#EXTINF:-1,MEGAPIX [HD]
+http://m3u.iptvlegal.tv:25461/MEGAPIX [HD]/index.m3u8?token=93476
+#EXTINF:-1,MEGAPIX [SD]
+http://m3u.iptvlegal.tv:25461/MEGAPIX [SD]/index.m3u8?token=93476
+#EXTINF:-1,NAT GEO KIDS (FHD)
+http://m3u.iptvlegal.tv:25461/NAT GEO KIDS (FHD)/index.m3u8?token=93476
+#EXTINF:-1,NAT GEO KIDS [FHD]
+http://m3u.iptvlegal.tv:25461/NAT GEO KIDS [FHD]/index.m3u8?token=93476
+#EXTINF:-1,NATGEO (FHD)
+http://m3u.iptvlegal.tv:25461/NATGEO (FHD)/index.m3u8?token=93476
+#EXTINF:-1,NATGEO KIDS (HD)
+http://m3u.iptvlegal.tv:25461/NATGEO KIDS (HD)/index.m3u8?token=93476
+#EXTINF:-1,NATGEO KIDS (SD)
+http://m3u.iptvlegal.tv:25461/NATGEO KIDS (SD)/index.m3u8?token=93476
+#EXTINF:-1,NATGEO KIDS [HD]
+http://m3u.iptvlegal.tv:25461/NATGEO KIDS [HD]/index.m3u8?token=93476
+#EXTINF:-1,NATGEO WILD (FHD)
+http://m3u.iptvlegal.tv:25461/NATGEO WILD (FHD)/index.m3u8?token=93476
+#EXTINF:-1,NATGEO WILD (HD)
+http://m3u.iptvlegal.tv:25461/NATGEO WILD (HD)/index.m3u8?token=93476
+#EXTINF:-1,NATGEO WILD (SD)
+http://m3u.iptvlegal.tv:25461/NATGEO WILD (SD)/index.m3u8?token=93476
+#EXTINF:-1,NATGEO WILD [FHD]
+http://m3u.iptvlegal.tv:25461/NATGEO WILD [FHD]/index.m3u8?token=93476
+#EXTINF:-1,NATGEO WILD [HD]
+http://m3u.iptvlegal.tv:25461/NATGEO WILD [HD]/index.m3u8?token=93476
+#EXTINF:-1,NATIONAL GEOGRAPHIC (FHD)
+http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC (FHD)/index.m3u8?token=93476
+#EXTINF:-1,NATIONAL GEOGRAPHIC (HD)
+http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC (HD)/index.m3u8?token=93476
+#EXTINF:-1,NATIONAL GEOGRAPHIC (SD)
+http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC (SD)/index.m3u8?token=93476
+#EXTINF:-1,NATIONAL GEOGRAPHIC [FHD]
+http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC [FHD]/index.m3u8?token=93476
+#EXTINF:-1,NATIONAL GEOGRAPHIC [HD]
+http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC [HD]/index.m3u8?token=93476
+#EXTINF:-1,NICK JR (FHD)
+http://m3u.iptvlegal.tv:25461/NICK JR (FHD)/index.m3u8?token=93476
+#EXTINF:-1,NICK JR (HD)
+http://m3u.iptvlegal.tv:25461/NICK JR (HD)/index.m3u8?token=93476
+#EXTINF:-1,NICK JR SD
+http://m3u.iptvlegal.tv:25461/NICK JR SD/index.m3u8?token=93476
+#EXTINF:-1,NICK JR [FHD]
+http://m3u.iptvlegal.tv:25461/NICK JR [FHD]/index.m3u8?token=93476
+#EXTINF:-1,NICK JR [HD]
+http://m3u.iptvlegal.tv:25461/NICK JR [HD]/index.m3u8?token=93476
+#EXTINF:-1,NICK JR [SD]
+http://m3u.iptvlegal.tv:25461/NICK JR [SD]/index.m3u8?token=93476
+#EXTINF:-1,NICKELODEON (HD)
+http://m3u.iptvlegal.tv:25461/NICKELODEON (HD)/index.m3u8?token=93476
+#EXTINF:-1,NICKELODEON SD
+http://m3u.iptvlegal.tv:25461/NICKELODEON SD/index.m3u8?token=93476
+#EXTINF:-1,NICKELODEON [HD]
+http://m3u.iptvlegal.tv:25461/NICKELODEON [HD]/index.m3u8?token=93476
+#EXTINF:-1,PARAMOUNT CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PARAMOUNT CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL (HD)/index.m3u8?token=93476
+#EXTINF:-1,PARAMOUNT CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL (SD)/index.m3u8?token=93476
+#EXTINF:-1,PARAMOUNT CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PARAMOUNT CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL [HD]/index.m3u8?token=93476
+#EXTINF:-1,PARAMOUNT CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL [SD]/index.m3u8?token=93476
+#EXTINF:-1,PASSIE [SD]
+http://m3u.iptvlegal.tv:25461/PASSIE [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 1 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 1 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 1 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 1 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 2 (FHD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 2 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 2 (HD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 2 (HD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 2 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 2 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 2 [FHD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 2 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 2 [HD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 2 [HD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 2 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 2 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 3 (FHD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 3 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 3 (HD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 3 (HD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 3 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 3 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 3 [FHD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 3 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 3 [HD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 3 [HD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 3 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 3 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 4 (FHD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 4 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 4 (HD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 4 (HD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 4 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 4 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 4 [FHD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 4 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 4 [HD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 4 [HD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 4 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 4 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 5 (FHD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 5 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 5 (HD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 5 (HD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 5 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 5 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 5 [FHD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 5 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 5 [HD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 5 [HD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 5 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 5 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 6 (FHD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 6 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 6 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 6 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 6 [FHD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 6 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 6 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 6 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 7 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 7 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 7 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 7 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 8 (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE 8 (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE 8 [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE 8 [SD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE CLUBES (FHD)
+http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES (FHD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE CLUBES (HD)
+http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES (HD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE CLUBES (SD)
+http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES (SD)/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE CLUBES [FHD]
+http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES [FHD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE CLUBES [HD]
+http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES [HD]/index.m3u8?token=93476
+#EXTINF:-1,PREMIERE CLUBES [SD]
+http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES [SD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV (FHD)
+http://m3u.iptvlegal.tv:25461/SPORTV (FHD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV (HD)
+http://m3u.iptvlegal.tv:25461/SPORTV (HD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV (SD)
+http://m3u.iptvlegal.tv:25461/SPORTV (SD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 2 (FHD)
+http://m3u.iptvlegal.tv:25461/SPORTV 2 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 2 (HD)
+http://m3u.iptvlegal.tv:25461/SPORTV 2 (HD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 2 (SD)
+http://m3u.iptvlegal.tv:25461/SPORTV 2 (SD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 2 [FHD]
+http://m3u.iptvlegal.tv:25461/SPORTV 2 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 2 [HD]
+http://m3u.iptvlegal.tv:25461/SPORTV 2 [HD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 2 [SD]
+http://m3u.iptvlegal.tv:25461/SPORTV 2 [SD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 3 (FHD)
+http://m3u.iptvlegal.tv:25461/SPORTV 3 (FHD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 3 (HD)
+http://m3u.iptvlegal.tv:25461/SPORTV 3 (HD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 3 (SD)
+http://m3u.iptvlegal.tv:25461/SPORTV 3 (SD)/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 3 [FHD]
+http://m3u.iptvlegal.tv:25461/SPORTV 3 [FHD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 3 [HD]
+http://m3u.iptvlegal.tv:25461/SPORTV 3 [HD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV 3 [SD]
+http://m3u.iptvlegal.tv:25461/SPORTV 3 [SD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV [FHD]
+http://m3u.iptvlegal.tv:25461/SPORTV [FHD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV [HD]
+http://m3u.iptvlegal.tv:25461/SPORTV [HD]/index.m3u8?token=93476
+#EXTINF:-1,SPORTV [SD]
+http://m3u.iptvlegal.tv:25461/SPORTV [SD]/index.m3u8?token=93476
+#EXTINF:-1,STUDIO UNIVERSAL (FHD)
+http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,STUDIO UNIVERSAL (HD)
+http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL (HD)/index.m3u8?token=93476
+#EXTINF:-1,STUDIO UNIVERSAL (SD)
+http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL (SD)/index.m3u8?token=93476
+#EXTINF:-1,STUDIO UNIVERSAL [FHD]
+http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,STUDIO UNIVERSAL [HD]
+http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL [HD]/index.m3u8?token=93476
+#EXTINF:-1,STUDIO UNIVERSAL [SD]
+http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL [SD]/index.m3u8?token=93476
+#EXTINF:-1,SYFY (FHD)
+http://m3u.iptvlegal.tv:25461/SYFY (FHD)/index.m3u8?token=93476
+#EXTINF:-1,SYFY (HD)
+http://m3u.iptvlegal.tv:25461/SYFY (HD)/index.m3u8?token=93476
+#EXTINF:-1,SYFY (SD)
+http://m3u.iptvlegal.tv:25461/SYFY (SD)/index.m3u8?token=93476
+#EXTINF:-1,SYFY [FHD]
+http://m3u.iptvlegal.tv:25461/SYFY [FHD]/index.m3u8?token=93476
+#EXTINF:-1,SYFY [HD]
+http://m3u.iptvlegal.tv:25461/SYFY [HD]/index.m3u8?token=93476
+#EXTINF:-1,SYFY [SD]
+http://m3u.iptvlegal.tv:25461/SYFY [SD]/index.m3u8?token=93476
+#EXTINF:-1,TBS (SD)
+http://m3u.iptvlegal.tv:25461/TBS (SD)/index.m3u8?token=93476
+#EXTINF:-1,TBS [SD]
+http://m3u.iptvlegal.tv:25461/TBS [SD]/index.m3u8?token=93476
+#EXTINF:-1,TCM (SD)
+http://m3u.iptvlegal.tv:25461/TCM (SD)/index.m3u8?token=93476
+#EXTINF:-1,TCM [SD]
+http://m3u.iptvlegal.tv:25461/TCM [SD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE ACTION (FHD)
+http://m3u.iptvlegal.tv:25461/TELECINE ACTION (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE ACTION (HD)
+http://m3u.iptvlegal.tv:25461/TELECINE ACTION (HD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE ACTION (SD)
+http://m3u.iptvlegal.tv:25461/TELECINE ACTION (SD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE ACTION [FHD]
+http://m3u.iptvlegal.tv:25461/TELECINE ACTION [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE ACTION [HD]
+http://m3u.iptvlegal.tv:25461/TELECINE ACTION [HD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE ACTION [SD]
+http://m3u.iptvlegal.tv:25461/TELECINE ACTION [SD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE CULT (FHD)
+http://m3u.iptvlegal.tv:25461/TELECINE CULT (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE CULT (HD)
+http://m3u.iptvlegal.tv:25461/TELECINE CULT (HD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE CULT (SD)
+http://m3u.iptvlegal.tv:25461/TELECINE CULT (SD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE CULT [FHD]
+http://m3u.iptvlegal.tv:25461/TELECINE CULT [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE CULT [HD]
+http://m3u.iptvlegal.tv:25461/TELECINE CULT [HD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE CULT [SD]
+http://m3u.iptvlegal.tv:25461/TELECINE CULT [SD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE FUN (FHD)
+http://m3u.iptvlegal.tv:25461/TELECINE FUN (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE FUN (HD)
+http://m3u.iptvlegal.tv:25461/TELECINE FUN (HD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE FUN (SD)
+http://m3u.iptvlegal.tv:25461/TELECINE FUN (SD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE FUN [FHD]
+http://m3u.iptvlegal.tv:25461/TELECINE FUN [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE FUN [HD]
+http://m3u.iptvlegal.tv:25461/TELECINE FUN [HD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE FUN [SD]
+http://m3u.iptvlegal.tv:25461/TELECINE FUN [SD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PIPOCA (FHD)
+http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PIPOCA (HD)
+http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA (HD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PIPOCA (SD)
+http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA (SD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PIPOCA [FHD]
+http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PIPOCA [HD]
+http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA [HD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PIPOCA [SD]
+http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA [SD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PREMIUM (FHD)
+http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PREMIUM (HD)
+http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM (HD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PREMIUM (SD)
+http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM (SD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PREMIUM [FHD]
+http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PREMIUM [HD]
+http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM [HD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE PREMIUM [SD]
+http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM [SD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE TOUCH (FHD)
+http://m3u.iptvlegal.tv:25461/TELECINE TOUCH (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE TOUCH (HD)
+http://m3u.iptvlegal.tv:25461/TELECINE TOUCH (HD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE TOUCH (SD)
+http://m3u.iptvlegal.tv:25461/TELECINE TOUCH (SD)/index.m3u8?token=93476
+#EXTINF:-1,TELECINE TOUCH [FHD]
+http://m3u.iptvlegal.tv:25461/TELECINE TOUCH [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE TOUCH [HD]
+http://m3u.iptvlegal.tv:25461/TELECINE TOUCH [HD]/index.m3u8?token=93476
+#EXTINF:-1,TELECINE TOUCH [SD]
+http://m3u.iptvlegal.tv:25461/TELECINE TOUCH [SD]/index.m3u8?token=93476
+#EXTINF:-1,TNT (FHD)
+http://m3u.iptvlegal.tv:25461/TNT (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TNT (HD)
+http://m3u.iptvlegal.tv:25461/TNT (HD)/index.m3u8?token=93476
+#EXTINF:-1,TNT (SD)
+http://m3u.iptvlegal.tv:25461/TNT (SD)/index.m3u8?token=93476
+#EXTINF:-1,TNT SERIES (FHD)
+http://m3u.iptvlegal.tv:25461/TNT SERIES (FHD)/index.m3u8?token=93476
+#EXTINF:-1,TNT SERIES (HD)
+http://m3u.iptvlegal.tv:25461/TNT SERIES (HD)/index.m3u8?token=93476
+#EXTINF:-1,TNT SERIES (SD)
+http://m3u.iptvlegal.tv:25461/TNT SERIES (SD)/index.m3u8?token=93476
+#EXTINF:-1,TNT SERIES [FHD]
+http://m3u.iptvlegal.tv:25461/TNT SERIES [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TNT SERIES [HD]
+http://m3u.iptvlegal.tv:25461/TNT SERIES [HD]/index.m3u8?token=93476
+#EXTINF:-1,TNT SERIES [SD]
+http://m3u.iptvlegal.tv:25461/TNT SERIES [SD]/index.m3u8?token=93476
+#EXTINF:-1,TNT [FHD]
+http://m3u.iptvlegal.tv:25461/TNT [FHD]/index.m3u8?token=93476
+#EXTINF:-1,TNT [HD]
+http://m3u.iptvlegal.tv:25461/TNT [HD]/index.m3u8?token=93476
+#EXTINF:-1,TNT [SD]
+http://m3u.iptvlegal.tv:25461/TNT [SD]/index.m3u8?token=93476
+#EXTINF:-1,TOONCAST (HD)
+http://m3u.iptvlegal.tv:25461/TOONCAST (HD)/index.m3u8?token=93476
+#EXTINF:-1,TOONCAST SD
+http://m3u.iptvlegal.tv:25461/TOONCAST SD/index.m3u8?token=93476
+#EXTINF:-1,TOONCAST [HD]
+http://m3u.iptvlegal.tv:25461/TOONCAST [HD]/index.m3u8?token=93476
+#EXTINF:-1,TOONCAST [SD]
+http://m3u.iptvlegal.tv:25461/TOONCAST [SD]/index.m3u8?token=93476
+#EXTINF:-1,TV GAZETA (SD)
+http://m3u.iptvlegal.tv:25461/TV GAZETA (SD)/index.m3u8?token=93476
+#EXTINF:-1,TV GAZETA [SD]
+http://m3u.iptvlegal.tv:25461/TV GAZETA [SD]/index.m3u8?token=93476
+#EXTINF:-1,UNIVERSAL CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,UNIVERSAL CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL (HD)/index.m3u8?token=93476
+#EXTINF:-1,UNIVERSAL CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL (SD)/index.m3u8?token=93476
+#EXTINF:-1,UNIVERSAL CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,UNIVERSAL CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL [HD]/index.m3u8?token=93476
+#EXTINF:-1,UNIVERSAL CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL [SD]/index.m3u8?token=93476
+#EXTINF:-1,WARNER CHANNEL (FHD)
+http://m3u.iptvlegal.tv:25461/WARNER CHANNEL (FHD)/index.m3u8?token=93476
+#EXTINF:-1,WARNER CHANNEL (HD)
+http://m3u.iptvlegal.tv:25461/WARNER CHANNEL (HD)/index.m3u8?token=93476
+#EXTINF:-1,WARNER CHANNEL (SD)
+http://m3u.iptvlegal.tv:25461/WARNER CHANNEL (SD)/index.m3u8?token=93476
+#EXTINF:-1,WARNER CHANNEL [FHD]
+http://m3u.iptvlegal.tv:25461/WARNER CHANNEL [FHD]/index.m3u8?token=93476
+#EXTINF:-1,WARNER CHANNEL [HD]
+http://m3u.iptvlegal.tv:25461/WARNER CHANNEL [HD]/index.m3u8?token=93476
+#EXTINF:-1,WARNER CHANNEL [SD]
+http://m3u.iptvlegal.tv:25461/WARNER CHANNEL [SD]/index.m3u8?token=93476
