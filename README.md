@@ -865,9 +865,3 @@ http://painel.ebanonet.com.br:25461/brauliofranques/01101977/20456
 http://painel.ebanonet.com.br:25461/brauliofranques/01101977/4307
 #EXTINF:-1,WARNER CHANNEL SD*
 http://painel.ebanonet.com.br:25461/brauliofranques/01101977/20457
-#EXTINF:-1,WOOHOO SD*
-http://painel.ebanonet.com.br:25461/brauliofranques/01101977/20453
-#EXTINF:-1,WOOHOO SD
-http://painel.ebanonet.com.br:25461/brauliofranques/01101977/4306
-#EXTINF:-1,ZOOMOO SD
-http://painel.ebanonet.com.br:25461/brauliofranques/01101977/20450
