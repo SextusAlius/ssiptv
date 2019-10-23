@@ -1,1838 +1,604 @@
 #EXTM3U
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+http://load.kudaplay.tv/aovivo/SD_AE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
+http://load.kudaplay.tv/aovivo/FHD_AE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
+http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="A&E HD [Alter]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_AE_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
+http://load.kudaplay.tv/aovivo/SD_AMC/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AMC FHD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC FHD
+http://load.kudaplay.tv/aovivo/FHD_AMC/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC HD
+http://load.kudaplay.tv/aovivo/HD_AMC/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AMC HD [Alter]" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_AMC_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filme e Serie",AXN
+http://load.kudaplay.tv/aovivo/SD_AXN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AXN FHD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN FHD
+http://load.kudaplay.tv/aovivo/FHD_AXN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN HD
+http://load.kudaplay.tv/aovivo/HD_AXN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="AXN HD [Alter]" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_AXN_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+http://load.kudaplay.tv/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet FHD
+http://load.kudaplay.tv/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet HD
+http://load.kudaplay.tv/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD [Alter]" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports
+http://load.kudaplay.tv/aovivo/SD_BAND_SPORTS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Band Sports FHD" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports FHD
+http://load.kudaplay.tv/aovivo/FHD_BAND_SPORTS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports HD
+http://load.kudaplay.tv/aovivo/HD_BAND_SPORTS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD [Alter]" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang
+http://load.kudaplay.tv/aovivo/SD_BOOMERANG/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Boomerang FHD" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang FHD
+http://load.kudaplay.tv/aovivo/FHD_BOOMERANG/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Boomerang HD" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang HD
+http://load.kudaplay.tv/aovivo/HD_BOOMERANG/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Boomerang HD [Alter]" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="CNN Internacional FHD" tvg-logo="https://i.ibb.co/X4JhqpB/cnni.png" group-title="Notícia e Internacional",CNN Internacional FHD
+http://load.kudaplay.tv/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="CNN International HD" tvg-logo="https://i.ibb.co/X4JhqpB/cnni.png" group-title="Notícia e Internacional",CNN International HD
+http://load.kudaplay.tv/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+http://load.kudaplay.tv/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network FHD" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network FHD
+http://load.kudaplay.tv/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network HD
+http://load.kudaplay.tv/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD [Alter]" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
+http://load.kudaplay.tv/aovivo/SD_CINEMAX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cinemax FHD" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax FHD
+http://load.kudaplay.tv/aovivo/FHD_CINEMAX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax HD
+http://load.kudaplay.tv/aovivo/HD_CINEMAX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD [Alter]" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+http://load.kudaplay.tv/aovivo/SD_COMBATE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate FHD
+http://load.kudaplay.tv/aovivo/FHD_COMBATE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD
+http://load.kudaplay.tv/aovivo/HD_COMBATE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Combate HD [Alter]" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_COMBATE_ALTER/video.m3u8?token=
+#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/gWQzZk8/dazn.jpg" group-title="Esporte",DAZN 1 HD
+http://load.kudaplay.tv/aovivo/HD_DAZN_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/gWQzZk8/dazn.jpg" group-title="Esporte",DAZN 2 HD
+http://load.kudaplay.tv/aovivo/HD_DAZN_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel FHD " tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel FHD 
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD [Alter]" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Civilization FHD" tvg-logo="https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title="Documentario",Discovery Civilization FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_CIVILIZATION/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Civilization HD" tvg-logo="https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title="Documentario",Discovery Civilization HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_CIVILIZATION/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Civilization HD [Alter]" tvg-logo="https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title="Documentario",Discovery Civilization HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_CIVILIZATION_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Home & Health" tvg-logo="https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title="Variedade",Discovery Home & Health
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Home & Health FHD" tvg-logo="https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title="Variedade",Discovery Home & Health FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Home & Health HD" tvg-logo="https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title="Variedade",Discovery Home & Health HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Home & Health HD [Alter]" tvg-logo="https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title="Variedade",Discovery Home & Health HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Infantil",Discovery Kids FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids HD" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids HD [Alter]" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Science FHD" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Science HD" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Science HD [Alter]" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater FHD" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD [Alter]" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo FHD" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD [Alter]" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery World" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery World FHD" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World FHD
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World HD
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Discovery World HD [Alter]" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
+http://load.kudaplay.tv/aovivo/SD_DISNEY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney Channel FHD" tvg-logo="https://i.ibb.co/2NTFC8F/disneyhd.png" group-title="Infantil",Disney Channel FHD
+http://load.kudaplay.tv/aovivo/FHD_DISNEY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD
+http://load.kudaplay.tv/aovivo/HD_DISNEY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD [Alter]" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISNEY_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR
+http://load.kudaplay.tv/aovivo/SD_DISNEY_JR/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney JR FHD" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR FHD
+http://load.kudaplay.tv/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney JR HD" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR HD
+http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney JR HD [Alter]" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD
+http://load.kudaplay.tv/aovivo/SD_DISNEY_XD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney XD HD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD HD
+http://load.kudaplay.tv/aovivo/HD_DISNEY_XD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Disney XD HD [Alter]" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_DISNEY_XD_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="E!" tvg-logo="https://i.ibb.co/qBfvJ1m/eentertainmentb.png" group-title="Variedade",E!
+http://load.kudaplay.tv/aovivo/SD_E/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="E! HD" tvg-logo="https://i.ibb.co/qBfvJ1m/eentertainmentb.png" group-title="Variedade",E! HD
+http://load.kudaplay.tv/aovivo/HD_E/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="E! HD [Alter]" tvg-logo="https://i.ibb.co/qBfvJ1m/eentertainmentb.png" group-title="Variedade",E! HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_E_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
+http://load.kudaplay.tv/aovivo/SD_ESPN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
+http://load.kudaplay.tv/aovivo/SD_ESPN_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 FHD" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_ESPN_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 HD" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2 HD
+http://load.kudaplay.tv/aovivo/HD_ESPN_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 HD [Alter]" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_ESPN_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
+http://load.kudaplay.tv/aovivo/SD_ESPN_BRASIL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn Brasil FHD" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",Espn Brasil FHD
+http://load.kudaplay.tv/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn Brasil HD" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",Espn Brasil HD
+http://load.kudaplay.tv/aovivo/HD_ESPN_BRASIL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn Brasil HD [Alter]" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",Espn Brasil HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",Espn Extra
+http://load.kudaplay.tv/aovivo/SD_ESPN_EXTRA/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn Extra HD" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",Espn Extra HD
+http://load.kudaplay.tv/aovivo/HD_ESPN_EXTRA/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn FHD" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",Espn FHD
+http://load.kudaplay.tv/aovivo/FHD_ESPN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn HD" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",Espn HD
+http://load.kudaplay.tv/aovivo/HD_ESPN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Espn HD [Alter]" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",Espn HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_ESPN_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 1" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esporte",Esporte Interativo 1
+http://load.kudaplay.tv/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="https://http2.mlstatic.com/D_NP_742295-MLB29396594362_022019-X.jpg" group-title="Esporte",Esporte Interativo 2
+http://load.kudaplay.tv/aovivo/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Esporte interativo 1 [Alter]" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esporte",Esporte interativo 1 [Alter]
+http://load.kudaplay.tv/aovivo/HD_ESPORTE_INTERATIVO_1_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Esporte interativo 2 [Alter]" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esporte",Esporte interativo 2 [Alter]
+http://load.kudaplay.tv/aovivo/HD_ESPORTE_INTERATIVO_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
+http://load.kudaplay.tv/aovivo/SD_FX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="FX FHD" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX FHD
+http://load.kudaplay.tv/aovivo/FHD_FX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="FX HD" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX HD
+http://load.kudaplay.tv/aovivo/HD_FX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="FX HD [Alter]" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FX_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fish TV" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png" group-title="Variedade",Fish TV
+http://load.kudaplay.tv/aovivo/SD_FISH_TV/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fish TV HD" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png" group-title="Variedade",Fish TV HD
+http://load.kudaplay.tv/aovivo/HD_FISH_TV/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Food Network" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network
+http://load.kudaplay.tv/aovivo/SD_FOOD_NETWORK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Food Network FHD" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network FHD
+http://load.kudaplay.tv/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Food Network HD" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network HD
+http://load.kudaplay.tv/aovivo/HD_FOOD_NETWORK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Food Network HD [Alter]" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
+http://load.kudaplay.tv/aovivo/SD_FOX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox FHD
+http://load.kudaplay.tv/aovivo/FHD_FOX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox HD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox HD
+http://load.kudaplay.tv/aovivo/HD_FOX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox HD [Alter]" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Life" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title="Variedade",Fox Life
+http://load.kudaplay.tv/aovivo/SD_FOX_LIFE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Life FHD" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title="Entretenimento",Fox Life FHD
+http://load.kudaplay.tv/aovivo/FHD_FOX_LIFE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Life HD" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title="Variedade",Fox Life HD
+http://load.kudaplay.tv/aovivo/HD_FOX_LIFE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Life HD [Alter]" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title="Variedade",Fox Life HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1 HD
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD [Alter]" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2 HD
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 2 HD [Alter]" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports
+http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2
+http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 FHD" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD [Alter]" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports FHD
+http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD [Alter]" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
+http://load.kudaplay.tv/aovivo/SD_HBO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2
+http://load.kudaplay.tv/aovivo/SD_HBO_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO 2 FHD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2 HD
+http://load.kudaplay.tv/aovivo/HD_HBO_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD [Alter]" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO FHD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family
+http://load.kudaplay.tv/aovivo/SD_HBO_FAMILY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Family FHD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family HD
+http://load.kudaplay.tv/aovivo/HD_HBO_FAMILY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD [Alter]" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO HD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO HD
+http://load.kudaplay.tv/aovivo/HD_HBO_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO HD [Alter]" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus
+http://load.kudaplay.tv/aovivo/SD_HBO_PLUS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Plus FHD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_PLUS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Plus HD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus HD
+http://load.kudaplay.tv/aovivo/HD_HBO_PLUS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Plus HD [Alter]" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Plus*e" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_HBO_PLUS_E.png" group-title="Filme e Serie",HBO Plus*e
+http://load.kudaplay.tv/aovivo/SD_HBO_PLUS_E/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Plus*e HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_HBO_PLUS_E.png" group-title="TV Aberta",HBO Plus*e HD
+http://load.kudaplay.tv/aovivo/HD_HBO_PLUS_E/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature
+http://load.kudaplay.tv/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Signature FHD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature HD
+http://load.kudaplay.tv/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD [Alter]" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History
+http://load.kudaplay.tv/aovivo/SD_HISTORY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Filme e Serie",History 2
+http://load.kudaplay.tv/aovivo/SD_H2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History 2 FHD" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Documentario",History 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_H2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History 2 HD" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Documentario",History 2 HD
+http://load.kudaplay.tv/aovivo/HD_H2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History 2 HD [Alter]" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Documentario",History 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_H2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History FHD" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History FHD
+http://load.kudaplay.tv/aovivo/FHD_HISTORY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History HD" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History HD
+http://load.kudaplay.tv/aovivo/HD_HISTORY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="History HD [Alter]" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HISTORY_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max" tvg-logo="https://i.ibb.co/4Nw6mrM/max.png" group-title="Filme e Serie",Max
+http://load.kudaplay.tv/aovivo/SD_MAX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max FHD" tvg-logo="https://i.ibb.co/4Nw6mrM/max.png" group-title="Filme e Serie",Max FHD
+http://load.kudaplay.tv/aovivo/FHD_MAX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max HD" tvg-logo="https://i.ibb.co/4Nw6mrM/max.png" group-title="Filme e Serie",Max HD
+http://load.kudaplay.tv/aovivo/HD_MAX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max HD [Alter]" tvg-logo="https://i.ibb.co/4Nw6mrM/max.png" group-title="Filme e Serie",Max HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_MAX_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max Prime" tvg-logo="https://i.ibb.co/2FBnTfk/maxprimeb.png" group-title="Filme e Serie",Max Prime
+http://load.kudaplay.tv/aovivo/SD_MAX_PRIME/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max Prime FHD" tvg-logo="https://i.ibb.co/2FBnTfk/maxprimeb.png" group-title="Filme e Serie",Max Prime FHD
+http://load.kudaplay.tv/aovivo/FHD_MAX_PRIME/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max Prime HD" tvg-logo="https://i.ibb.co/2FBnTfk/maxprimeb.png" group-title="Filme e Serie",Max Prime HD
+http://load.kudaplay.tv/aovivo/HD_MAXPRIME/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max Prime HD [Alter]" tvg-logo="https://i.ibb.co/2FBnTfk/maxprimeb.png" group-title="Filme e Serie",Max Prime HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_MAXPRIME_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max Prime*e" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_PRIME_E.png" group-title="Filme e Serie",Max Prime*e
+http://load.kudaplay.tv/aovivo/SD_MAX_PRIME_E/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max Prime*e HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_PRIME_E.png" group-title="Filme e Serie",Max Prime*e HD
+http://load.kudaplay.tv/aovivo/HD_MAX_PRIME_E/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max UP" tvg-logo="https://i.ibb.co/ZMRptxb/maxup.png" group-title="Filme e Serie",Max UP
+http://load.kudaplay.tv/aovivo/SD_MAX_UP/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max UP FHD" tvg-logo="https://i.ibb.co/ZMRptxb/maxup.png" group-title="Filme e Serie",Max UP FHD
+http://load.kudaplay.tv/aovivo/FHD_MAX_UP/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max UP HD" tvg-logo="https://i.ibb.co/ZMRptxb/maxup.png" group-title="Filme e Serie",Max UP HD
+http://load.kudaplay.tv/aovivo/HD_MAX_UP/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Max UP HD [Alter]" tvg-logo="https://i.ibb.co/ZMRptxb/maxup.png" group-title="Filme e Serie",Max UP HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_MAX_UP_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix
+http://load.kudaplay.tv/aovivo/SD_MEGAPIX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Megapix FHD" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix FHD
+http://load.kudaplay.tv/aovivo/FHD_MEGAPIX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Megapix HD" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix HD
+http://load.kudaplay.tv/aovivo/HD_MEGAPIX/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Megapix HD [Alter]" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="NHK" tvg-logo="https://i.ibb.co/JBsDq1y/nhk.png" group-title="Internacional",NHK
+http://load.kudaplay.tv/aovivo/SD_NHK/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="NatGeo Kids" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png" group-title="Infantil",NatGeo Kids
+http://load.kudaplay.tv/aovivo/SD_NATGEOKIDS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="NatGeo Kids FHD" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png" group-title="Infantil",NatGeo Kids FHD
+http://load.kudaplay.tv/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="NatGeo Kids HD" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png" group-title="Infantil",NatGeo Kids HD
+http://load.kudaplay.tv/aovivo/HD_NATGEOKIDS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="NatGeo Kids HD [Alter]" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png" group-title="Infantil",NatGeo Kids HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild
+http://load.kudaplay.tv/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Natgeo Wild FHD" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild FHD
+http://load.kudaplay.tv/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Natgeo Wild HD" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild HD
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Natgeo Wild HD [Alter]" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic
+http://load.kudaplay.tv/aovivo/SD_NAT_GEO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="National Geographic FHD" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic FHD
+http://load.kudaplay.tv/aovivo/FHD_NAT_GEO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="National Geographic HD" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic HD
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="National Geographic HD [Alter]" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Nick Jr." tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png" group-title="Infantil",Nick Jr.
+http://load.kudaplay.tv/aovivo/SD_NICK_JR/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Nick Jr. FHD" tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png" group-title="Infantil",Nick Jr. FHD
+http://load.kudaplay.tv/aovivo/FHD_NICK_JR/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Nick Jr. HD" tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png" group-title="Infantil",Nick Jr. HD
+http://load.kudaplay.tv/aovivo/HD_NICK_JR/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Nick Jr. HD [Alter]" tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png" group-title="Infantil",Nick Jr. HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Infantil",Nickelodeon
+http://load.kudaplay.tv/aovivo/SD_NICKELODEON/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Infantil",Nickelodeon HD
+http://load.kudaplay.tv/aovivo/HD_NICKELODEON/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Novo Tempo" tvg-logo="https://i.ibb.co/3cZwZ9m/tvnovotempo.png" group-title="TV Aberta",Novo Tempo
+http://load.kudaplay.tv/aovivo/SD_NOVO_TEMPO/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Off" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png" group-title="Variedade e Esporte",Off
+http://load.kudaplay.tv/aovivo/SD_OFF/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Off FHD" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png" group-title="Variedade e Esporte",Off FHD
+http://load.kudaplay.tv/aovivo/FHD_OFF/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Off HD" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png" group-title="Variedade e Esporte",Off HD
+http://load.kudaplay.tv/aovivo/HD_OFF/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Off HD [Alter]" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png" group-title="Variedade e Esporte",Off HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_OFF_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Paramount" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme e Serie",Paramount
+http://load.kudaplay.tv/aovivo/SD_PARAMOUNT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Paramount FHD" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme e Serie",Paramount FHD
+http://load.kudaplay.tv/aovivo/FHD_PARAMOUNT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Paramount HD" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme e Serie",Paramount HD
+http://load.kudaplay.tv/aovivo/HD_PARAMOUNT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Paramount HD [Alter]" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme e Serie",Paramount HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2
+http://load.kudaplay.tv/aovivo/SD_PFC_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2 HD
+http://load.kudaplay.tv/aovivo/HD_PFC_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3
+http://load.kudaplay.tv/aovivo/SD_PFC_3/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3 FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_3/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3 HD
+http://load.kudaplay.tv/aovivo/HD_PFC_3/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_3_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4
+http://load.kudaplay.tv/aovivo/SD_PFC_4/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4 FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_4/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4 HD
+http://load.kudaplay.tv/aovivo/HD_PFC_4/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_4_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5
+http://load.kudaplay.tv/aovivo/SD_PFC_5/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5 FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_5/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5 HD
+http://load.kudaplay.tv/aovivo/HD_PFC_5/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_5_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6
+http://load.kudaplay.tv/aovivo/SD_PFC_6/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6 FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_6/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6 HD
+http://load.kudaplay.tv/aovivo/HD_PFC_6/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_6_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7
+http://load.kudaplay.tv/aovivo/SD_PFC_7/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7 FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_7/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7 HD
+http://load.kudaplay.tv/aovivo/HD_PFC_7/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_7_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere 8" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 8
+http://load.kudaplay.tv/aovivo/SD_PFC_8/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
+http://load.kudaplay.tv/aovivo/SD_PFC_CLUBES/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes FHD
+http://load.kudaplay.tv/aovivo/FHD_PFC_CLUBES/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes HD
+http://load.kudaplay.tv/aovivo/HD_PFC_CLUBES/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+http://load.kudaplay.tv/aovivo/SD_SPORTV_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
+http://load.kudaplay.tv/aovivo/SD_SPORTV_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 FHD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_SPORTV_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD
+http://load.kudaplay.tv/aovivo/HD_SPORTV_2/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD [Alter]" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3
+http://load.kudaplay.tv/aovivo/SD_SPORTV_3/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 FHD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 FHD
+http://load.kudaplay.tv/aovivo/FHD_SPORTV_3/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD
+http://load.kudaplay.tv/aovivo/HD_SPORTV_3/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD [Alter]" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV FHD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV FHD
+http://load.kudaplay.tv/aovivo/FHD_SPORTV_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV HD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD
+http://load.kudaplay.tv/aovivo/HD_SPORTV_1/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="SporTV HD [Alter]" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Studio Universal" tvg-logo="https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title="Filme e Serie",Studio Universal
+http://load.kudaplay.tv/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Studio Universal FHD" tvg-logo="https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title="Filme e Serie",Studio Universal FHD
+http://load.kudaplay.tv/aovivo/FHD_STUDIO_UNIVERSAL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Studio Universal HD" tvg-logo="https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title="Filme e Serie",Studio Universal HD
+http://load.kudaplay.tv/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Studio Universal HD [Alter]" tvg-logo="https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title="Filme e Serie",Studio Universal HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Syfy" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme e Serie",Syfy
+http://load.kudaplay.tv/aovivo/SD_SYFY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Syfy FHD" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme e Serie",Syfy FHD
+http://load.kudaplay.tv/aovivo/FHD_SYFY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Syfy HD" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme e Serie",Syfy HD
+http://load.kudaplay.tv/aovivo/HD_SYFY/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Syfy HD [Alter]" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme e Serie",Syfy HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SYFY_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TBS" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme e Serie",TBS
+http://load.kudaplay.tv/aovivo/SD_TBS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TBS FHD" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme e Serie",TBS FHD
+http://load.kudaplay.tv/aovivo/FHD_TBS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TBS HD" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme e Serie",TBS HD
+http://load.kudaplay.tv/aovivo/HD_TBS/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TBS HD [Alter]" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme e Serie",TBS HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TBS_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TCM" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme e Serie",TCM
+http://load.kudaplay.tv/aovivo/SD_TCM/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TCM FHD" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme e Serie",TCM FHD
+http://load.kudaplay.tv/aovivo/FHD_TCM/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme e Serie",TCM HD
+http://load.kudaplay.tv/aovivo/HD_TCM/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TCM HD [Alter]" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme e Serie",TCM HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TCM_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TLC" tvg-logo="https://i.ibb.co/njTvjL1/tlc.png" group-title="Variedade",TLC
+http://load.kudaplay.tv/aovivo/SD_TLC/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TLC HD" tvg-logo="https://i.ibb.co/wypLmFy/tlchd.png" group-title="Variedade",TLC HD
+http://load.kudaplay.tv/aovivo/HD_TLC/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TLC HD [Alter]" tvg-logo="https://i.ibb.co/wypLmFy/tlchd.png" group-title="Variedade",TLC HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TLC_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT
+http://load.kudaplay.tv/aovivo/SD_TNT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT FHD" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT FHD
+http://load.kudaplay.tv/aovivo/FHD_TNT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT HD" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT HD
+http://load.kudaplay.tv/aovivo/HD_TNT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT HD [Alter]" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TNT_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series
+http://load.kudaplay.tv/aovivo/SD_TNT_SERIES/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT Series FHD" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series FHD
+http://load.kudaplay.tv/aovivo/FHD_TNT_SERIES/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT Series HD" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series HD
+http://load.kudaplay.tv/aovivo/HD_TNT_SERIES/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="TNT Series HD [Alter]" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action
+http://load.kudaplay.tv/aovivo/SD_TC_ACTION/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Action FHD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_ACTION/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action HD
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD [Alter]" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult
+http://load.kudaplay.tv/aovivo/SD_TC_CULT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult FHD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_CULT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult HD
+http://load.kudaplay.tv/aovivo/HD_TC_CULT/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD [Alter]" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun
+http://load.kudaplay.tv/aovivo/SD_TC_FUN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun FHD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_FUN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun HD
+http://load.kudaplay.tv/aovivo/HD_TC_FUN/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD [Alter]" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca
+http://load.kudaplay.tv/aovivo/SD_TC_PIPOCA/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca FHD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_PIPOCA/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca HD
+http://load.kudaplay.tv/aovivo/HD_TC_PIPOCA/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD [Alter]" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium
+http://load.kudaplay.tv/aovivo/SD_TC_PREMIUM/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_PREMIUM/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium HD
+http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD [Alter]" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch
+http://load.kudaplay.tv/aovivo/SD_TC_TOUCH/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_TOUCH/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch HD
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD [Alter]" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=cd958741ad2d2ce9916fce5aa4787691
 
-#EXTINF:-1,A&E (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2499.ts
-#EXTINF:-1,A&E (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2487.ts
-#EXTINF:-1,A&E (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2475.ts
-#EXTINF:-1,A&E [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1918.ts
-#EXTINF:-1,A&E [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1914.ts
-#EXTINF:-1,A&E [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1922.ts
-#EXTINF:-1,AMC (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2627.ts
-#EXTINF:-1,AMC (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2422.ts
-#EXTINF:-1,AMC (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2557.ts
-#EXTINF:-1,AMC [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2111.ts
-#EXTINF:-1,AMC [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2045.ts
-#EXTINF:-1,AMC [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2011.ts
-#EXTINF:-1,ANIMAL PLANET (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2500.ts
-#EXTINF:-1,ANIMAL PLANET (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2488.ts
-#EXTINF:-1,ANIMAL PLANET (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2476.ts
-#EXTINF:-1,ANIMAL PLANET [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1917.ts
-#EXTINF:-1,ANIMAL PLANET [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1913.ts
-#EXTINF:-1,ANIMAL PLANET [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1921.ts
-#EXTINF:-1,ARTE 1 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1853.ts
-#EXTINF:-1,AXN (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2628.ts
-#EXTINF:-1,AXN (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2594.ts
-#EXTINF:-1,AXN (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2558.ts
-#EXTINF:-1,AXN [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2073.ts
-#EXTINF:-1,AXN [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2044.ts
-#EXTINF:-1,AXN [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2010.ts
-#EXTINF:-1,BABY TV (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2663.ts
-#EXTINF:-1,BABY TV [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2091.ts
-#EXTINF:-1,BABY TV [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2081.ts
-#EXTINF:-1,BOOMERANG (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2629.ts
-#EXTINF:-1,BOOMERANG (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2596.ts
-#EXTINF:-1,BOOMERANG (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2560.ts
-#EXTINF:-1,BOOMERANG [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2072.ts
-#EXTINF:-1,BOOMERANG [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2042.ts
-#EXTINF:-1,BOOMERANG [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2009.ts
-#EXTINF:-1,BRAZZERS
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1845.ts
-#EXTINF:-1,Buteco Gusttavo Lima ( Brasilia - 12/10 )
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2700.ts
-#EXTINF:-1,CANAL BRASIL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2414.ts
-#EXTINF:-1,CANAL BRASIL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1852.ts
-#EXTINF:-1,CARTOON NETWORK (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2673.ts
-#EXTINF:-1,CARTOON NETWORK (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2664.ts
-#EXTINF:-1,CARTOON NETWORK (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1778.ts
-#EXTINF:-1,CARTOON NETWORK [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2098.ts
-#EXTINF:-1,CARTOON NETWORK [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2090.ts
-#EXTINF:-1,CARTOON NETWORK [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2080.ts
-#EXTINF:-1,CINEMAX (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2630.ts
-#EXTINF:-1,CINEMAX (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2597.ts
-#EXTINF:-1,CINEMAX (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2561.ts
-#EXTINF:-1,CINEMAX [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2071.ts
-#EXTINF:-1,CINEMAX [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2041.ts
-#EXTINF:-1,CINEMAX [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2008.ts
-#EXTINF:-1,CNT (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2415.ts
-#EXTINF:-1,CNT [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1920.ts
-#EXTINF:-1,COMBATE (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2541.ts
-#EXTINF:-1,COMBATE (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2526.ts
-#EXTINF:-1,COMBATE (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2505.ts
-#EXTINF:-1,COMBATE [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1977.ts
-#EXTINF:-1,COMBATE [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1961.ts
-#EXTINF:-1,COMBATE [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1945.ts
-#EXTINF:-1,COMEDY CENTRAL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2502.ts
-#EXTINF:-1,COMEDY CENTRAL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2489.ts
-#EXTINF:-1,COMEDY CENTRAL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2478.ts
-#EXTINF:-1,COMEDY CENTRAL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1916.ts
-#EXTINF:-1,COMEDY CENTRAL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1912.ts
-#EXTINF:-1,COMEDY CENTRAL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1919.ts
-#EXTINF:-1,DAZN BRASIL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2542.ts
-#EXTINF:-1,DAZN BRASIL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2527.ts
-#EXTINF:-1,DAZN BRASIL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1960.ts
-#EXTINF:-1,DISCOVERY CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2459.ts
-#EXTINF:-1,DISCOVERY CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2444.ts
-#EXTINF:-1,DISCOVERY CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2428.ts
-#EXTINF:-1,DISCOVERY CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1899.ts
-#EXTINF:-1,DISCOVERY CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1885.ts
-#EXTINF:-1,DISCOVERY CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1874.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2460.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2445.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2429.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1898.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1884.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1873.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2461.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2446.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2430.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1897.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1883.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1872.ts
-#EXTINF:-1,DISCOVERY KIDS (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2674.ts
-#EXTINF:-1,DISCOVERY KIDS (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2665.ts
-#EXTINF:-1,DISCOVERY KIDS (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1788.ts
-#EXTINF:-1,DISCOVERY KIDS [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1896.ts
-#EXTINF:-1,DISCOVERY KIDS [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1882.ts
-#EXTINF:-1,DISCOVERY KIDS [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1871.ts
-#EXTINF:-1,DISCOVERY SCIENCE (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2462.ts
-#EXTINF:-1,DISCOVERY SCIENCE (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2447.ts
-#EXTINF:-1,DISCOVERY SCIENCE (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2431.ts
-#EXTINF:-1,DISCOVERY SCIENCE [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1895.ts
-#EXTINF:-1,DISCOVERY SCIENCE [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1881.ts
-#EXTINF:-1,DISCOVERY SCIENCE [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1870.ts
-#EXTINF:-1,DISCOVERY THEATER (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2463.ts
-#EXTINF:-1,DISCOVERY THEATER (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2448.ts
-#EXTINF:-1,DISCOVERY THEATER (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2432.ts
-#EXTINF:-1,DISCOVERY THEATER [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1894.ts
-#EXTINF:-1,DISCOVERY THEATER [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1880.ts
-#EXTINF:-1,DISCOVERY THEATER [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1869.ts
-#EXTINF:-1,DISCOVERY TLC (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2449.ts
-#EXTINF:-1,DISCOVERY TLC (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2433.ts
-#EXTINF:-1,DISCOVERY TLC [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1879.ts
-#EXTINF:-1,DISCOVERY TLC [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1868.ts
-#EXTINF:-1,DISCOVERY TURBO (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2464.ts
-#EXTINF:-1,DISCOVERY TURBO (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2450.ts
-#EXTINF:-1,DISCOVERY TURBO (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2434.ts
-#EXTINF:-1,DISCOVERY TURBO [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1893.ts
-#EXTINF:-1,DISCOVERY TURBO [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1878.ts
-#EXTINF:-1,DISCOVERY TURBO [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1867.ts
-#EXTINF:-1,DISCOVERY WORLD (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2465.ts
-#EXTINF:-1,DISCOVERY WORLD (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2451.ts
-#EXTINF:-1,DISCOVERY WORLD (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2435.ts
-#EXTINF:-1,DISCOVERY WORLD [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1892.ts
-#EXTINF:-1,DISCOVERY WORLD [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1877.ts
-#EXTINF:-1,DISCOVERY WORLD [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1866.ts
-#EXTINF:-1,DISNEY CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2466.ts
-#EXTINF:-1,DISNEY CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2452.ts
-#EXTINF:-1,DISNEY CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2436.ts
-#EXTINF:-1,DISNEY CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2097.ts
-#EXTINF:-1,DISNEY CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2089.ts
-#EXTINF:-1,DISNEY CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2079.ts
-#EXTINF:-1,DISNEY JR (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2675.ts
-#EXTINF:-1,DISNEY JR (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2667.ts
-#EXTINF:-1,DISNEY JR (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1779.ts
-#EXTINF:-1,DISNEY JR SD
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2657.ts
-#EXTINF:-1,DISNEY JR [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2096.ts
-#EXTINF:-1,DISNEY JR [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2088.ts
-#EXTINF:-1,DISNEY JR [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2078.ts
-#EXTINF:-1,DISNEY XD (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2676.ts
-#EXTINF:-1,DISNEY XD (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2668.ts
-#EXTINF:-1,DISNEY XD (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1780.ts
-#EXTINF:-1,DISNEY XD (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2658.ts
-#EXTINF:-1,DISNEY XD [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2095.ts
-#EXTINF:-1,DISNEY XD [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2087.ts
-#EXTINF:-1,DISNEY XD [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2077.ts
-#EXTINF:-1,E! (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2491.ts
-#EXTINF:-1,E! (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2480.ts
-#EXTINF:-1,E! [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1911.ts
-#EXTINF:-1,E! [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1944.ts
-#EXTINF:-1,EI PLUS (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2506.ts
-#EXTINF:-1,ESPN (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2544.ts
-#EXTINF:-1,ESPN (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2529.ts
-#EXTINF:-1,ESPN (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2508.ts
-#EXTINF:-1,ESPN BRASIL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2543.ts
-#EXTINF:-1,ESPN BRASIL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2528.ts
-#EXTINF:-1,ESPN BRASIL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2507.ts
-#EXTINF:-1,ESPN BRASIL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1975.ts
-#EXTINF:-1,ESPN BRASIL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1958.ts
-#EXTINF:-1,ESPN BRASIL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1942.ts
-#EXTINF:-1,ESPN  [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1976.ts
-#EXTINF:-1,ESPN [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1974.ts
-#EXTINF:-1,ESPN  [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1959.ts
-#EXTINF:-1,ESPN [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1957.ts
-#EXTINF:-1,ESPN  [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1943.ts
-#EXTINF:-1,ESPN [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1941.ts
-#EXTINF:-1,ESPN+ (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2545.ts
-#EXTINF:-1,ESPN+ (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2530.ts
-#EXTINF:-1,ESPN+ (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2509.ts
-#EXTINF:-1,FISH TV (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2492.ts
-#EXTINF:-1,FISH TV (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2481.ts
-#EXTINF:-1,FISH TV [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1910.ts
-#EXTINF:-1,FISH TV [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1905.ts
-#EXTINF:-1,FOOD NETWORK (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2503.ts
-#EXTINF:-1,FOOD NETWORK (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2493.ts
-#EXTINF:-1,FOOD NETWORK (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2482.ts
-#EXTINF:-1,FOOD NETWORK [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1915.ts
-#EXTINF:-1,FOOD NETWORK [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1909.ts
-#EXTINF:-1,FOOD NETWORK [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1904.ts
-#EXTINF:-1,FOX (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2631.ts
-#EXTINF:-1,FOX (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2598.ts
-#EXTINF:-1,FOX (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2565.ts
-#EXTINF:-1,FOX LIFE (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2599.ts
-#EXTINF:-1,FOX LIFE (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2562.ts
-#EXTINF:-1,FOX LIFE [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2039.ts
-#EXTINF:-1,FOX LIFE [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2007.ts
-#EXTINF:-1,FOX PREMIUM 1 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2632.ts
-#EXTINF:-1,FOX PREMIUM 1 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2600.ts
-#EXTINF:-1,FOX PREMIUM 1 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2563.ts
-#EXTINF:-1,FOX PREMIUM 1 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2069.ts
-#EXTINF:-1,FOX PREMIUM 1 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2038.ts
-#EXTINF:-1,FOX PREMIUM 1 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2006.ts
-#EXTINF:-1,FOX PREMIUM 2 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2633.ts
-#EXTINF:-1,FOX PREMIUM 2 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2601.ts
-#EXTINF:-1,FOX PREMIUM 2 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2564.ts
-#EXTINF:-1,FOX PREMIUM 2 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2068.ts
-#EXTINF:-1,FOX PREMIUM 2 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2037.ts
-#EXTINF:-1,FOX PREMIUM 2 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2005.ts
-#EXTINF:-1,FOX SPORTS (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2547.ts
-#EXTINF:-1,FOX SPORTS (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2532.ts
-#EXTINF:-1,FOX SPORTS (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2511.ts
-#EXTINF:-1,FOX SPORTS 2 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2546.ts
-#EXTINF:-1,FOX SPORTS 2 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2531.ts
-#EXTINF:-1,FOX SPORTS 2 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2510.ts
-#EXTINF:-1,FOX SPORTS 2 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1973.ts
-#EXTINF:-1,FOX SPORTS 2 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1956.ts
-#EXTINF:-1,FOX SPORTS 2 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1940.ts
-#EXTINF:-1,FOX SPORTS [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1972.ts
-#EXTINF:-1,FOX SPORTS [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1955.ts
-#EXTINF:-1,FOX SPORTS [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1939.ts
-#EXTINF:-1,FOX [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2070.ts
-#EXTINF:-1,FOX [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2040.ts
-#EXTINF:-1,FOX [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2004.ts
-#EXTINF:-1,FUTURA (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2425.ts
-#EXTINF:-1,FUTURA (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2417.ts
-#EXTINF:-1,FUTURA [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1849.ts
-#EXTINF:-1,FX (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2634.ts
-#EXTINF:-1,FX (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2602.ts
-#EXTINF:-1,FX (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2566.ts
-#EXTINF:-1,FX [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2067.ts
-#EXTINF:-1,FX [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2036.ts
-#EXTINF:-1,FX [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2003.ts
-#EXTINF:-1,H2 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2467.ts
-#EXTINF:-1,H2 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2453.ts
-#EXTINF:-1,H2 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2437.ts
-#EXTINF:-1,H2 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1891.ts
-#EXTINF:-1,H2 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1876.ts
-#EXTINF:-1,H2 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1862.ts
-#EXTINF:-1,HBO (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2636.ts
-#EXTINF:-1,HBO (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2605.ts
-#EXTINF:-1,HBO (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2571.ts
-#EXTINF:-1,HBO 2 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2635.ts
-#EXTINF:-1,HBO 2 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2603.ts
-#EXTINF:-1,HBO 2 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2567.ts
-#EXTINF:-1,HBO 2 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2066.ts
-#EXTINF:-1,HBO 2 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2035.ts
-#EXTINF:-1,HBO 2 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2002.ts
-#EXTINF:-1,HBO FAMILY (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2604.ts
-#EXTINF:-1,HBO FAMILY (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2568.ts
-#EXTINF:-1,HBO FAMILY [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2034.ts
-#EXTINF:-1,HBO FAMILY [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2001.ts
-#EXTINF:-1,HBO PLUS (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2637.ts
-#EXTINF:-1,HBO PLUS (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2606.ts
-#EXTINF:-1,HBO PLUS (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2569.ts
-#EXTINF:-1,HBO PLUS [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2064.ts
-#EXTINF:-1,HBO PLUS [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2032.ts
-#EXTINF:-1,HBO PLUS [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2000.ts
-#EXTINF:-1,HBO PLUS*E (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2607.ts
-#EXTINF:-1,HBO PLUS*E (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2570.ts
-#EXTINF:-1,HBO SIGNATURE (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2638.ts
-#EXTINF:-1,HBO SIGNATURE (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2608.ts
-#EXTINF:-1,HBO SIGNATURE (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2572.ts
-#EXTINF:-1,HBO SIGNATURE [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2063.ts
-#EXTINF:-1,HBO SIGNATURE [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2031.ts
-#EXTINF:-1,HBO SIGNATURE [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1999.ts
-#EXTINF:-1,HBO [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2065.ts
-#EXTINF:-1,HBO [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2033.ts
-#EXTINF:-1,HISTORY CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2468.ts
-#EXTINF:-1,HISTORY CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2454.ts
-#EXTINF:-1,HISTORY CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2438.ts
-#EXTINF:-1,HISTORY CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1890.ts
-#EXTINF:-1,HISTORY CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1875.ts
-#EXTINF:-1,HISTORY CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1861.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2469.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2455.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1889.ts
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1907.ts
-#EXTINF:-1,ID INVESTIGACAO DISCOVERY (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2439.ts
-#EXTINF:-1,ID INVESTIGACAO DISCOVERY [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1860.ts
-#EXTINF:-1,LIFETIME (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2495.ts
-#EXTINF:-1,LIFETIME (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2440.ts
-#EXTINF:-1,LIFETIME [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1906.ts
-#EXTINF:-1,LIFETIME [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1903.ts
-#EXTINF:-1,MAX (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2609.ts
-#EXTINF:-1,MAX (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2575.ts
-#EXTINF:-1,MAX PRIME (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2639.ts
-#EXTINF:-1,MAX PRIME (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2610.ts
-#EXTINF:-1,MAX PRIME (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2573.ts
-#EXTINF:-1,MAX PRIME [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2062.ts
-#EXTINF:-1,MAX PRIME [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2029.ts
-#EXTINF:-1,MAX PRIME [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1998.ts
-#EXTINF:-1,MAX PRIME*E (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2611.ts
-#EXTINF:-1,MAX PRIME*E (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2574.ts
-#EXTINF:-1,MAX UP (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2612.ts
-#EXTINF:-1,MAX UP (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2576.ts
-#EXTINF:-1,MAX UP [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2028.ts
-#EXTINF:-1,MAX UP [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1996.ts
-#EXTINF:-1,MAX [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2030.ts
-#EXTINF:-1,MAX [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1997.ts
-#EXTINF:-1,MEGAPIX (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2640.ts
-#EXTINF:-1,MEGAPIX (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2613.ts
-#EXTINF:-1,MEGAPIX (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2577.ts
-#EXTINF:-1,MEGAPIX [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2061.ts
-#EXTINF:-1,MEGAPIX [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2027.ts
-#EXTINF:-1,MEGAPIX [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1995.ts
-#EXTINF:-1,NAT GEO KIDS (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2470.ts
-#EXTINF:-1,NAT GEO KIDS [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1888.ts
-#EXTINF:-1,NATGEO (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2471.ts
-#EXTINF:-1,NATGEO KIDS (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2456.ts
-#EXTINF:-1,NATGEO KIDS (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2441.ts
-#EXTINF:-1,NATGEO KIDS [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1865.ts
-#EXTINF:-1,NATGEO WILD (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2472.ts
-#EXTINF:-1,NATGEO WILD (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2457.ts
-#EXTINF:-1,NATGEO WILD (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2442.ts
-#EXTINF:-1,NATGEO WILD [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1887.ts
-#EXTINF:-1,NATGEO WILD [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1864.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2473.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2458.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2443.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1886.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1863.ts
-#EXTINF:-1,NICK JR (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2678.ts
-#EXTINF:-1,NICK JR (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2670.ts
-#EXTINF:-1,NICK JR SD
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2660.ts
-#EXTINF:-1,NICK JR [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2092.ts
-#EXTINF:-1,NICK JR [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2084.ts
-#EXTINF:-1,NICK JR [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2075.ts
-#EXTINF:-1,NICKELODEON (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2671.ts
-#EXTINF:-1,NICKELODEON SD
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2661.ts
-#EXTINF:-1,NICKELODEON [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2083.ts
-#EXTINF:-1,PARAMOUNT CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2641.ts
-#EXTINF:-1,PARAMOUNT CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2614.ts
-#EXTINF:-1,PARAMOUNT CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2578.ts
-#EXTINF:-1,PARAMOUNT CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2060.ts
-#EXTINF:-1,PARAMOUNT CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2026.ts
-#EXTINF:-1,PARAMOUNT CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1994.ts
-#EXTINF:-1,PREMIERE 1 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2513.ts
-#EXTINF:-1,PREMIERE 1 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1938.ts
-#EXTINF:-1,PREMIERE 2 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2548.ts
-#EXTINF:-1,PREMIERE 2 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2533.ts
-#EXTINF:-1,PREMIERE 2 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2514.ts
-#EXTINF:-1,PREMIERE 2 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1971.ts
-#EXTINF:-1,PREMIERE 2 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1954.ts
-#EXTINF:-1,PREMIERE 2 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1937.ts
-#EXTINF:-1,PREMIERE 3 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2549.ts
-#EXTINF:-1,PREMIERE 3 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2534.ts
-#EXTINF:-1,PREMIERE 3 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2515.ts
-#EXTINF:-1,PREMIERE 3 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1970.ts
-#EXTINF:-1,PREMIERE 3 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1953.ts
-#EXTINF:-1,PREMIERE 3 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1936.ts
-#EXTINF:-1,PREMIERE 4 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2550.ts
-#EXTINF:-1,PREMIERE 4 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2535.ts
-#EXTINF:-1,PREMIERE 4 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2516.ts
-#EXTINF:-1,PREMIERE 4 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1969.ts
-#EXTINF:-1,PREMIERE 4 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1952.ts
-#EXTINF:-1,PREMIERE 4 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1935.ts
-#EXTINF:-1,PREMIERE 5 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2551.ts
-#EXTINF:-1,PREMIERE 5 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2536.ts
-#EXTINF:-1,PREMIERE 5 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2517.ts
-#EXTINF:-1,PREMIERE 5 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1968.ts
-#EXTINF:-1,PREMIERE 5 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1951.ts
-#EXTINF:-1,PREMIERE 5 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1934.ts
-#EXTINF:-1,PREMIERE 6 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2552.ts
-#EXTINF:-1,PREMIERE 6 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2518.ts
-#EXTINF:-1,PREMIERE 6 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1967.ts
-#EXTINF:-1,PREMIERE 6 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1933.ts
-#EXTINF:-1,PREMIERE 7 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2519.ts
-#EXTINF:-1,PREMIERE 7 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1932.ts
-#EXTINF:-1,PREMIERE 8 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2520.ts
-#EXTINF:-1,PREMIERE 8 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1931.ts
-#EXTINF:-1,PREMIERE CLUBES (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2553.ts
-#EXTINF:-1,PREMIERE CLUBES (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2537.ts
-#EXTINF:-1,PREMIERE CLUBES (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2521.ts
-#EXTINF:-1,PREMIERE CLUBES [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1966.ts
-#EXTINF:-1,PREMIERE CLUBES [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1950.ts
-#EXTINF:-1,PREMIERE CLUBES [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1930.ts
-#EXTINF:-1,SPORTV (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2556.ts
-#EXTINF:-1,SPORTV (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2540.ts
-#EXTINF:-1,SPORTV (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2524.ts
-#EXTINF:-1,SPORTV 2 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2554.ts
-#EXTINF:-1,SPORTV 2 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2538.ts
-#EXTINF:-1,SPORTV 2 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2522.ts
-#EXTINF:-1,SPORTV 2 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1965.ts
-#EXTINF:-1,SPORTV 2 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1949.ts
-#EXTINF:-1,SPORTV 2 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1929.ts
-#EXTINF:-1,SPORTV 3 (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2555.ts
-#EXTINF:-1,SPORTV 3 (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2539.ts
-#EXTINF:-1,SPORTV 3 (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2523.ts
-#EXTINF:-1,SPORTV 3 [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1964.ts
-#EXTINF:-1,SPORTV 3 [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1948.ts
-#EXTINF:-1,SPORTV 3 [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1928.ts
-#EXTINF:-1,SPORTV [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1963.ts
-#EXTINF:-1,SPORTV [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1947.ts
-#EXTINF:-1,SPORTV [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1927.ts
-#EXTINF:-1,STUDIO UNIVERSAL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2643.ts
-#EXTINF:-1,STUDIO UNIVERSAL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2615.ts
-#EXTINF:-1,STUDIO UNIVERSAL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2580.ts
-#EXTINF:-1,STUDIO UNIVERSAL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2057.ts
-#EXTINF:-1,STUDIO UNIVERSAL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2023.ts
-#EXTINF:-1,STUDIO UNIVERSAL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1991.ts
-#EXTINF:-1,SYFY (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2644.ts
-#EXTINF:-1,SYFY (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2616.ts
-#EXTINF:-1,SYFY (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2581.ts
-#EXTINF:-1,SYFY [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2056.ts
-#EXTINF:-1,SYFY [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2022.ts
-#EXTINF:-1,SYFY [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1990.ts
-#EXTINF:-1,TBS (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2582.ts
-#EXTINF:-1,TBS [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1989.ts
-#EXTINF:-1,TCM (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2583.ts
-#EXTINF:-1,TCM [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1988.ts
-#EXTINF:-1,TELECINE ACTION (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2645.ts
-#EXTINF:-1,TELECINE ACTION (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2617.ts
-#EXTINF:-1,TELECINE ACTION (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2584.ts
-#EXTINF:-1,TELECINE ACTION [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2055.ts
-#EXTINF:-1,TELECINE ACTION [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2021.ts
-#EXTINF:-1,TELECINE ACTION [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1987.ts
-#EXTINF:-1,TELECINE CULT (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2646.ts
-#EXTINF:-1,TELECINE CULT (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2618.ts
-#EXTINF:-1,TELECINE CULT (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2585.ts
-#EXTINF:-1,TELECINE CULT [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2054.ts
-#EXTINF:-1,TELECINE CULT [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2020.ts
-#EXTINF:-1,TELECINE CULT [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1986.ts
-#EXTINF:-1,TELECINE FUN (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2647.ts
-#EXTINF:-1,TELECINE FUN (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2619.ts
-#EXTINF:-1,TELECINE FUN (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2586.ts
-#EXTINF:-1,TELECINE FUN [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2053.ts
-#EXTINF:-1,TELECINE FUN [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2019.ts
-#EXTINF:-1,TELECINE FUN [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1985.ts
-#EXTINF:-1,TELECINE PIPOCA (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2648.ts
-#EXTINF:-1,TELECINE PIPOCA (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2620.ts
-#EXTINF:-1,TELECINE PIPOCA (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2587.ts
-#EXTINF:-1,TELECINE PIPOCA [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2052.ts
-#EXTINF:-1,TELECINE PIPOCA [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2018.ts
-#EXTINF:-1,TELECINE PIPOCA [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1984.ts
-#EXTINF:-1,TELECINE PREMIUM (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2649.ts
-#EXTINF:-1,TELECINE PREMIUM (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2621.ts
-#EXTINF:-1,TELECINE PREMIUM (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2588.ts
-#EXTINF:-1,TELECINE PREMIUM [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2051.ts
-#EXTINF:-1,TELECINE PREMIUM [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2017.ts
-#EXTINF:-1,TELECINE PREMIUM [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1983.ts
-#EXTINF:-1,TELECINE TOUCH (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2650.ts
-#EXTINF:-1,TELECINE TOUCH (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2622.ts
-#EXTINF:-1,TELECINE TOUCH (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2589.ts
-#EXTINF:-1,TELECINE TOUCH [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2050.ts
-#EXTINF:-1,TELECINE TOUCH [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2016.ts
-#EXTINF:-1,TELECINE TOUCH [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1982.ts
-#EXTINF:-1,TNT (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2651.ts
-#EXTINF:-1,TNT (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2623.ts
-#EXTINF:-1,TNT (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2590.ts
-#EXTINF:-1,TNT SERIES (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2652.ts
-#EXTINF:-1,TNT SERIES (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2624.ts
-#EXTINF:-1,TNT SERIES (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2591.ts
-#EXTINF:-1,TNT SERIES [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2048.ts
-#EXTINF:-1,TNT SERIES [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2014.ts
-#EXTINF:-1,TNT SERIES [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1980.ts
-#EXTINF:-1,TNT [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2049.ts
-#EXTINF:-1,TNT [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2015.ts
-#EXTINF:-1,TNT [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1981.ts
-#EXTINF:-1,TOONCAST (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2672.ts
-#EXTINF:-1,TOONCAST SD
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2662.ts
-#EXTINF:-1,TOONCAST [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2082.ts
-#EXTINF:-1,TOONCAST [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2074.ts
-#EXTINF:-1,TV GAZETA (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2420.ts
-#EXTINF:-1,TV GAZETA [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1847.ts
-#EXTINF:-1,UNIVERSAL CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2653.ts
-#EXTINF:-1,UNIVERSAL CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2625.ts
-#EXTINF:-1,UNIVERSAL CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2592.ts
-#EXTINF:-1,UNIVERSAL CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2047.ts
-#EXTINF:-1,UNIVERSAL CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2013.ts
-#EXTINF:-1,UNIVERSAL CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1979.ts
-#EXTINF:-1,WARNER CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2654.ts
-#EXTINF:-1,WARNER CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2626.ts
-#EXTINF:-1,WARNER CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2593.ts
-#EXTINF:-1,WARNER CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2046.ts
-#EXTINF:-1,WARNER CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2012.ts
-#EXTINF:-1,WARNER CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1978.ts
-#EXTINF:-1,WOOHOO (HD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2497.ts
-#EXTINF:-1,WOOHOO (SD)
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/2485.ts
-#EXTINF:-1,WOOHOO [HD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1924.ts
-#EXTINF:-1,WOOHOO [SD]
-http://m3u.iptvlegal.tv:25461/live/6738804417/93476/1902.ts
-#EXTINF:-1,A&E (FHD)
-http://m3u.iptvlegal.tv:25461/A&E (FHD)/index.m3u8?token=93476
-#EXTINF:-1,A&E (HD)
-http://m3u.iptvlegal.tv:25461/A&E (HD)/index.m3u8?token=93476
-#EXTINF:-1,A&E (SD)
-http://m3u.iptvlegal.tv:25461/A&E (SD)/index.m3u8?token=93476
-#EXTINF:-1,A&E [FHD]
-http://m3u.iptvlegal.tv:25461/A&E [FHD]/index.m3u8?token=93476
-#EXTINF:-1,A&E [HD]
-http://m3u.iptvlegal.tv:25461/A&E [HD]/index.m3u8?token=93476
-#EXTINF:-1,A&E [SD]
-http://m3u.iptvlegal.tv:25461/A&E [SD]/index.m3u8?token=93476
-#EXTINF:-1,AMC (FHD)
-http://m3u.iptvlegal.tv:25461/AMC (FHD)/index.m3u8?token=93476
-#EXTINF:-1,AMC (HD)
-http://m3u.iptvlegal.tv:25461/AMC (HD)/index.m3u8?token=93476
-#EXTINF:-1,AMC (SD)
-http://m3u.iptvlegal.tv:25461/AMC (SD)/index.m3u8?token=93476
-#EXTINF:-1,AMC [FHD]
-http://m3u.iptvlegal.tv:25461/AMC [FHD]/index.m3u8?token=93476
-#EXTINF:-1,AMC [HD]
-http://m3u.iptvlegal.tv:25461/AMC [HD]/index.m3u8?token=93476
-#EXTINF:-1,AMC [SD]
-http://m3u.iptvlegal.tv:25461/AMC [SD]/index.m3u8?token=93476
-#EXTINF:-1,ANIMAL PLANET (FHD)
-http://m3u.iptvlegal.tv:25461/ANIMAL PLANET (FHD)/index.m3u8?token=93476
-#EXTINF:-1,ANIMAL PLANET (HD)
-http://m3u.iptvlegal.tv:25461/ANIMAL PLANET (HD)/index.m3u8?token=93476
-#EXTINF:-1,ANIMAL PLANET (SD)
-http://m3u.iptvlegal.tv:25461/ANIMAL PLANET (SD)/index.m3u8?token=93476
-#EXTINF:-1,ANIMAL PLANET [FHD]
-http://m3u.iptvlegal.tv:25461/ANIMAL PLANET [FHD]/index.m3u8?token=93476
-#EXTINF:-1,ANIMAL PLANET [HD]
-http://m3u.iptvlegal.tv:25461/ANIMAL PLANET [HD]/index.m3u8?token=93476
-#EXTINF:-1,ANIMAL PLANET [SD]
-http://m3u.iptvlegal.tv:25461/ANIMAL PLANET [SD]/index.m3u8?token=93476
-#EXTINF:-1,ARTE 1 (FHD)
-http://m3u.iptvlegal.tv:25461/ARTE 1 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,ARTE 1 (HD)
-http://m3u.iptvlegal.tv:25461/ARTE 1 (HD)/index.m3u8?token=93476
-#EXTINF:-1,ARTE 1 (SD)
-http://m3u.iptvlegal.tv:25461/ARTE 1 (SD)/index.m3u8?token=93476
-#EXTINF:-1,ARTE 1 [HD]
-http://m3u.iptvlegal.tv:25461/ARTE 1 [HD]/index.m3u8?token=93476
-#EXTINF:-1,ARTE 1 [SD]
-http://m3u.iptvlegal.tv:25461/ARTE 1 [SD]/index.m3u8?token=93476
-#EXTINF:-1,AXN (FHD)
-http://m3u.iptvlegal.tv:25461/AXN (FHD)/index.m3u8?token=93476
-#EXTINF:-1,AXN (HD)
-http://m3u.iptvlegal.tv:25461/AXN (HD)/index.m3u8?token=93476
-#EXTINF:-1,AXN (SD)
-http://m3u.iptvlegal.tv:25461/AXN (SD)/index.m3u8?token=93476
-#EXTINF:-1,AXN [FHD]
-http://m3u.iptvlegal.tv:25461/AXN [FHD]/index.m3u8?token=93476
-#EXTINF:-1,AXN [HD]
-http://m3u.iptvlegal.tv:25461/AXN [HD]/index.m3u8?token=93476
-#EXTINF:-1,AXN [SD]
-http://m3u.iptvlegal.tv:25461/AXN [SD]/index.m3u8?token=93476
-#EXTINF:-1,BABY TV (HD)
-http://m3u.iptvlegal.tv:25461/BABY TV (HD)/index.m3u8?token=93476
-#EXTINF:-1,BOOMERANG (FHD)
-http://m3u.iptvlegal.tv:25461/BOOMERANG (FHD)/index.m3u8?token=93476
-#EXTINF:-1,BOOMERANG (HD)
-http://m3u.iptvlegal.tv:25461/BOOMERANG (HD)/index.m3u8?token=93476
-#EXTINF:-1,BOOMERANG (SD)
-http://m3u.iptvlegal.tv:25461/BOOMERANG (SD)/index.m3u8?token=93476
-#EXTINF:-1,BOOMERANG [FHD]
-http://m3u.iptvlegal.tv:25461/BOOMERANG [FHD]/index.m3u8?token=93476
-#EXTINF:-1,BOOMERANG [HD]
-http://m3u.iptvlegal.tv:25461/BOOMERANG [HD]/index.m3u8?token=93476
-#EXTINF:-1,BOOMERANG [SD]
-http://m3u.iptvlegal.tv:25461/BOOMERANG [SD]/index.m3u8?token=93476
-#EXTINF:-1,CARTOON NETWORK (HD)
-http://m3u.iptvlegal.tv:25461/CARTOON NETWORK (HD)/index.m3u8?token=93476
-#EXTINF:-1,CARTOON NETWORK (SD)
-http://m3u.iptvlegal.tv:25461/CARTOON NETWORK (SD)/index.m3u8?token=93476
-#EXTINF:-1,CARTOON NETWORK [FHD]
-http://m3u.iptvlegal.tv:25461/CARTOON NETWORK [FHD]/index.m3u8?token=93476
-#EXTINF:-1,CARTOON NETWORK [HD]
-http://m3u.iptvlegal.tv:25461/CARTOON NETWORK [HD]/index.m3u8?token=93476
-#EXTINF:-1,CARTOON NETWORK [SD]
-http://m3u.iptvlegal.tv:25461/CARTOON NETWORK [SD]/index.m3u8?token=93476
-#EXTINF:-1,CINEMAX (FHD)
-http://m3u.iptvlegal.tv:25461/CINEMAX (FHD)/index.m3u8?token=93476
-#EXTINF:-1,CINEMAX (HD)
-http://m3u.iptvlegal.tv:25461/CINEMAX (HD)/index.m3u8?token=93476
-#EXTINF:-1,CINEMAX (SD)
-http://m3u.iptvlegal.tv:25461/CINEMAX (SD)/index.m3u8?token=93476
-#EXTINF:-1,CINEMAX [FHD]
-http://m3u.iptvlegal.tv:25461/CINEMAX [FHD]/index.m3u8?token=93476
-#EXTINF:-1,CINEMAX [HD]
-http://m3u.iptvlegal.tv:25461/CINEMAX [HD]/index.m3u8?token=93476
-#EXTINF:-1,CINEMAX [SD]
-http://m3u.iptvlegal.tv:25461/CINEMAX [SD]/index.m3u8?token=93476
-#EXTINF:-1,CNT (SD)
-http://m3u.iptvlegal.tv:25461/CNT (SD)/index.m3u8?token=93476
-#EXTINF:-1,CNT [SD]
-http://m3u.iptvlegal.tv:25461/CNT [SD]/index.m3u8?token=93476
-#EXTINF:-1,COMBATE (FHD)
-http://m3u.iptvlegal.tv:25461/COMBATE (FHD)/index.m3u8?token=93476
-#EXTINF:-1,COMBATE (HD)
-http://m3u.iptvlegal.tv:25461/COMBATE (HD)/index.m3u8?token=93476
-#EXTINF:-1,COMBATE (SD)
-http://m3u.iptvlegal.tv:25461/COMBATE (SD)/index.m3u8?token=93476
-#EXTINF:-1,COMBATE [FHD]
-http://m3u.iptvlegal.tv:25461/COMBATE [FHD]/index.m3u8?token=93476
-#EXTINF:-1,COMBATE [HD]
-http://m3u.iptvlegal.tv:25461/COMBATE [HD]/index.m3u8?token=93476
-#EXTINF:-1,COMBATE [SD]
-http://m3u.iptvlegal.tv:25461/COMBATE [SD]/index.m3u8?token=93476
-#EXTINF:-1,COMEDY CENTRAL (FHD)
-http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,COMEDY CENTRAL (HD)
-http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL (HD)/index.m3u8?token=93476
-#EXTINF:-1,COMEDY CENTRAL (SD)
-http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL (SD)/index.m3u8?token=93476
-#EXTINF:-1,COMEDY CENTRAL [FHD]
-http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,COMEDY CENTRAL [HD]
-http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL [HD]/index.m3u8?token=93476
-#EXTINF:-1,COMEDY CENTRAL [SD]
-http://m3u.iptvlegal.tv:25461/COMEDY CENTRAL [SD]/index.m3u8?token=93476
-#EXTINF:-1,DAZN BRASIL (FHD)
-http://m3u.iptvlegal.tv:25461/DAZN BRASIL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DAZN BRASIL (HD)
-http://m3u.iptvlegal.tv:25461/DAZN BRASIL (HD)/index.m3u8?token=93476
-#EXTINF:-1,DAZN BRASIL [HD]
-http://m3u.iptvlegal.tv:25461/DAZN BRASIL [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY CHANNEL [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CIVILIZATION (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CIVILIZATION (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CIVILIZATION (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CIVILIZATION [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CIVILIZATION [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY CIVILIZATION [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY CIVILIZATION [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY HOME & HEALTH (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY HOME & HEALTH (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY HOME & HEALTH (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY HOME & HEALTH [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY HOME & HEALTH [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY HOME & HEALTH [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY HOME & HEALTH [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY KIDS (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY KIDS (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY KIDS (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY KIDS [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY KIDS [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY KIDS [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY KIDS [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY SCIENCE (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY SCIENCE (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY SCIENCE (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY SCIENCE [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY SCIENCE [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY SCIENCE [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY SCIENCE [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY THEATER (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY THEATER (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY THEATER (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY THEATER [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY THEATER [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY THEATER [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY THEATER [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TLC (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY TLC (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TLC (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY TLC (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TLC [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY TLC [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TLC [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY TLC [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TURBO (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TURBO (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TURBO (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TURBO [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TURBO [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY TURBO [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY TURBO [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY WORLD (FHD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY WORLD (HD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY WORLD (SD)
-http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY WORLD [FHD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY WORLD [HD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISCOVERY WORLD [SD]
-http://m3u.iptvlegal.tv:25461/DISCOVERY WORLD [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/DISNEY CHANNEL [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR (FHD)
-http://m3u.iptvlegal.tv:25461/DISNEY JR (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR (HD)
-http://m3u.iptvlegal.tv:25461/DISNEY JR (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR (SD)
-http://m3u.iptvlegal.tv:25461/DISNEY JR (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR SD
-http://m3u.iptvlegal.tv:25461/DISNEY JR SD/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR [FHD]
-http://m3u.iptvlegal.tv:25461/DISNEY JR [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR [HD]
-http://m3u.iptvlegal.tv:25461/DISNEY JR [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY JR [SD]
-http://m3u.iptvlegal.tv:25461/DISNEY JR [SD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD (FHD)
-http://m3u.iptvlegal.tv:25461/DISNEY XD (FHD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD (HD)
-http://m3u.iptvlegal.tv:25461/DISNEY XD (HD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD (SD)
-http://m3u.iptvlegal.tv:25461/DISNEY XD (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD (SD)
-http://m3u.iptvlegal.tv:25461/DISNEY XD (SD)/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD [FHD]
-http://m3u.iptvlegal.tv:25461/DISNEY XD [FHD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD [HD]
-http://m3u.iptvlegal.tv:25461/DISNEY XD [HD]/index.m3u8?token=93476
-#EXTINF:-1,DISNEY XD [SD]
-http://m3u.iptvlegal.tv:25461/DISNEY XD [SD]/index.m3u8?token=93476
-#EXTINF:-1,E! (HD)
-http://m3u.iptvlegal.tv:25461/E! (HD)/index.m3u8?token=93476
-#EXTINF:-1,E! (SD)
-http://m3u.iptvlegal.tv:25461/E! (SD)/index.m3u8?token=93476
-#EXTINF:-1,E! [HD]
-http://m3u.iptvlegal.tv:25461/E! [HD]/index.m3u8?token=93476
-#EXTINF:-1,E! [SD]
-http://m3u.iptvlegal.tv:25461/E! [SD]/index.m3u8?token=93476
-#EXTINF:-1,EI PLUS (SD)
-http://m3u.iptvlegal.tv:25461/EI PLUS (SD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN (FHD)
-http://m3u.iptvlegal.tv:25461/ESPN (FHD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN (HD)
-http://m3u.iptvlegal.tv:25461/ESPN (HD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN (SD)
-http://m3u.iptvlegal.tv:25461/ESPN (SD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN BRASIL (FHD)
-http://m3u.iptvlegal.tv:25461/ESPN BRASIL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN BRASIL (HD)
-http://m3u.iptvlegal.tv:25461/ESPN BRASIL (HD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN BRASIL (SD)
-http://m3u.iptvlegal.tv:25461/ESPN BRASIL (SD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN BRASIL [FHD]
-http://m3u.iptvlegal.tv:25461/ESPN BRASIL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN BRASIL [HD]
-http://m3u.iptvlegal.tv:25461/ESPN BRASIL [HD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN BRASIL [SD]
-http://m3u.iptvlegal.tv:25461/ESPN BRASIL [SD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN  [FHD]
-http://m3u.iptvlegal.tv:25461/ESPN  [FHD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN [FHD]
-http://m3u.iptvlegal.tv:25461/ESPN [FHD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN  [HD]
-http://m3u.iptvlegal.tv:25461/ESPN  [HD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN [HD]
-http://m3u.iptvlegal.tv:25461/ESPN [HD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN  [SD]
-http://m3u.iptvlegal.tv:25461/ESPN  [SD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN [SD]
-http://m3u.iptvlegal.tv:25461/ESPN [SD]/index.m3u8?token=93476
-#EXTINF:-1,ESPN+ (FHD)
-http://m3u.iptvlegal.tv:25461/ESPN+ (FHD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN+ (HD)
-http://m3u.iptvlegal.tv:25461/ESPN+ (HD)/index.m3u8?token=93476
-#EXTINF:-1,ESPN+ (SD)
-http://m3u.iptvlegal.tv:25461/ESPN+ (SD)/index.m3u8?token=93476
-#EXTINF:-1,FISH TV (HD)
-http://m3u.iptvlegal.tv:25461/FISH TV (HD)/index.m3u8?token=93476
-#EXTINF:-1,FISH TV (SD)
-http://m3u.iptvlegal.tv:25461/FISH TV (SD)/index.m3u8?token=93476
-#EXTINF:-1,FISH TV [HD]
-http://m3u.iptvlegal.tv:25461/FISH TV [HD]/index.m3u8?token=93476
-#EXTINF:-1,FISH TV [SD]
-http://m3u.iptvlegal.tv:25461/FISH TV [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOOD NETWORK (FHD)
-http://m3u.iptvlegal.tv:25461/FOOD NETWORK (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FOOD NETWORK (HD)
-http://m3u.iptvlegal.tv:25461/FOOD NETWORK (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOOD NETWORK (SD)
-http://m3u.iptvlegal.tv:25461/FOOD NETWORK (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOOD NETWORK [FHD]
-http://m3u.iptvlegal.tv:25461/FOOD NETWORK [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FOOD NETWORK [HD]
-http://m3u.iptvlegal.tv:25461/FOOD NETWORK [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOOD NETWORK [SD]
-http://m3u.iptvlegal.tv:25461/FOOD NETWORK [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOX (FHD)
-http://m3u.iptvlegal.tv:25461/FOX (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FOX (HD)
-http://m3u.iptvlegal.tv:25461/FOX (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOX (SD)
-http://m3u.iptvlegal.tv:25461/FOX (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOX LIFE (HD)
-http://m3u.iptvlegal.tv:25461/FOX LIFE (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOX LIFE (SD)
-http://m3u.iptvlegal.tv:25461/FOX LIFE (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOX LIFE [HD]
-http://m3u.iptvlegal.tv:25461/FOX LIFE [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOX LIFE [SD]
-http://m3u.iptvlegal.tv:25461/FOX LIFE [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 1 (FHD)
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 1 (HD)
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 1 (SD)
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 1 [FHD]
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 1 [HD]
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 1 [SD]
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 1 [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 2 (FHD)
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 2 (HD)
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 2 (SD)
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 2 [FHD]
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 2 [HD]
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOX PREMIUM 2 [SD]
-http://m3u.iptvlegal.tv:25461/FOX PREMIUM 2 [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS (FHD)
-http://m3u.iptvlegal.tv:25461/FOX SPORTS (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS (HD)
-http://m3u.iptvlegal.tv:25461/FOX SPORTS (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS (SD)
-http://m3u.iptvlegal.tv:25461/FOX SPORTS (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS 2 (FHD)
-http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS 2 (HD)
-http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 (HD)/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS 2 (SD)
-http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 (SD)/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS 2 [FHD]
-http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS 2 [HD]
-http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS 2 [SD]
-http://m3u.iptvlegal.tv:25461/FOX SPORTS 2 [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS [FHD]
-http://m3u.iptvlegal.tv:25461/FOX SPORTS [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS [HD]
-http://m3u.iptvlegal.tv:25461/FOX SPORTS [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOX SPORTS [SD]
-http://m3u.iptvlegal.tv:25461/FOX SPORTS [SD]/index.m3u8?token=93476
-#EXTINF:-1,FOX [FHD]
-http://m3u.iptvlegal.tv:25461/FOX [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FOX [HD]
-http://m3u.iptvlegal.tv:25461/FOX [HD]/index.m3u8?token=93476
-#EXTINF:-1,FOX [SD]
-http://m3u.iptvlegal.tv:25461/FOX [SD]/index.m3u8?token=93476
-#EXTINF:-1,FUTURA (HD)
-http://m3u.iptvlegal.tv:25461/FUTURA (HD)/index.m3u8?token=93476
-#EXTINF:-1,FUTURA (SD)
-http://m3u.iptvlegal.tv:25461/FUTURA (SD)/index.m3u8?token=93476
-#EXTINF:-1,FUTURA [SD]
-http://m3u.iptvlegal.tv:25461/FUTURA [SD]/index.m3u8?token=93476
-#EXTINF:-1,FX (FHD)
-http://m3u.iptvlegal.tv:25461/FX (FHD)/index.m3u8?token=93476
-#EXTINF:-1,FX (HD)
-http://m3u.iptvlegal.tv:25461/FX (HD)/index.m3u8?token=93476
-#EXTINF:-1,FX (SD)
-http://m3u.iptvlegal.tv:25461/FX (SD)/index.m3u8?token=93476
-#EXTINF:-1,FX [FHD]
-http://m3u.iptvlegal.tv:25461/FX [FHD]/index.m3u8?token=93476
-#EXTINF:-1,FX [HD]
-http://m3u.iptvlegal.tv:25461/FX [HD]/index.m3u8?token=93476
-#EXTINF:-1,FX [SD]
-http://m3u.iptvlegal.tv:25461/FX [SD]/index.m3u8?token=93476
-#EXTINF:-1,GNT (HD)
-http://m3u.iptvlegal.tv:25461/GNT (HD)/index.m3u8?token=93476
-#EXTINF:-1,GNT (SD)
-http://m3u.iptvlegal.tv:25461/GNT (SD)/index.m3u8?token=93476
-#EXTINF:-1,GNT [HD]
-http://m3u.iptvlegal.tv:25461/GNT [HD]/index.m3u8?token=93476
-#EXTINF:-1,GNT [SD]
-http://m3u.iptvlegal.tv:25461/GNT [SD]/index.m3u8?token=93476
-#EXTINF:-1,H2 (FHD)
-http://m3u.iptvlegal.tv:25461/H2 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,H2 (HD)
-http://m3u.iptvlegal.tv:25461/H2 (HD)/index.m3u8?token=93476
-#EXTINF:-1,H2 (SD)
-http://m3u.iptvlegal.tv:25461/H2 (SD)/index.m3u8?token=93476
-#EXTINF:-1,H2 [FHD]
-http://m3u.iptvlegal.tv:25461/H2 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,H2 [HD]
-http://m3u.iptvlegal.tv:25461/H2 [HD]/index.m3u8?token=93476
-#EXTINF:-1,H2 [SD]
-http://m3u.iptvlegal.tv:25461/H2 [SD]/index.m3u8?token=93476
-#EXTINF:-1,HBO (FHD)
-http://m3u.iptvlegal.tv:25461/HBO (FHD)/index.m3u8?token=93476
-#EXTINF:-1,HBO (HD)
-http://m3u.iptvlegal.tv:25461/HBO (HD)/index.m3u8?token=93476
-#EXTINF:-1,HBO (SD)
-http://m3u.iptvlegal.tv:25461/HBO (SD)/index.m3u8?token=93476
-#EXTINF:-1,HBO 2 (FHD)
-http://m3u.iptvlegal.tv:25461/HBO 2 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,HBO 2 (HD)
-http://m3u.iptvlegal.tv:25461/HBO 2 (HD)/index.m3u8?token=93476
-#EXTINF:-1,HBO 2 (SD)
-http://m3u.iptvlegal.tv:25461/HBO 2 (SD)/index.m3u8?token=93476
-#EXTINF:-1,HBO 2 [FHD]
-http://m3u.iptvlegal.tv:25461/HBO 2 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,HBO 2 [HD]
-http://m3u.iptvlegal.tv:25461/HBO 2 [HD]/index.m3u8?token=93476
-#EXTINF:-1,HBO 2 [SD]
-http://m3u.iptvlegal.tv:25461/HBO 2 [SD]/index.m3u8?token=93476
-#EXTINF:-1,HBO FAMILY (HD)
-http://m3u.iptvlegal.tv:25461/HBO FAMILY (HD)/index.m3u8?token=93476
-#EXTINF:-1,HBO FAMILY (SD)
-http://m3u.iptvlegal.tv:25461/HBO FAMILY (SD)/index.m3u8?token=93476
-#EXTINF:-1,HBO FAMILY [HD]
-http://m3u.iptvlegal.tv:25461/HBO FAMILY [HD]/index.m3u8?token=93476
-#EXTINF:-1,HBO FAMILY [SD]
-http://m3u.iptvlegal.tv:25461/HBO FAMILY [SD]/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS (FHD)
-http://m3u.iptvlegal.tv:25461/HBO PLUS (FHD)/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS (HD)
-http://m3u.iptvlegal.tv:25461/HBO PLUS (HD)/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS (SD)
-http://m3u.iptvlegal.tv:25461/HBO PLUS (SD)/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS [FHD]
-http://m3u.iptvlegal.tv:25461/HBO PLUS [FHD]/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS [HD]
-http://m3u.iptvlegal.tv:25461/HBO PLUS [HD]/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS [SD]
-http://m3u.iptvlegal.tv:25461/HBO PLUS [SD]/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS*E (HD)
-http://m3u.iptvlegal.tv:25461/HBO PLUS*E (HD)/index.m3u8?token=93476
-#EXTINF:-1,HBO PLUS*E (SD)
-http://m3u.iptvlegal.tv:25461/HBO PLUS*E (SD)/index.m3u8?token=93476
-#EXTINF:-1,HBO SIGNATURE (FHD)
-http://m3u.iptvlegal.tv:25461/HBO SIGNATURE (FHD)/index.m3u8?token=93476
-#EXTINF:-1,HBO SIGNATURE (HD)
-http://m3u.iptvlegal.tv:25461/HBO SIGNATURE (HD)/index.m3u8?token=93476
-#EXTINF:-1,HBO SIGNATURE (SD)
-http://m3u.iptvlegal.tv:25461/HBO SIGNATURE (SD)/index.m3u8?token=93476
-#EXTINF:-1,HBO SIGNATURE [FHD]
-http://m3u.iptvlegal.tv:25461/HBO SIGNATURE [FHD]/index.m3u8?token=93476
-#EXTINF:-1,HBO SIGNATURE [HD]
-http://m3u.iptvlegal.tv:25461/HBO SIGNATURE [HD]/index.m3u8?token=93476
-#EXTINF:-1,HBO SIGNATURE [SD]
-http://m3u.iptvlegal.tv:25461/HBO SIGNATURE [SD]/index.m3u8?token=93476
-#EXTINF:-1,HBO [FHD]
-http://m3u.iptvlegal.tv:25461/HBO [FHD]/index.m3u8?token=93476
-#EXTINF:-1,HBO [HD]
-http://m3u.iptvlegal.tv:25461/HBO [HD]/index.m3u8?token=93476
-#EXTINF:-1,HISTORY CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,HISTORY CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL (HD)/index.m3u8?token=93476
-#EXTINF:-1,HISTORY CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL (SD)/index.m3u8?token=93476
-#EXTINF:-1,HISTORY CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,HISTORY CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL [HD]/index.m3u8?token=93476
-#EXTINF:-1,HISTORY CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/HISTORY CHANNEL [SD]/index.m3u8?token=93476
-#EXTINF:-1,LIFETIME (HD)
-http://m3u.iptvlegal.tv:25461/LIFETIME (HD)/index.m3u8?token=93476
-#EXTINF:-1,LIFETIME (SD)
-http://m3u.iptvlegal.tv:25461/LIFETIME (SD)/index.m3u8?token=93476
-#EXTINF:-1,LIFETIME [HD]
-http://m3u.iptvlegal.tv:25461/LIFETIME [HD]/index.m3u8?token=93476
-#EXTINF:-1,LIFETIME [SD]
-http://m3u.iptvlegal.tv:25461/LIFETIME [SD]/index.m3u8?token=93476
-#EXTINF:-1,MAX (HD)
-http://m3u.iptvlegal.tv:25461/MAX (HD)/index.m3u8?token=93476
-#EXTINF:-1,MAX (SD)
-http://m3u.iptvlegal.tv:25461/MAX (SD)/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME (FHD)
-http://m3u.iptvlegal.tv:25461/MAX PRIME (FHD)/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME (HD)
-http://m3u.iptvlegal.tv:25461/MAX PRIME (HD)/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME (SD)
-http://m3u.iptvlegal.tv:25461/MAX PRIME (SD)/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME [FHD]
-http://m3u.iptvlegal.tv:25461/MAX PRIME [FHD]/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME [HD]
-http://m3u.iptvlegal.tv:25461/MAX PRIME [HD]/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME [SD]
-http://m3u.iptvlegal.tv:25461/MAX PRIME [SD]/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME*E (HD)
-http://m3u.iptvlegal.tv:25461/MAX PRIME*E (HD)/index.m3u8?token=93476
-#EXTINF:-1,MAX PRIME*E (SD)
-http://m3u.iptvlegal.tv:25461/MAX PRIME*E (SD)/index.m3u8?token=93476
-#EXTINF:-1,MAX UP (HD)
-http://m3u.iptvlegal.tv:25461/MAX UP (HD)/index.m3u8?token=93476
-#EXTINF:-1,MAX UP (SD)
-http://m3u.iptvlegal.tv:25461/MAX UP (SD)/index.m3u8?token=93476
-#EXTINF:-1,MAX UP [HD]
-http://m3u.iptvlegal.tv:25461/MAX UP [HD]/index.m3u8?token=93476
-#EXTINF:-1,MAX UP [SD]
-http://m3u.iptvlegal.tv:25461/MAX UP [SD]/index.m3u8?token=93476
-#EXTINF:-1,MAX [HD]
-http://m3u.iptvlegal.tv:25461/MAX [HD]/index.m3u8?token=93476
-#EXTINF:-1,MAX [SD]
-http://m3u.iptvlegal.tv:25461/MAX [SD]/index.m3u8?token=93476
-#EXTINF:-1,MEGAPIX (FHD)
-http://m3u.iptvlegal.tv:25461/MEGAPIX (FHD)/index.m3u8?token=93476
-#EXTINF:-1,MEGAPIX (HD)
-http://m3u.iptvlegal.tv:25461/MEGAPIX (HD)/index.m3u8?token=93476
-#EXTINF:-1,MEGAPIX (SD)
-http://m3u.iptvlegal.tv:25461/MEGAPIX (SD)/index.m3u8?token=93476
-#EXTINF:-1,MEGAPIX [FHD]
-http://m3u.iptvlegal.tv:25461/MEGAPIX [FHD]/index.m3u8?token=93476
-#EXTINF:-1,MEGAPIX [HD]
-http://m3u.iptvlegal.tv:25461/MEGAPIX [HD]/index.m3u8?token=93476
-#EXTINF:-1,MEGAPIX [SD]
-http://m3u.iptvlegal.tv:25461/MEGAPIX [SD]/index.m3u8?token=93476
-#EXTINF:-1,NAT GEO KIDS (FHD)
-http://m3u.iptvlegal.tv:25461/NAT GEO KIDS (FHD)/index.m3u8?token=93476
-#EXTINF:-1,NAT GEO KIDS [FHD]
-http://m3u.iptvlegal.tv:25461/NAT GEO KIDS [FHD]/index.m3u8?token=93476
-#EXTINF:-1,NATGEO (FHD)
-http://m3u.iptvlegal.tv:25461/NATGEO (FHD)/index.m3u8?token=93476
-#EXTINF:-1,NATGEO KIDS (HD)
-http://m3u.iptvlegal.tv:25461/NATGEO KIDS (HD)/index.m3u8?token=93476
-#EXTINF:-1,NATGEO KIDS (SD)
-http://m3u.iptvlegal.tv:25461/NATGEO KIDS (SD)/index.m3u8?token=93476
-#EXTINF:-1,NATGEO KIDS [HD]
-http://m3u.iptvlegal.tv:25461/NATGEO KIDS [HD]/index.m3u8?token=93476
-#EXTINF:-1,NATGEO WILD (FHD)
-http://m3u.iptvlegal.tv:25461/NATGEO WILD (FHD)/index.m3u8?token=93476
-#EXTINF:-1,NATGEO WILD (HD)
-http://m3u.iptvlegal.tv:25461/NATGEO WILD (HD)/index.m3u8?token=93476
-#EXTINF:-1,NATGEO WILD (SD)
-http://m3u.iptvlegal.tv:25461/NATGEO WILD (SD)/index.m3u8?token=93476
-#EXTINF:-1,NATGEO WILD [FHD]
-http://m3u.iptvlegal.tv:25461/NATGEO WILD [FHD]/index.m3u8?token=93476
-#EXTINF:-1,NATGEO WILD [HD]
-http://m3u.iptvlegal.tv:25461/NATGEO WILD [HD]/index.m3u8?token=93476
-#EXTINF:-1,NATIONAL GEOGRAPHIC (FHD)
-http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC (FHD)/index.m3u8?token=93476
-#EXTINF:-1,NATIONAL GEOGRAPHIC (HD)
-http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC (HD)/index.m3u8?token=93476
-#EXTINF:-1,NATIONAL GEOGRAPHIC (SD)
-http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC (SD)/index.m3u8?token=93476
-#EXTINF:-1,NATIONAL GEOGRAPHIC [FHD]
-http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC [FHD]/index.m3u8?token=93476
-#EXTINF:-1,NATIONAL GEOGRAPHIC [HD]
-http://m3u.iptvlegal.tv:25461/NATIONAL GEOGRAPHIC [HD]/index.m3u8?token=93476
-#EXTINF:-1,NICK JR (FHD)
-http://m3u.iptvlegal.tv:25461/NICK JR (FHD)/index.m3u8?token=93476
-#EXTINF:-1,NICK JR (HD)
-http://m3u.iptvlegal.tv:25461/NICK JR (HD)/index.m3u8?token=93476
-#EXTINF:-1,NICK JR SD
-http://m3u.iptvlegal.tv:25461/NICK JR SD/index.m3u8?token=93476
-#EXTINF:-1,NICK JR [FHD]
-http://m3u.iptvlegal.tv:25461/NICK JR [FHD]/index.m3u8?token=93476
-#EXTINF:-1,NICK JR [HD]
-http://m3u.iptvlegal.tv:25461/NICK JR [HD]/index.m3u8?token=93476
-#EXTINF:-1,NICK JR [SD]
-http://m3u.iptvlegal.tv:25461/NICK JR [SD]/index.m3u8?token=93476
-#EXTINF:-1,NICKELODEON (HD)
-http://m3u.iptvlegal.tv:25461/NICKELODEON (HD)/index.m3u8?token=93476
-#EXTINF:-1,NICKELODEON SD
-http://m3u.iptvlegal.tv:25461/NICKELODEON SD/index.m3u8?token=93476
-#EXTINF:-1,NICKELODEON [HD]
-http://m3u.iptvlegal.tv:25461/NICKELODEON [HD]/index.m3u8?token=93476
-#EXTINF:-1,PARAMOUNT CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PARAMOUNT CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL (HD)/index.m3u8?token=93476
-#EXTINF:-1,PARAMOUNT CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL (SD)/index.m3u8?token=93476
-#EXTINF:-1,PARAMOUNT CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PARAMOUNT CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL [HD]/index.m3u8?token=93476
-#EXTINF:-1,PARAMOUNT CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/PARAMOUNT CHANNEL [SD]/index.m3u8?token=93476
-#EXTINF:-1,PASSIE [SD]
-http://m3u.iptvlegal.tv:25461/PASSIE [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 1 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 1 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 1 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 1 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 2 (FHD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 2 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 2 (HD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 2 (HD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 2 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 2 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 2 [FHD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 2 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 2 [HD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 2 [HD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 2 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 2 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 3 (FHD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 3 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 3 (HD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 3 (HD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 3 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 3 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 3 [FHD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 3 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 3 [HD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 3 [HD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 3 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 3 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 4 (FHD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 4 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 4 (HD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 4 (HD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 4 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 4 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 4 [FHD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 4 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 4 [HD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 4 [HD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 4 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 4 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 5 (FHD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 5 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 5 (HD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 5 (HD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 5 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 5 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 5 [FHD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 5 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 5 [HD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 5 [HD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 5 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 5 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 6 (FHD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 6 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 6 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 6 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 6 [FHD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 6 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 6 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 6 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 7 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 7 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 7 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 7 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 8 (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE 8 (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE 8 [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE 8 [SD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE CLUBES (FHD)
-http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES (FHD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE CLUBES (HD)
-http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES (HD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE CLUBES (SD)
-http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES (SD)/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE CLUBES [FHD]
-http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES [FHD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE CLUBES [HD]
-http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES [HD]/index.m3u8?token=93476
-#EXTINF:-1,PREMIERE CLUBES [SD]
-http://m3u.iptvlegal.tv:25461/PREMIERE CLUBES [SD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV (FHD)
-http://m3u.iptvlegal.tv:25461/SPORTV (FHD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV (HD)
-http://m3u.iptvlegal.tv:25461/SPORTV (HD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV (SD)
-http://m3u.iptvlegal.tv:25461/SPORTV (SD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 2 (FHD)
-http://m3u.iptvlegal.tv:25461/SPORTV 2 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 2 (HD)
-http://m3u.iptvlegal.tv:25461/SPORTV 2 (HD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 2 (SD)
-http://m3u.iptvlegal.tv:25461/SPORTV 2 (SD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 2 [FHD]
-http://m3u.iptvlegal.tv:25461/SPORTV 2 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 2 [HD]
-http://m3u.iptvlegal.tv:25461/SPORTV 2 [HD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 2 [SD]
-http://m3u.iptvlegal.tv:25461/SPORTV 2 [SD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 3 (FHD)
-http://m3u.iptvlegal.tv:25461/SPORTV 3 (FHD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 3 (HD)
-http://m3u.iptvlegal.tv:25461/SPORTV 3 (HD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 3 (SD)
-http://m3u.iptvlegal.tv:25461/SPORTV 3 (SD)/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 3 [FHD]
-http://m3u.iptvlegal.tv:25461/SPORTV 3 [FHD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 3 [HD]
-http://m3u.iptvlegal.tv:25461/SPORTV 3 [HD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV 3 [SD]
-http://m3u.iptvlegal.tv:25461/SPORTV 3 [SD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV [FHD]
-http://m3u.iptvlegal.tv:25461/SPORTV [FHD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV [HD]
-http://m3u.iptvlegal.tv:25461/SPORTV [HD]/index.m3u8?token=93476
-#EXTINF:-1,SPORTV [SD]
-http://m3u.iptvlegal.tv:25461/SPORTV [SD]/index.m3u8?token=93476
-#EXTINF:-1,STUDIO UNIVERSAL (FHD)
-http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,STUDIO UNIVERSAL (HD)
-http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL (HD)/index.m3u8?token=93476
-#EXTINF:-1,STUDIO UNIVERSAL (SD)
-http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL (SD)/index.m3u8?token=93476
-#EXTINF:-1,STUDIO UNIVERSAL [FHD]
-http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,STUDIO UNIVERSAL [HD]
-http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL [HD]/index.m3u8?token=93476
-#EXTINF:-1,STUDIO UNIVERSAL [SD]
-http://m3u.iptvlegal.tv:25461/STUDIO UNIVERSAL [SD]/index.m3u8?token=93476
-#EXTINF:-1,SYFY (FHD)
-http://m3u.iptvlegal.tv:25461/SYFY (FHD)/index.m3u8?token=93476
-#EXTINF:-1,SYFY (HD)
-http://m3u.iptvlegal.tv:25461/SYFY (HD)/index.m3u8?token=93476
-#EXTINF:-1,SYFY (SD)
-http://m3u.iptvlegal.tv:25461/SYFY (SD)/index.m3u8?token=93476
-#EXTINF:-1,SYFY [FHD]
-http://m3u.iptvlegal.tv:25461/SYFY [FHD]/index.m3u8?token=93476
-#EXTINF:-1,SYFY [HD]
-http://m3u.iptvlegal.tv:25461/SYFY [HD]/index.m3u8?token=93476
-#EXTINF:-1,SYFY [SD]
-http://m3u.iptvlegal.tv:25461/SYFY [SD]/index.m3u8?token=93476
-#EXTINF:-1,TBS (SD)
-http://m3u.iptvlegal.tv:25461/TBS (SD)/index.m3u8?token=93476
-#EXTINF:-1,TBS [SD]
-http://m3u.iptvlegal.tv:25461/TBS [SD]/index.m3u8?token=93476
-#EXTINF:-1,TCM (SD)
-http://m3u.iptvlegal.tv:25461/TCM (SD)/index.m3u8?token=93476
-#EXTINF:-1,TCM [SD]
-http://m3u.iptvlegal.tv:25461/TCM [SD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE ACTION (FHD)
-http://m3u.iptvlegal.tv:25461/TELECINE ACTION (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE ACTION (HD)
-http://m3u.iptvlegal.tv:25461/TELECINE ACTION (HD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE ACTION (SD)
-http://m3u.iptvlegal.tv:25461/TELECINE ACTION (SD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE ACTION [FHD]
-http://m3u.iptvlegal.tv:25461/TELECINE ACTION [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE ACTION [HD]
-http://m3u.iptvlegal.tv:25461/TELECINE ACTION [HD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE ACTION [SD]
-http://m3u.iptvlegal.tv:25461/TELECINE ACTION [SD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE CULT (FHD)
-http://m3u.iptvlegal.tv:25461/TELECINE CULT (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE CULT (HD)
-http://m3u.iptvlegal.tv:25461/TELECINE CULT (HD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE CULT (SD)
-http://m3u.iptvlegal.tv:25461/TELECINE CULT (SD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE CULT [FHD]
-http://m3u.iptvlegal.tv:25461/TELECINE CULT [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE CULT [HD]
-http://m3u.iptvlegal.tv:25461/TELECINE CULT [HD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE CULT [SD]
-http://m3u.iptvlegal.tv:25461/TELECINE CULT [SD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE FUN (FHD)
-http://m3u.iptvlegal.tv:25461/TELECINE FUN (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE FUN (HD)
-http://m3u.iptvlegal.tv:25461/TELECINE FUN (HD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE FUN (SD)
-http://m3u.iptvlegal.tv:25461/TELECINE FUN (SD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE FUN [FHD]
-http://m3u.iptvlegal.tv:25461/TELECINE FUN [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE FUN [HD]
-http://m3u.iptvlegal.tv:25461/TELECINE FUN [HD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE FUN [SD]
-http://m3u.iptvlegal.tv:25461/TELECINE FUN [SD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PIPOCA (FHD)
-http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PIPOCA (HD)
-http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA (HD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PIPOCA (SD)
-http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA (SD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PIPOCA [FHD]
-http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PIPOCA [HD]
-http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA [HD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PIPOCA [SD]
-http://m3u.iptvlegal.tv:25461/TELECINE PIPOCA [SD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PREMIUM (FHD)
-http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PREMIUM (HD)
-http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM (HD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PREMIUM (SD)
-http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM (SD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PREMIUM [FHD]
-http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PREMIUM [HD]
-http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM [HD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE PREMIUM [SD]
-http://m3u.iptvlegal.tv:25461/TELECINE PREMIUM [SD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE TOUCH (FHD)
-http://m3u.iptvlegal.tv:25461/TELECINE TOUCH (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE TOUCH (HD)
-http://m3u.iptvlegal.tv:25461/TELECINE TOUCH (HD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE TOUCH (SD)
-http://m3u.iptvlegal.tv:25461/TELECINE TOUCH (SD)/index.m3u8?token=93476
-#EXTINF:-1,TELECINE TOUCH [FHD]
-http://m3u.iptvlegal.tv:25461/TELECINE TOUCH [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE TOUCH [HD]
-http://m3u.iptvlegal.tv:25461/TELECINE TOUCH [HD]/index.m3u8?token=93476
-#EXTINF:-1,TELECINE TOUCH [SD]
-http://m3u.iptvlegal.tv:25461/TELECINE TOUCH [SD]/index.m3u8?token=93476
-#EXTINF:-1,TNT (FHD)
-http://m3u.iptvlegal.tv:25461/TNT (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TNT (HD)
-http://m3u.iptvlegal.tv:25461/TNT (HD)/index.m3u8?token=93476
-#EXTINF:-1,TNT (SD)
-http://m3u.iptvlegal.tv:25461/TNT (SD)/index.m3u8?token=93476
-#EXTINF:-1,TNT SERIES (FHD)
-http://m3u.iptvlegal.tv:25461/TNT SERIES (FHD)/index.m3u8?token=93476
-#EXTINF:-1,TNT SERIES (HD)
-http://m3u.iptvlegal.tv:25461/TNT SERIES (HD)/index.m3u8?token=93476
-#EXTINF:-1,TNT SERIES (SD)
-http://m3u.iptvlegal.tv:25461/TNT SERIES (SD)/index.m3u8?token=93476
-#EXTINF:-1,TNT SERIES [FHD]
-http://m3u.iptvlegal.tv:25461/TNT SERIES [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TNT SERIES [HD]
-http://m3u.iptvlegal.tv:25461/TNT SERIES [HD]/index.m3u8?token=93476
-#EXTINF:-1,TNT SERIES [SD]
-http://m3u.iptvlegal.tv:25461/TNT SERIES [SD]/index.m3u8?token=93476
-#EXTINF:-1,TNT [FHD]
-http://m3u.iptvlegal.tv:25461/TNT [FHD]/index.m3u8?token=93476
-#EXTINF:-1,TNT [HD]
-http://m3u.iptvlegal.tv:25461/TNT [HD]/index.m3u8?token=93476
-#EXTINF:-1,TNT [SD]
-http://m3u.iptvlegal.tv:25461/TNT [SD]/index.m3u8?token=93476
-#EXTINF:-1,TOONCAST (HD)
-http://m3u.iptvlegal.tv:25461/TOONCAST (HD)/index.m3u8?token=93476
-#EXTINF:-1,TOONCAST SD
-http://m3u.iptvlegal.tv:25461/TOONCAST SD/index.m3u8?token=93476
-#EXTINF:-1,TOONCAST [HD]
-http://m3u.iptvlegal.tv:25461/TOONCAST [HD]/index.m3u8?token=93476
-#EXTINF:-1,TOONCAST [SD]
-http://m3u.iptvlegal.tv:25461/TOONCAST [SD]/index.m3u8?token=93476
-#EXTINF:-1,TV GAZETA (SD)
-http://m3u.iptvlegal.tv:25461/TV GAZETA (SD)/index.m3u8?token=93476
-#EXTINF:-1,TV GAZETA [SD]
-http://m3u.iptvlegal.tv:25461/TV GAZETA [SD]/index.m3u8?token=93476
-#EXTINF:-1,UNIVERSAL CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,UNIVERSAL CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL (HD)/index.m3u8?token=93476
-#EXTINF:-1,UNIVERSAL CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL (SD)/index.m3u8?token=93476
-#EXTINF:-1,UNIVERSAL CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,UNIVERSAL CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL [HD]/index.m3u8?token=93476
-#EXTINF:-1,UNIVERSAL CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/UNIVERSAL CHANNEL [SD]/index.m3u8?token=93476
-#EXTINF:-1,WARNER CHANNEL (FHD)
-http://m3u.iptvlegal.tv:25461/WARNER CHANNEL (FHD)/index.m3u8?token=93476
-#EXTINF:-1,WARNER CHANNEL (HD)
-http://m3u.iptvlegal.tv:25461/WARNER CHANNEL (HD)/index.m3u8?token=93476
-#EXTINF:-1,WARNER CHANNEL (SD)
-http://m3u.iptvlegal.tv:25461/WARNER CHANNEL (SD)/index.m3u8?token=93476
-#EXTINF:-1,WARNER CHANNEL [FHD]
-http://m3u.iptvlegal.tv:25461/WARNER CHANNEL [FHD]/index.m3u8?token=93476
-#EXTINF:-1,WARNER CHANNEL [HD]
-http://m3u.iptvlegal.tv:25461/WARNER CHANNEL [HD]/index.m3u8?token=93476
-#EXTINF:-1,WARNER CHANNEL [SD]
-http://m3u.iptvlegal.tv:25461/WARNER CHANNEL [SD]/index.m3u8?token=93476
