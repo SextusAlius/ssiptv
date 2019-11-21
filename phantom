@@ -1287,8 +1287,6 @@ http://tv.minhalista.me:80/movie/sNFsjbZ1/phantomiptv/57578.mp4
 http://tv.minhalista.me:80/movie/sNFsjbZ1/phantomiptv/57577.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Sacada" tvg-logo="http://tv.factoryiptv.com:80/images/leh0cI5mnwJbDm9EL5IGglDkBxk_small.jpg" group-title="Filmes | Acao/Aventura/Guerra",A Sacada
 http://tv.minhalista.me:80/movie/sNFsjbZ1/phantomiptv/57580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adiós, querida mamá" tvg-logo="http://tv.factoryiptv.com:80/images/1f7xRSrqTtxTACxO80xMU1Yrt0e_small.jpg" group-title="Filmes | Drama/Suspense/Romance",Adiós, querida mamá
-http://tv.minhalista.me:80/movie/sNFsjbZ1/phantomiptv/57685.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Animals" tvg-logo="http://tv.factoryiptv.com:80/images/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j_small.jpg" group-title="Filmes | Lancamentos 2019",American Animals
 http://tv.minhalista.me:80/movie/sNFsjbZ1/phantomiptv/57692.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="http://tv.factoryiptv.com:80/images/kmcqlZGaSh20zpTbuoF0Cdn07dT_small.jpg" group-title="Filmes | Ficcao/Fantasia",Avatar
@@ -4889,8 +4887,6 @@ http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/62842.m3u8
 http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/62841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PFC CLUBES H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [01] ",PFC CLUBES H265
 http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/62900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XX] PLAYBOY - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | Adultos",[XX] PLAYBOY - H265
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/62901.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [01] ",PRIME BOX BRAZIL H265
 http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/62903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [01] ",RECORD NEWS H265
@@ -5003,76 +4999,6 @@ http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63116.m3u8
 http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/38420.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini" tvg-logo="http://tv.factoryiptv.com/images/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg" group-title="Filmes | Lancamentos 2019",Projeto Gemini
 http://tv.minhalista.me:80/movie/sNFsjbZ1/phantomiptv/63118.mp4
-#EXTINF:-1 tvg-id="Filme 01" tvg-name="Filme 01" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 01
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63119.m3u8
-#EXTINF:-1 tvg-id="Filme 02" tvg-name="Filme 02" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 02
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63120.m3u8
-#EXTINF:-1 tvg-id="Filme 03" tvg-name="Filme 03" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 03
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63121.m3u8
-#EXTINF:-1 tvg-id="Filme 04" tvg-name="Filme 04" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 04
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63122.m3u8
-#EXTINF:-1 tvg-id="Filme 05" tvg-name="Filme 05" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 05
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63123.m3u8
-#EXTINF:-1 tvg-id="Filme 06" tvg-name="Filme 06" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 06
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63124.m3u8
-#EXTINF:-1 tvg-id="Filme 07" tvg-name="Filme 07" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 07
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63125.m3u8
-#EXTINF:-1 tvg-id="Filme 08" tvg-name="Filme 08" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 08
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63126.m3u8
-#EXTINF:-1 tvg-id="Filme 09" tvg-name="Filme 09" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 09
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63127.m3u8
-#EXTINF:-1 tvg-id="Filme 10" tvg-name="Filme 10" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 10
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63128.m3u8
-#EXTINF:-1 tvg-id="Filme 11" tvg-name="Filme 11" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 11
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63129.m3u8
-#EXTINF:-1 tvg-id="Filme 12" tvg-name="Filme 12" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 12
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63130.m3u8
-#EXTINF:-1 tvg-id="Filme 13" tvg-name="Filme 13" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 13
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63131.m3u8
-#EXTINF:-1 tvg-id="Filme 14" tvg-name="Filme 14" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 14
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63132.m3u8
-#EXTINF:-1 tvg-id="Filme 15" tvg-name="Filme 15" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 15
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63133.m3u8
-#EXTINF:-1 tvg-id="Filme 16" tvg-name="Filme 16" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 16
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63134.m3u8
-#EXTINF:-1 tvg-id="Filme 17" tvg-name="Filme 17" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 17
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63135.m3u8
-#EXTINF:-1 tvg-id="Filme 18" tvg-name="Filme 18" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 18
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63136.m3u8
-#EXTINF:-1 tvg-id="Filme 19" tvg-name="Filme 19" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 19
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63137.m3u8
-#EXTINF:-1 tvg-id="Filme 20" tvg-name="Filme 20" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 20
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63138.m3u8
-#EXTINF:-1 tvg-id="Filme 21" tvg-name="Filme 21" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 21
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63139.m3u8
-#EXTINF:-1 tvg-id="Filme 22" tvg-name="Filme 22" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 22
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63140.m3u8
-#EXTINF:-1 tvg-id="Filme 23" tvg-name="Filme 23" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 23
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63141.m3u8
-#EXTINF:-1 tvg-id="Filme 24" tvg-name="Filme 24" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 24
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63142.m3u8
-#EXTINF:-1 tvg-id="Filme 25" tvg-name="Filme 25" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 25
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63143.m3u8
-#EXTINF:-1 tvg-id="Filme 26" tvg-name="Filme 26" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 26
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63144.m3u8
-#EXTINF:-1 tvg-id="Filme 27" tvg-name="Filme 27" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 27
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63145.m3u8
-#EXTINF:-1 tvg-id="Filme 28" tvg-name="Filme 28" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 28
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63146.m3u8
-#EXTINF:-1 tvg-id="Filme 29" tvg-name="Filme 29" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 29
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63147.m3u8
-#EXTINF:-1 tvg-id="Filme 30" tvg-name="Filme 30" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 30
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63148.m3u8
-#EXTINF:-1 tvg-id="Filme 31" tvg-name="Filme 31" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 31
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63149.m3u8
-#EXTINF:-1 tvg-id="Filme 32" tvg-name="Filme 32" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 32
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63150.m3u8
-#EXTINF:-1 tvg-id="Filme 33" tvg-name="Filme 33" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 33
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63151.m3u8
-#EXTINF:-1 tvg-id="Filme 34" tvg-name="Filme 34" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 34
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63152.m3u8
-#EXTINF:-1 tvg-id="Filme 35" tvg-name="Filme 35" tvg-logo="https://i.imgur.com/iBZrOTL.jpg" group-title="Filmes | Adulto",Filme 35
-http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63153.m3u8
 #EXTINF:-1 tvg-id="SIMPSONS 24" tvg-name="SIMPSONS 24" tvg-logo="https://i.imgur.com/y7laK0E.jpg" group-title="Canais | 24 Horas",SIMPSONS 24
 http://tv.minhalista.me:80/live/sNFsjbZ1/phantomiptv/63174.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asterix e o Segredo da Poção Mágica" tvg-logo="http://tv.factoryiptv.com/images/dZyckL3njh0msHLCFzCa3Yx7Gl4.jpg" group-title="Filmes | Infantil",Asterix e o Segredo da Poção Mágica
