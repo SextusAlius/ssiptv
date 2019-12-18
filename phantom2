@@ -876,8 +876,6 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51248.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51250.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",LIFETIME - H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",MTV - H265
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51252.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",NAT GEO KIDS H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51255.m3u8
@@ -895,8 +893,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51262.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",PREMIERE CLUBES H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51265.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre FHD" tvg-name="RBS TV Porto Alegre FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RBS TV Porto Alegre FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51215.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPACE - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",SPACE - H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51267.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",SPORTV 2 - H265
@@ -936,8 +933,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/54120.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/54705.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD" tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes",EI PLUS SD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/54703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tempo Fm" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Tempo Fm
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/56362.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Africa do Sul" tvg-logo="https://i.imgur.com/fBvJKxr.png" group-title="Câmeras | 24 Horas",Africa do Sul
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/56369.m3u8
 
@@ -5081,18 +5077,8 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63210.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63211.m3u8
 #EXTINF:-1 tvg-id="DAZN 7 FHD" tvg-name="DAZN 7 FHD" tvg-logo="https://i.imgur.com/iuBxVVZ.png" group-title="Canais | Full HD",DAZN 7 FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63216.m3u8
-#EXTINF:-1 tvg-id="Philos TV HD" tvg-name="Philos TV HD" tvg-logo="https://i.imgur.com/FMEIMji.png" group-title="Canais | Abertos",Philos TV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63215.m3u8
-#EXTINF:-1 tvg-id="Globo Macapa HD" tvg-name="Globo Macapa HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Macapa HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63214.m3u8
-#EXTINF:-1 tvg-id="Globo Porto Velho HD" tvg-name="Globo Porto Velho HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Porto Velho HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63213.m3u8
-#EXTINF:-1 tvg-id="Globo TV Rio Branco HD" tvg-name="Globo TV Rio Branco HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Rio Branco HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63212.m3u8
-#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png" group-title="Canais | Abertos",Canal Rural
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63217.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV  | Dual Áudio " tvg-logo="http://s.tvmaster.net:80/551896/1217/35258" group-title="Canais | Dual Audio",HGTV  | Dual Áudio 
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63219.m3u8
+
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE  | Dual Áudio " tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Dual Audio",SPACE  | Dual Áudio 
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63220.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="H2  | Dual Áudio " tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Dual Audio",H2  | Dual Áudio 
@@ -5117,8 +5103,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63229.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX | Dual Áudio " tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Dual Audio",CINEMAX | Dual Áudio 
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63231.m3u8
-#EXTINF:-1 tvg-id="BAND | Dual Áudio " tvg-name="BAND | Dual Áudio " tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Dual Audio",BAND | Dual Áudio 
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63232.m3u8
+
 #EXTINF:-1 tvg-id="BOOMBERANG | Dual Áudio " tvg-name="BOOMERANG | Dual Áudio " tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Dual Audio",BOOMERANG | Dual Áudio 
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63233.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL | Dual Áudio " tvg-name="DISCOVERY CHANNEL | Dual Áudio " tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Dual Audio",DISCOVERY CHANNEL | Dual Áudio 
@@ -5143,8 +5128,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63244.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63245.m3u8
 #EXTINF:-1 tvg-id="MTV | Dual Áudio " tvg-name="MTV | Dual Áudio " tvg-logo="http://s.tvmaster.net:80/551896/1217/32054" group-title="Canais | Dual Audio",MTV | Dual Áudio 
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63247.m3u8
-#EXTINF:-1 tvg-id="MULTISHOW | Dual Áudio " tvg-name="MULTISHOW | Dual Áudio " tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Dual Audio",MULTISHOW | Dual Áudio 
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63248.m3u8
+
 #EXTINF:-1 tvg-id="PARAMOUNT | Dual Áudio " tvg-name="PARAMOUNT | Dual Áudio " tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Dual Audio",PARAMOUNT | Dual Áudio 
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63249.m3u8
 #EXTINF:-1 tvg-id="CANAL SONY | Dual Áudio " tvg-name="CANAL SONY | Dual Áudio " tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Dual Audio",CANAL SONY | Dual Áudio 
@@ -5183,16 +5167,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63241.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63246.m3u8
 #EXTINF:-1 tvg-id="HGTV SD" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/kISzdFZ.png" group-title="Canais | Documentarios",HGTV SD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63272.m3u8
-#EXTINF:-1 tvg-id="Globo RPC Maringá" tvg-name="Globo RPC Maringá" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Maringá
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63273.m3u8
-#EXTINF:-1 tvg-id="Globo RPC Maringá HD" tvg-name="Globo RPC Maringá HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Maringá HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63274.m3u8
-#EXTINF:-1 tvg-id="Globo RPC Maringá FHD" tvg-name="Globo RPC Maringá FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo RPC Maringá FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63275.m3u8
-#EXTINF:-1 tvg-id="POLICIA 24H" tvg-name="POLICIA 24H" tvg-logo="https://i.imgur.com/EodXEuG.jpg" group-title="Canais | 24 Horas Variados",POLICIA 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63276.m3u8
-#EXTINF:-1 tvg-id="Wally Gator 24HS" tvg-name="Wally Gator 24H" tvg-logo="https://i.imgur.com/OD4KCRS.png" group-title="Canais | 24 Horas Variados",Wally Gator 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63277.m3u8
+
 #EXTINF:-1 tvg-id="Zatch Bell 24H" tvg-name="Zatch Bell 24H" tvg-logo="https://i.imgur.com/DIGsnmy.png" group-title="Canais | 24 Horas Infantil",Zatch Bell 24H
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63278.m3u8
 #EXTINF:-1 tvg-id="Zé Buscapé 24H" tvg-name="Zé Buscapé 24H" tvg-logo="https://i.imgur.com/NHwkTlp.png" group-title="Canais | 24 Horas Infantil",Zé Buscapé 24H
@@ -5239,8 +5214,7 @@ http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/63298.mp4
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/63297.mp4
 #EXTINF:-1 tvg-id="FoxSports FHD" tvg-name="FoxSports FHD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Full HD",FoxSports FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63306.m3u8
-#EXTINF:-1 tvg-id="GLOBO HD 2 |Dual Áudio " tvg-name="GLOBO HD 2 |Dual Áudio " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais | Dual Audio",GLOBO HD 2 |Dual Áudio 
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63263.m3u8
+
 #EXTINF:-1 tvg-id="HBO Family | Dual Audio" tvg-name="HBO Family | Dual Audio" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Dual Audio",HBO Family | Dual Audio
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63308.m3u8
 #EXTINF:-1 tvg-id="MegaPix | Dual Audio" tvg-name="MegaPix | Dual Audio" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Dual Audio",MegaPix | Dual Audio
@@ -5265,36 +5239,7 @@ http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/63380.mp4
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63382.m3u8
 #EXTINF:-1 tvg-id="Liga da Justica 24HS" tvg-name="Liga da Justica 24HS" tvg-logo="https://i.imgur.com/F1ZB2uD.png" group-title="Canais | 24 Horas Infantil",Liga da Justica 24HS
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63381.m3u8
-#EXTINF:-1 tvg-id="RecordTV Paraná HD" tvg-name="RecordTV Paraná HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Paraná HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63383.m3u8
-#EXTINF:-1 tvg-id="Band Recife FHD" tvg-name="Band Recife FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",Band Recife FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63384.m3u8
-#EXTINF:-1 tvg-id="SBT Recife FHD" tvg-name="SBT Recife FHD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Full HD",SBT Recife FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63385.m3u8
-#EXTINF:-1 tvg-id="Globo Recife FHD" tvg-name="Globo Recife FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Recife FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63386.m3u8
-#EXTINF:-1 tvg-id="RecordTV Recife FHD" tvg-name="RecordTV Recife FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Recife FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63387.m3u8
-#EXTINF:-1 tvg-id="TV Diario Cariri" tvg-name="TV Diario Cariri FHD" tvg-logo="https://i.imgur.com/QP4ivCE.png" group-title="Canais | Full HD",TV Diario Cariri FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63388.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares Cariri FHD" tvg-name="TV Verdes Mares Cariri FHD" tvg-logo="https://i.imgur.com/yOSyb3P.png" group-title="Canais | Full HD",TV Verdes Mares Cariri FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63389.m3u8
-#EXTINF:-1 tvg-id="TV Horizonte HD" tvg-name="TV Horizonte HD" tvg-logo="https://i.imgur.com/BCEvpww.png" group-title="Canais | Abertos",TV Horizonte HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63390.m3u8
-#EXTINF:-1 tvg-id="Boa Vontade" tvg-name="Boa Vontade" tvg-logo="https://i.imgur.com/8p2evBN.png" group-title="Canais | Religioso",Boa Vontade
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63392.m3u8
-#EXTINF:-1 tvg-id="Terra Viva FHD" tvg-name="Terra Viva FHD" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Full HD",Terra Viva FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63394.m3u8
-#EXTINF:-1 tvg-id="Nova Nordeste FHD" tvg-name="Nova Nordeste FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/c/c2/20160712014607%21Logotipo_da_TV_Nova_Nordeste.png" group-title="Canais | Full HD",Nova Nordeste FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63395.m3u8
-#EXTINF:-1 tvg-id="TV Aratu FHD" tvg-name="SBT TV Aratu FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="Canais | Full HD",SBT TV Aratu FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63396.m3u8
-#EXTINF:-1 tvg-id="Globo TV Grande Rio FHD" tvg-name="Globo TV Grande Rio FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Grande Rio FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63397.m3u8
-#EXTINF:-1 tvg-id="Globo Centro America HD" tvg-name="Globo Centro America HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Centro America HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63398.m3u8
-#EXTINF:-1 tvg-id="Globo Centro America FHD" tvg-name="Globo Centro America FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Centro America FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63399.m3u8
+
 #EXTINF:-1 tvg-id="Chef TV HD" tvg-name="Chef TV HD" tvg-logo="https://i.imgur.com/5xtgWFe.png" group-title="Canais | Variedades",Chef TV HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63400.m3u8
 #EXTINF:-1 tvg-id="Chef TV FHD" tvg-name="Chef TV FHD" tvg-logo="https://i.imgur.com/5xtgWFe.png" group-title="Canais | Full HD",Chef TV FHD
@@ -5379,166 +5324,9 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63685.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63626.m3u8
 #EXTINF:-1 tvg-id="ESPN Plus SD" tvg-name="ESPN Plus SD" tvg-logo="https://i.imgur.com/RuxbPjb.png" group-title="Canais | Esportes",ESPN Plus SD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63628.m3u8
-#EXTINF:-1 tvg-id="Sic TV" tvg-name="Sic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Canais | Variedades",Sic TV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63784.m3u8
-#EXTINF:-1 tvg-id="Shop Time HD" tvg-name="Shop Time HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoptime_logo.svg/1280px-Shoptime_logo.svg.png" group-title="Canais | Variedades",Shop Time HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63783.m3u8
-#EXTINF:-1 tvg-id="RPC PY HD" tvg-name="RPC PY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="Canais | Variedades",RPC PY HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63776.m3u8
-#EXTINF:-1 tvg-id="Fashion TV HD" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Canais | Variedades",Fashion TV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63769.m3u8
-#EXTINF:-1 tvg-id="Dog TV HD" tvg-name="Dog TV HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Variedades",Dog TV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63767.m3u8
-#EXTINF:-1 tvg-id="TV Senado HD" tvg-name="TV Senado HD" tvg-logo="http://urlcurta.ml/Llwge" group-title="Canais | Variedades",TV Senado HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63665.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil HD" tvg-name="Music Box Brazil HD" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63651.m3u8
-#EXTINF:-1 tvg-id="Curta! HD" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta! HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63646.m3u8
-#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63637.m3u8
-#EXTINF:-1 tvg-id="SBT Paraná" tvg-name="SBT Paraná" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Paraná
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63729.m3u8
-#EXTINF:-1 tvg-id="RecordTV Bahia" tvg-name="RecordTV Bahia" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Bahia
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63722.m3u8
-#EXTINF:-1 tvg-id="RecordTV Rio HD" tvg-name="RecordTV Rio HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Rio HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63721.m3u8
-#EXTINF:-1 tvg-id="RecordTV GO" tvg-name="RecordTV GO" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV GO
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63717.m3u8
-#EXTINF:-1 tvg-id="RecordTV GO HD" tvg-name="RecordTV GO HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV GO HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63718.m3u8
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Belém
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63716.m3u8
-#EXTINF:-1 tvg-id="Band RS HD" tvg-name="Band RS HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band RS HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63681.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63636.m3u8
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Canais | Abertos",TVE
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63633.m3u8
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais GloboSat" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Mais GloboSat
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63629.m3u8
-#EXTINF:-1 tvg-id="Globo Mato Grosso HD" tvg-name="Globo Mato Grosso HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Mato Grosso HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63727.m3u8
-#EXTINF:-1 tvg-id="Globo Inter TV Alto Litoral" tvg-name="Globo Inter TV Alto Litoral" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Alto Litoral
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63724.m3u8
-#EXTINF:-1 tvg-id="Band Goiânia HD" tvg-name="Band Goiânia HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band Goiânia HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63697.m3u8
-#EXTINF:-1 tvg-id="TV Taroba HD" tvg-name="TV Taroba HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Tv-taroba-logo.png" group-title="Canais | Abertos",TV Taroba HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63696.m3u8
-#EXTINF:-1 tvg-id="RPC Parana HD" tvg-name="Globo RPC Parana HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Parana HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63695.m3u8
-#EXTINF:-1 tvg-id="TV Vitória ES HD" tvg-name="TV Vitória ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="Canais | Abertos",TV Vitória ES HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63693.m3u8
-#EXTINF:-1 tvg-id="TV Tribuna ES HD" tvg-name="TV Tribuna ES HD" tvg-logo="https://i.imgur.com/7WwFmPr.png" group-title="Canais | Abertos",TV Tribuna ES HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63691.m3u8
-#EXTINF:-1 tvg-id="Globo TV Gazeta Sul ES" tvg-name="Globo TV Gazeta Sul ES" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Gazeta Sul ES
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63686.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Curitiba
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63680.m3u8
-#EXTINF:-1 tvg-id="Globo TV Morena Campo Grande HD" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Morena Campo Grande HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63655.m3u8
-#EXTINF:-1 tvg-id="Globo TV Morena Ponta Pora HD" tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Morena Ponta Pora HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63656.m3u8
-#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Liberal Belem HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63654.m3u8
-#EXTINF:-1 tvg-id="Globo RPC Paranaense HD" tvg-name="Globo RPC Paranaense HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Paranaense HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63638.m3u8
-#EXTINF:-1 tvg-id="Globo TV Amazônica" tvg-name="Globo TV Amazônica" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Amazônica
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63631.m3u8
-#EXTINF:-1 tvg-id="Fonte TV FHD" tvg-name="Fonte TV FHD" tvg-logo="https://i.imgur.com/Mki3wiO.jpg" group-title="Canais | Full HD",Fonte TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63663.m3u8
-#EXTINF:-1 tvg-id="NGT FHD" tvg-name="NGT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Canais | Full HD",NGT FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63662.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil FHD" tvg-name="Rede Brasil FHD" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Full HD",Rede Brasil FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63660.m3u8
-#EXTINF:-1 tvg-id="RIT TV FHD" tvg-name="RIT TV FHD" tvg-logo="https://i.imgur.com/Mki3wiO.jpg" group-title="Canais | Full HD",RIT TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63659.m3u8
-#EXTINF:-1 tvg-id="RBI TV FHD" tvg-name="RBI TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/RBI_TV_logo.png" group-title="Canais | Full HD",RBI TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63661.m3u8
-#EXTINF:-1 tvg-id="TV Universitária FHD" tvg-name="TV Universitária FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Logotipo_da_TV_Universit%C3%A1ria_RN.png" group-title="Canais | Full HD",TV Universitária FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63658.m3u8
-#EXTINF:-1 tvg-id="TV Estacao FHD" tvg-name="TV Estacao FHD" tvg-logo="https://i.imgur.com/INsGjRq.png" group-title="Canais | Full HD",TV Estacao FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63657.m3u8
-#EXTINF:-1 tvg-id="Fox News FHD" tvg-name="Fox News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Full HD",Fox News FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63653.m3u8
-#EXTINF:-1 tvg-id="Tooncast FHD" tvg-name="Tooncast FHD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Full HD",Tooncast FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63648.m3u8
-#EXTINF:-1 tvg-id="TCM FHD" tvg-name="TCM FHD" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Full HD",TCM FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63645.m3u8
-#EXTINF:-1 tvg-id="True TV FHD" tvg-name="True TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Canais | Full HD",True TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63650.m3u8
-#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza FHD" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Verdes Mares Fortaleza FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63641.m3u8
-#EXTINF:-1 tvg-id="Globo TV Liberal Belem FHD" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Liberal Belem FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63640.m3u8
-#EXTINF:-1 tvg-id="BabyTV FHD" tvg-name="BabyTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Full HD",BabyTV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63635.m3u8
-#EXTINF:-1 tvg-id="Globo RPC Paranaense FHD" tvg-name="Globo RPC Paranaense FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo RPC Paranaense FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63639.m3u8
-#EXTINF:-1 tvg-id="TV Alterosa FHD" tvg-name="SBT TV Alterosa FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="Canais | Full HD",SBT TV Alterosa FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63675.m3u8
-#EXTINF:-1 tvg-id="Record News ES FHD" tvg-name="Record News ES FHD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Full HD",Record News ES FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63689.m3u8
-#EXTINF:-1 tvg-id="TV Vitória ES FHD" tvg-name="TV Vitória ES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="Canais | Full HD",TV Vitória ES FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63694.m3u8
-#EXTINF:-1 tvg-id="Boa Vontade FHD" tvg-name="Boa Vontade FHD" tvg-logo="https://i.imgur.com/8p2evBN.png" group-title="Canais | Full HD",Boa Vontade FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63719.m3u8
-#EXTINF:-1 tvg-id="TV Tribuna ES FHD" tvg-name="TV Tribuna ES FHD" tvg-logo="https://i.imgur.com/7WwFmPr.png" group-title="Canais | Full HD",TV Tribuna ES FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63692.m3u8
-#EXTINF:-1 tvg-id="Globo TV Integração FHD" tvg-name="Globo TV Integração FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Integração FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63676.m3u8
-#EXTINF:-1 tvg-id="TV Diário Fortaleza FHD" tvg-name="TV Diário Fortaleza FHD" tvg-logo="https://is.gd/YshO6k" group-title="Canais | Full HD",TV Diário Fortaleza FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63723.m3u8
-#EXTINF:-1 tvg-id="YouTV FHD" tvg-name="YouTV FHD" tvg-logo="http://channels.roku.com/images/043e78e52e79459c97f85f084209a632-hd.png" group-title="Canais | Full HD",YouTV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63726.m3u8
-#EXTINF:-1 tvg-id="Globo Mato Grosso FHD" tvg-name="Globo Mato Grosso FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Mato Grosso FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63728.m3u8
-#EXTINF:-1 tvg-id="Fashion TV FHD" tvg-name="Fashion TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Canais | 24 Horas Variados",Fashion TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63770.m3u8
-#EXTINF:-1 tvg-id="Dog TV FHD" tvg-name="Dog TV FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Full HD",Dog TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63768.m3u8
-#EXTINF:-1 tvg-id="MegaTV FHD" tvg-name="MegaTV FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megatv.png" group-title="Canais | Full HD",MegaTV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63725.m3u8
-#EXTINF:-1 tvg-id="SBT SP FHD" tvg-name="SBT SP FHD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Full HD",SBT SP FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63772.m3u8
-#EXTINF:-1 tvg-id="Red Bull TV FHD" tvg-name="Red Bull TV FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OvgIyfLDL.png" group-title="Canais | Full HD",Red Bull TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63775.m3u8
-#EXTINF:-1 tvg-id="Travel Box Brazil FHD" tvg-name="Travel Box Brazil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="Canais | Full HD",Travel Box Brazil FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63785.m3u8
-#EXTINF:-1 tvg-id="Zoomoo FHD" tvg-name="Zoomoo FHD" tvg-logo="http://www.zoomoo.tv.br/wp-content/themes/kids-world/images/logo.png" group-title="Canais | Full HD",Zoomoo FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63778.m3u8
-#EXTINF:-1 tvg-id="Wohoo FHD" tvg-name="Wohoo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Canais | Full HD",Wohoo FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63777.m3u8
-#EXTINF:-1 tvg-id="Love Natural FHD" tvg-name="Love Natural FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Canais | Full HD",Love Natural FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63774.m3u8
-#EXTINF:-1 tvg-id="Rede Gospel FHD" tvg-name="Rede Gospel FHD" tvg-logo="https://i.imgur.com/Mki3wiO.jpg" group-title="Canais | Full HD",Rede Gospel FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63781.m3u8
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63627.m3u8
-#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63634.m3u8
-#EXTINF:-1 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63647.m3u8
-#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63720.m3u8
-#EXTINF:-1 tvg-id="Zoomoo HD" tvg-name="Zoomoo HD" tvg-logo="http://www.zoomoo.tv.br/wp-content/themes/kids-world/images/logo.png" group-title="Canais | Infantil",Zoomoo HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63779.m3u8
-#EXTINF:-1 tvg-id="TV Ra Tim Bum HD" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63786.m3u8
-#EXTINF:-1 tvg-id="True TV HD" tvg-name="True TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Canais | Filmes e Series",True TV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63649.m3u8
-#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63632.m3u8
-#EXTINF:-1 tvg-id="Fox News HD" tvg-name="Fox News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",Fox News HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63652.m3u8
-#EXTINF:-1 tvg-id="Record News ES" tvg-name="Record News ES" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News ES
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63687.m3u8
-#EXTINF:-1 tvg-id="Record News ES HD" tvg-name="Record News ES HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News ES HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63688.m3u8
-#EXTINF:-1 tvg-id="Record News SC HD" tvg-name="Record News SC HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News SC HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Panda em Apuros" tvg-logo="https://i.imgur.com/fh0tL3a.jpg" group-title="Filmes | Lancamentos 2019",Um Panda em Apuros
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/63817.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Uma Prova de Fe" tvg-logo="http://tv.factoryiptv.com:80/images/lf2X2jNWdoneJtBdmg0erkIMX5L.jpg" group-title="Filmes | Drama/Suspense/Romance",Uma Prova de Fe
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/63816.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Guerra Pessoal" tvg-logo="https://i.imgur.com/fpMoBCt.jpg" group-title="Filmes | Lancamentos 2019",Uma Guerra Pessoal
@@ -5621,32 +5409,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63669.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63678.m3u8
 #EXTINF:-1 tvg-id="Vai que Cola 2 FHD" tvg-name="Vai que Cola 2 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Vai_Que_Cola.png" group-title="Canais | 24 Horas Variados",Vai que Cola 2 24H
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63679.m3u8
-#EXTINF:-1 tvg-id="Caçadores de Sombra 2 24H" tvg-name="Caçadores de Sombra 2 24H" tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2015/11/shadowhunters.jpg" group-title="Canais | 24 Horas Variados",Caçadores de Sombra 2 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63730.m3u8
-#EXTINF:-1 tvg-id="Elite 24H" tvg-name="Elite 24H" tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/10/elite-3-1920x1080.jpg" group-title="Canais | 24 Horas Variados",Elite 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63731.m3u8
-#EXTINF:-1 tvg-id="Familia Soprano 1 24H" tvg-name="Familia Soprano 1 24H" tvg-logo="https://f.i.uol.com.br/fotografia/2019/01/08/15469684055c34dd554d4b9_1546968405_3x2_md.jpg" group-title="Canais | 24 Horas Variados",Familia Soprano 1 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63732.m3u8
-#EXTINF:-1 tvg-id="Familia Soprano 2 24H" tvg-name="Familia Soprano 2 24H" tvg-logo="https://f.i.uol.com.br/fotografia/2019/01/08/15469684055c34dd554d4b9_1546968405_3x2_md.jpg" group-title="Canais | 24 Horas Variados",Familia Soprano 2 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63733.m3u8
-#EXTINF:-1 tvg-id="Familia Soprano 3 24H" tvg-name="Familia Soprano 3 24H" tvg-logo="https://f.i.uol.com.br/fotografia/2019/01/08/15469684055c34dd554d4b9_1546968405_3x2_md.jpg" group-title="Canais | 24 Horas Variados",Familia Soprano 3 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63734.m3u8
-#EXTINF:-1 tvg-id="Familia Soprano 4 24H" tvg-name="Familia Soprano 4 24H" tvg-logo="https://f.i.uol.com.br/fotografia/2019/01/08/15469684055c34dd554d4b9_1546968405_3x2_md.jpg" group-title="Canais | 24 Horas Variados",Familia Soprano 4 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63735.m3u8
-#EXTINF:-1 tvg-id="Farine e Cocaine 24H" tvg-name="Farine e Cocaine 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjVhN2E5N2QtNjNkNC00MDY5LWI3MGYtN2UwNDQxZDFiNDE4XkEyXkFqcGdeQXVyMTk1MzA0MjQ@._V1_.jpg" group-title="Canais | 24 Horas Variados",Farine e Cocaine 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63736.m3u8
-#EXTINF:-1 tvg-id="Fear The Walking Dead 1 24H" tvg-name="Fear The Walking Dead 1 24H" tvg-logo="https://i.ytimg.com/vi/5fTipo8JOa8/maxresdefault.jpg" group-title="Canais | 24 Horas Variados",Fear The Walking Dead 1 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63737.m3u8
-#EXTINF:-1 tvg-id="Fear The Walking Dead 2 24H" tvg-name="Fear The Walking Dead 2 24H" tvg-logo="https://i.ytimg.com/vi/5fTipo8JOa8/maxresdefault.jpg" group-title="Canais | 24 Horas Variados",Fear The Walking Dead 2 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63738.m3u8
-#EXTINF:-1 tvg-id="Fear The Walking Dead 3 24H" tvg-name="Fear The Walking Dead 3 24H" tvg-logo="https://i.ytimg.com/vi/5fTipo8JOa8/maxresdefault.jpg" group-title="Canais | 24 Horas Variados",Fear The Walking Dead 3 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63739.m3u8
-#EXTINF:-1 tvg-id="Fugitivos 24H" tvg-name="Fugitivos 24H" tvg-logo="http://blogs.correiobraziliense.com.br/proximocapitulo/wp-content/uploads/sites/27/2018/01/fugitivos.jpg" group-title="Canais | 24 Horas Variados",Fugitivos 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63740.m3u8
-#EXTINF:-1 tvg-id="Gamebros 24H" tvg-name="Gamebros 24H" tvg-logo="https://vigilianerd.com.br/wp-content/uploads/2018/12/gamebros_capa.jpg" group-title="Canais | 24 Horas Variados",Gamebros 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63741.m3u8
-#EXTINF:-1 tvg-id="Tokyo Ghoul 24H" tvg-name="Tokyo Ghoul 24H" tvg-logo="https://cdn.europosters.eu/image/750/posters/tokyo-ghoul-kaneki-i30934.jpg" group-title="Canais | 24 Horas Infantil",Tokyo Ghoul 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63742.m3u8
+
 #EXTINF:-1 tvg-id="Impuros 24H" tvg-name="Impuros 24H" tvg-logo="https://i1.sndcdn.com/artworks-000500893395-jxtd0s-t500x500.jpg" group-title="Canais | 24 Horas Variados",Impuros 24H
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63743.m3u8
 #EXTINF:-1 tvg-id="Irmãos de Guerra 24H" tvg-name="Irmãos de Guerra 24H" tvg-logo="https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/bbr/band-of-brothers_irmaos-de-guerra.jpg" group-title="Canais | 24 Horas Variados",Irmãos de Guerra 24H
@@ -5675,26 +5438,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63754.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63755.m3u8
 #EXTINF:-1 tvg-id="O Homem Do Castelo Alto 2 24H" tvg-name="O Homem Do Castelo Alto 2 24H" tvg-logo="https://media.fstatic.com/-kHj_msCzlevrNHc6zIzdyQoFHE=/fit-in/290x478/smart/media/movies/covers/2015/11/o-homem-do-castelo-alto_t36592_IqdJ47N.jpg" group-title="Canais | 24 Horas Variados",O Homem Do Castelo Alto 2 24H
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63756.m3u8
-#EXTINF:-1 tvg-id="O Homem Do Castelo Alto 3 24H" tvg-name="O Homem Do Castelo Alto 3 24H" tvg-logo="https://media.fstatic.com/-kHj_msCzlevrNHc6zIzdyQoFHE=/fit-in/290x478/smart/media/movies/covers/2015/11/o-homem-do-castelo-alto_t36592_IqdJ47N.jpg" group-title="Canais | 24 Horas Variados",O Homem Do Castelo Alto 3 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63757.m3u8
-#EXTINF:-1 tvg-id="O Negocio 1 24H" tvg-name="O Negocio 1 24H" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/O-Neg%C3%B3cio.jpg" group-title="Canais | 24 Horas Variados",O Negocio 1 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63758.m3u8
-#EXTINF:-1 tvg-id="O Negocio 2 24H" tvg-name="O Negocio 2 24H" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/O-Neg%C3%B3cio.jpg" group-title="Canais | 24 Horas Variados",O Negocio 2 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63759.m3u8
-#EXTINF:-1 tvg-id="O Negocio 3 24H" tvg-name="O Negocio 3 24H" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/O-Neg%C3%B3cio.jpg" group-title="Canais | 24 Horas Variados",O Negocio 3 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63760.m3u8
-#EXTINF:-1 tvg-id="O Negocio 4 24H" tvg-name="O Negocio 4 24H" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/06/O-Neg%C3%B3cio.jpg" group-title="Canais | 24 Horas Variados",O Negocio 4 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63761.m3u8
-#EXTINF:-1 tvg-id="Vikings 1 24H" tvg-name="Vikings 1 24H" tvg-logo="https://spinoff.com.br/wp-content/uploads/Vikings-1.jpeg" group-title="Canais | 24 Horas Variados",Vikings 1 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63762.m3u8
-#EXTINF:-1 tvg-id="Vikings 2 24H" tvg-name="Vikings 2 24H" tvg-logo="https://spinoff.com.br/wp-content/uploads/Vikings-1.jpeg" group-title="Canais | 24 Horas Variados",Vikings 2 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63763.m3u8
-#EXTINF:-1 tvg-id="Vikings 3 24H" tvg-name="Vikings 3 24H" tvg-logo="https://spinoff.com.br/wp-content/uploads/Vikings-1.jpeg" group-title="Canais | 24 Horas Variados",Vikings 3 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63764.m3u8
-#EXTINF:-1 tvg-id="Vikings 4 24H" tvg-name="Vikings 4 24H" tvg-logo="https://spinoff.com.br/wp-content/uploads/Vikings-1.jpeg" group-title="Canais | 24 Horas Variados",Vikings 4 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63765.m3u8
-#EXTINF:-1 tvg-id="Vikings 5 24H" tvg-name="Vikings 5 24H" tvg-logo="https://spinoff.com.br/wp-content/uploads/Vikings-1.jpeg" group-title="Canais | 24 Horas Variados",Vikings 5 24H
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/63766.m3u8
+
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/825.png" group-title="Canais | Full HD",A&E FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40263.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD [Alternativo]" tvg-name="PREMIERE CLUBES HD [Alternativo]" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="Canais | Esportes",PREMIERE CLUBES HD [Alternativo]
