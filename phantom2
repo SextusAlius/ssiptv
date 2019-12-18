@@ -63,20 +63,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42635.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38428.m3u8
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36986.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37118.m3u8
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36925.m3u8
-#EXTINF:-1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD" tvg-logo="https://lh3.googleusercontent.com/-ZDlWJqUp3H4/Wh8P4sC3O8I/AAAAAAAAPBo/-93fP1YLSVYAHmotiteJcYs97q2CvVwjwCLcBGAs/h200/COMEDY_CENTRAL_HD.png" group-title="Canais | Full HD",Comedy Central FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40260.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40073.m3u8
-#EXTINF:-1 tvg-id="Cultura FHD" tvg-name="Cultura FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Full HD",Cultura FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42903.m3u8
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37117.m3u8
-#EXTINF:-1 tvg-id="Curta! FHD" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Full HD",Curta! FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41472.m3u8
+
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37116.m3u8
@@ -138,12 +125,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37108.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41476.m3u8
 #EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36920.m3u8
-#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Campinas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40248.m3u8
-#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Campinas HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40249.m3u8
-#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Ribeirão" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Ribeirão
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40514.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37105.m3u8
@@ -169,14 +151,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42910.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38401.m3u8
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36977.m3u8
-#EXTINF:-1 tvg-id="FILM&Arts" tvg-name="FILM&Arts" tvg-logo="http://urlcurta.ml/B5aYX" group-title="Canais | Filmes e Series",FILM&Arts
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41374.m3u8
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37103.m3u8
-#EXTINF:-1 tvg-id="Fish TV FHD" tvg-name="Fish TV FHD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Full HD",Fish TV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41478.m3u8
-#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="Fish TV HD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42911.m3u8
+
 
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37102.m3u8
@@ -240,12 +215,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36915.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41483.m3u8
 #EXTINF:-1 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38969.m3u8
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37088.m3u8
-#EXTINF:-1 tvg-id="GNT FHD" tvg-name="GNT FHD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Full HD",GNT FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41484.m3u8
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36967.m3u8
+
 #EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Full HD",History 2 FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41485.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
@@ -266,12 +236,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36965.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36964.m3u8
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37084.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus E
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37083.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus FHD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Full HD",HBO Plus FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41487.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36963.m3u8
+
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37082.m3u8
 #EXTINF:-1 tvg-id="HBO Signature FHD" tvg-name="HBO Signature FHD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Full HD",HBO Signature FHD
@@ -288,14 +253,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36961.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38383.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36960.m3u8
-#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Documentarios",ID: Investigação Discovery
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37114.m3u8
-#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigação Discovery HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IMPD TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Canais | Religioso",IMPD TV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40080.m3u8
-#EXTINF:-1 tvg-id="ID: Investigação Discovery FHD" tvg-name="ID: Investigação Discovery FHD" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Full HD",ID: Investigação Discovery FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41489.m3u8
+
 
 #EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Lifetime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/200px-Lifetime_logo17.svg.png" group-title="Canais | Full HD",Lifetime FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40265.m3u8
@@ -303,8 +261,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40265.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37077.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Canais | Variedades",Lifetime HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Mais GloboSat FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42902.m3u8
+
 #EXTINF:-1 tvg-id="Max HD" tvg-name="Max" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37076.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX FHD" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Full HD",MAX FHD
@@ -351,8 +308,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37068.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41280.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="https://i.imgur.com/gb8AAKf.png" group-title="Canais | Abertos",NBR
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37021.m3u8
+
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37064.m3u8
 #EXTINF:-1 tvg-id="Nick FHD" tvg-name="Nick FHD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Full HD",Nick FHD
@@ -517,8 +473,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38414.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36935.m3u8
 
-#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Variedades",Terra Viva
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37004.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36902.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Variedades",TLC
@@ -985,8 +940,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/54703.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/56362.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Africa do Sul" tvg-logo="https://i.imgur.com/fBvJKxr.png" group-title="Câmeras | 24 Horas",Africa do Sul
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/56369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://is.gd/4eYbcQ" group-title="Canais | 24 Horas Variados",Todo Mundo Odeia o Chris
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/56467.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD LEG" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Legendados ",AXN HD LEG
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/56840.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN LEG" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Legendados ",AXN LEG
@@ -1207,20 +1161,7 @@ http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/56438.mp4
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/56398.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill" tvg-logo="https://i.imgur.com/agwkhqo.png" group-title="Filmes | Faroeste",A Lenda de Wild Bill
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Freira" tvg-logo="http://tv.factoryiptv.com:80/images/iXZsv8e9Q5mdYjsdNjch8cZzcUs_small.jpg" group-title="Filmes | Terror",A Maldição da Freira
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/58050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldicao De Chucky" tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=6742445&qld=90&l=430&a=-1=1001226911" group-title="Filmes | Terror",A Maldicao De Chucky
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca da Pantera" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/96/22/33/20453925.jpg" group-title="Filmes | Terror",A Marca da Pantera
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/57057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A MORTE DO DEMONIO" tvg-logo="http://bit.ly/2wDk3hs" group-title="Filmes | Terror",A MORTE DO DEMONIO
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/57088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Do Demonio" tvg-logo="http://www.vortexcultural.com.br/images/2015/12/Evil-Dead-Poster.jpg" group-title="Filmes | Terror",A Morte Do Demonio
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/54875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Te Da Parabens" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/07/13/21/40/079851.jpg" group-title="Filmes | Terror",A Morte Te Da Parabens
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Te Dá Parabéns 2" tvg-logo="http://tv.factoryiptv.com:80/images/4tdnePOkOOzwuGPEOAHp8UA4vqx_small.jpg" group-title="Filmes | Lancamentos 2019",A Morte Te Dá Parabéns 2
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/57348.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="A Mula" tvg-logo="http://tv.factoryiptv.com:80/images/oeZh7yEz3PMnZLgBPhrafFHRbVz_small.jpg" group-title="Filmes | Lancamentos 2019",A Mula
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/58051.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Mula [Legendado]" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/01/23/40/0266976.jpg" group-title="Filmes | Legendado",A Mula [Legendado]
@@ -1295,20 +1236,7 @@ http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48983.mp4
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/49045.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ACIMA DA LEI" tvg-logo="https://multisom-img.f1cdn.com.br/resizer/view/580/480/false/true/ambicao-acima-da-lei-filme-acao-19238.jpg" group-title="Filmes | Acao/Aventura/Guerra",ACIMA DA LEI
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/54651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adeus Christopher Robin" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/18/11/56/136244.jpg" group-title="Filmes | Drama/Suspense/Romance",Adeus Christopher Robin
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adiós, querida mamá" tvg-logo="http://tv.factoryiptv.com:80/images/1f7xRSrqTtxTACxO80xMU1Yrt0e_small.jpg" group-title="Filmes | Drama/Suspense/Romance",Adiós, querida mamá
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/57685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adoraveis Mulheres" tvg-logo="http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/96/54/61/20474390.jpg" group-title="Filmes | Comedia",Adoraveis Mulheres
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/54491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha – Não Tá Compensando Ser Adulto" tvg-logo="https://i.imgur.com/eipdZpb.jpg" group-title="Filmes | Comedia",Afonso Padilha – Não Tá Compensando Ser Adulto
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Indomavel" tvg-logo="https://images-br-az.crackle.com/profiles/channels/100000173/OneSheetImage_350x525.jpg?ts=20140402162433" group-title="Filmes | Acao/Aventura/Guerra",Agente Indomavel
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/54252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Air" tvg-logo="https://i.imgur.com/Ox7JfrJ.jpg" group-title="Filmes | Ficcao/Fantasia",Air
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ajuste De Contas" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/544/21054485_20131031194312073.jpg" group-title="Filmes | Drama/Suspense/Romance",Ajuste De Contas
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48434.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="http://tv.factoryiptv.com:80/images/3iYQTLGoy7QnjcUYRJy4YrAgGvp_small.jpg" group-title="Filmes | Lancamentos 2019",Aladdin
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/59089.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aladdin Dublado" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81R34fBzEjL._RI_SX300_.jpg" group-title="Filmes | Infantil",Aladdin Dublado
@@ -1347,24 +1275,7 @@ http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48521.mp4
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48385.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Aventura Perigosa" tvg-logo="http://tv.factoryiptv.com:80/images/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j_small.jpg" group-title="Filmes | Lancamentos 2019",Uma Aventura Perigosa
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/57692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/k40WFAXMRekWEqsjURO3jiWob67.jpg" group-title="Filmes | Comedia",American Pie
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie - O reencontro" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/89/67/13/20074056.jpg" group-title="Filmes | Comedia",American Pie - O reencontro
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie - O Último Stifler Virgem" tvg-logo="https://media.fstatic.com/dUGg3OECvtl2mOil1PlhkyRQgAM=/fit-in/290x478/smart/media/movies/covers/2018/04/3210475.jpg" group-title="Filmes | Comedia",American Pie - O Último Stifler Virgem
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie - Tocando a Maior Zona" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/86/94/38/19870368.jpg" group-title="Filmes | Comedia",American Pie - Tocando a Maior Zona
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie 1" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/k40WFAXMRekWEqsjURO3jiWob67.jpg" group-title="Filmes | Comedia",American Pie 1
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie 2" tvg-logo="https://i.pinimg.com/originals/24/19/f1/2419f1b82deb7aa9d1292741ccbfa19a.jpg" group-title="Filmes | Comedia",American Pie 2
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie Apresenta O Livro Do Amor" tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/21/87/20205725.jpg" group-title="Filmes | Comedia",American Pie Apresenta O Livro Do Amor
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie Caindo Em Tentacao" tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/21/82/20086183.jpg" group-title="Filmes | Comedia",American Pie Caindo Em Tentacao
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie O Casamento" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/75/15/19961175.jpg" group-title="Filmes | Comedia",American Pie O Casamento
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48294.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Amigas Com Dinheiro" tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg" group-title="Filmes | Drama/Suspense/Romance",Amigas Com Dinheiro
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/54557.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amigos Alienigenas" tvg-logo="https://i.imgur.com/AJoZ80w.jpg" group-title="Filmes | Lancamentos 2019",Amigos Alienigenas
@@ -1379,16 +1290,7 @@ http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48202.mp4
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/54459.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amor A Segunda Vista" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/18/97/20085068.jpg" group-title="Filmes | Comedia",Amor A Segunda Vista
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ana e Vitória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ana_e_Vit%C3%B3ria.jpg/245px-Ana_e_Vit%C3%B3ria.jpg" group-title="Filmes | Drama/Suspense/Romance",Ana e Vitória
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/50863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anavitória: Araguaína - Las Vegas" tvg-logo="https://i.imgur.com/G6t8Nri.jpg" group-title="Filmes | Lancamentos 2019",Anavitória: Araguaína - Las Vegas
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/56390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Andar Montar Rodeio: A Virada de Amberley" tvg-logo="https://i.imgur.com/Mx24gws.jpg" group-title="Filmes | Lancamentos 2019",Andar Montar Rodeio: A Virada de Amberley
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/56429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam" tvg-logo="https://i.imgur.com/F7blMXl.png" group-title="Filmes | Ficcao/Fantasia",Animais Fantásticos e Onde Habitam
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/51870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ánimas" tvg-logo="http://tv.factoryiptv.com:80/images/2pOIMOAsi2zPAWzf0sy2Zk9BSTp_small.jpg" group-title="Filmes | Lancamentos 2019",Ánimas
-http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/56395.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Aniquilação" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/02/22/15/25/2917796.jpg" group-title="Filmes | Drama/Suspense/Romance",Aniquilação
 http://tv.minhalista.me:80/movie/8GfHXFha/phantomiptv/48985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anjos Da Lei 2" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/07/01/21/25/007257.jpg" group-title="Filmes | Comedia",Anjos Da Lei 2
