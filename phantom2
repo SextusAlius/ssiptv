@@ -3,10 +3,7 @@
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37130.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Aerosmith" tvg-logo="" group-title="Shows",[SHOW] Aerosmith
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42571.m3u8
-#EXTINF:-1 tvg-id="Agro Canal HD" tvg-name="Agro Canal HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40244.m3u8
+
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41087.m3u8
 #EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Full HD",AMC FHD
@@ -29,30 +26,9 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37132.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41468.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36991.m3u8
-#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36993.m3u8
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37127.m3u8
-#EXTINF:-1 tvg-id="Band FHD" tvg-name="Band FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",Band FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38429.m3u8
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36990.m3u8
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37126.m3u8
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews FHD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Full HD",BandNews FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38391.m3u8
-#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",Band SP FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41514.m3u8
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41530.m3u8
+
 #EXTINF:-1 tvg-id="BandSports FHD" tvg-name="BandSports FHD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Full HD",BandSports FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Banda Calypso" tvg-logo="" group-title="Shows",[SHOW] Banda Calypso
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Banda Forrozão das Antigas" tvg-logo="" group-title="Shows",[SHOW] Banda Forrozão das Antigas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39786.m3u8
-#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42411.m3u8
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37125.m3u8
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports HD
@@ -67,22 +43,12 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36988.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37123.m3u8
 #EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Full HD",Boomerang FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Cabaré - Eduardo Costa e Leonardo" tvg-logo="" group-title="Shows",[SHOW] Cabaré - Eduardo Costa e Leonardo
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39768.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37122.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Full HD",Canal Brasil FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41517.m3u8
-#EXTINF:-1 tvg-id="Canção Nova HD" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Canção Nova HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37023.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37121.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Full HD",Cartoon Network FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41471.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cascavel Panorâmica" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f869e31dbca32dca5d9adda8f13fcd09.png" group-title="Câmeras | 24 Horas",Cascavel Panorâmica
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40116.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | Filmes e Series",Cinemax
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37120.m3u8
 #EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Full HD",Cinemax FHD
@@ -179,8 +145,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40248.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40249.m3u8
 #EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV Ribeirão" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Ribeirão
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40514.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo EPTV Ribeirão HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Ribeirão HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38640.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37105.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Full HD",ESPN 2 FHD
@@ -205,10 +170,6 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42910.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38401.m3u8
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Festival Sertanejo" tvg-logo="https://i.imgur.com/VQiMDXL.jpg" group-title="Shows",[SHOW] Festival Sertanejo
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Festival Sertanejo 2018" tvg-logo="https://i.imgur.com/VQiMDXL.jpg" group-title="Shows",[SHOW] Festival Sertanejo 2018
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39771.m3u8
 #EXTINF:-1 tvg-id="FILM&Arts" tvg-name="FILM&Arts" tvg-logo="http://urlcurta.ml/B5aYX" group-title="Canais | Filmes e Series",FILM&Arts
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41374.m3u8
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV
@@ -271,152 +232,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37097.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41482.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36969.m3u8
-#EXTINF:-1 tvg-id="Gazeta HD" tvg-name="Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40120.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo Anhanguera" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Anhanguera
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38966.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo Bahia HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Bahia HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37096.m3u8
-#EXTINF:-1 tvg-id="TV Bahia FHD" tvg-name="Globo TV Bahia FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Bahia FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42987.m3u8
-#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="Globo TV Bahia HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Bahia HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41402.m3u8
-#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Brasília
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37095.m3u8
-#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Brasília HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Araraquara" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Araraquara
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Campinas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42951.m3u8
-#EXTINF:-1 tvg-id="EPTV Campinas FHD" tvg-name="EPTV Campinas FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",EPTV Campinas FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Campinas HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Ribeirão Preto
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42954.m3u8
-#EXTINF:-1 tvg-id="EPTV Ribeirão FHD" tvg-name="EPTV Ribeirão FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",EPTV Ribeirão FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV Ribeirão Preto HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo EPTV São Carlos
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42955.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo NSC TV Florianópolis" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Florianópolis
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38641.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianópolis FHD" tvg-name="NSC TV Florianópolis FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Florianópolis FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Natal" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Natal
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42956.m3u8
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Minas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40250.m3u8
-#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Minas FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41515.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo Minas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Minas HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40251.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais | Abertos",Globo Nordeste
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Nordeste FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42984.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais | Abertos",Globo Nordeste HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapecó" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Chapecó
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42971.m3u8
-#EXTINF:-1 tvg-id="NSC TV Chapecó FHD" tvg-name="NSC TV Chapecó FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Chapecó FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapecó HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Chapecó HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Florianópolis HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Florianópolis HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RBS TV Porto Alegre
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede AM. Manaus" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Rede AM. Manaus
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42960.m3u8
-#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37091.m3u8
-#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36968.m3u8
-#EXTINF:-1 tvg-id="Globo Rio FHD" tvg-name="Globo Rio FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Rio FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Curitiba
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37366.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba FHD" tvg-name="RPC Curitiba FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RPC Curitiba FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Curitiba HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42961.m3u8
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RPC Foz do Iguaçu HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42974.m3u8
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37090.m3u8
-#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo SP FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38424.m3u8
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Anhanguera
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Anhanguera FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42986.m3u8
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Anhanguera HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Centro América" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Centro América
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Clube Teresina
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV CLUBE TERESINA FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Clube Teresina
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Gazeta Alagoas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV GAZETA ALAGOAS FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Gazeta Alagoas HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Gazeta Sul ES FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Gazeta Sul ES HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitória" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Gazeta Vitória
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV GAZETA VITORIA FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Gazeta Vitória HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belem" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Liberal Belem
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante São Luis" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Mirante São Luis
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante São Luis FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Mirante São Luis FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante São Luis HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Mirante São Luis HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Morena Campo Grande
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo TV Morena Campo Grande FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Sergipe
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais | Full HD",Globo TV Sergipe FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Sergipe HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM São José do Rio Preto" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV TEM São José do Rio Preto
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40516.m3u8
-#EXTINF:-1 tvg-id="TV TEM SJRP FHD" tvg-name="TV TEM SJRP FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",TV TEM SJRP FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM São José do Rio Preto HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV TEM São José do Rio Preto HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Tribuna Santos
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S. J. dos Campos" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Vanguarda S. J. dos Campos
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42967.m3u8
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37093.m3u8
-#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Full HD",GloboNews FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38397.m3u8
-#EXTINF:-1 tvg-id="GloboNews HD" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36917.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="Mais GloboSat HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Mais GloboSat HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36916.m3u8
+
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37089.m3u8
 #EXTINF:-1 tvg-id="Gloob  FHD" tvg-name="Gloob FHD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Full HD",Gloob FHD
@@ -521,32 +337,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37072.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41491.m3u8
 #EXTINF:-1 tvg-id="Megapix HD" tvg-name="MegaPix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",MegaPix HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Metálica" tvg-logo="" group-title="Shows",[SHOW] Metálica
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Milionario e Jose Rico" tvg-logo="" group-title="Shows",[SHOW] Milionario e Jose Rico
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39789.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37071.m3u8
-#EXTINF:-1 tvg-id="MTV FHD" tvg-name="MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/200px-MTV_Music_2017_logo_Australia.svg.png" group-title="Canais | Full HD",MTV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40266.m3u8
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40519.m3u8
-#EXTINF:-1 tvg-id="MTV Live HD FHD" tvg-name="MTV Live FHD" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Full HD",MTV Live FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41492.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Live HD" tvg-logo="https://www.parabola.cz/img_logo/mtv-live-hd.gif" group-title="Canais | Variedades",MTV Live HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40518.m3u8
-#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37070.m3u8
-#EXTINF:-1 tvg-id="Multishow FHD" tvg-name="Multishow FHD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Full HD",Multishow FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41493.m3u8
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36957.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37069.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil FHD" tvg-name="Music Box Brazil FHD" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Full HD",Music Box Brazil FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41494.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Naha Airport" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b00fe4c8e68e38b5cbe7f93df1fd1e7e.jpg" group-title="Câmeras | 24 Horas",Naha Airport
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40109.m3u8
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
@@ -649,72 +440,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36948.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37053.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil FHD" tvg-name="Prime Box Brazil FHD" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Full HD",Prime Box Brazil FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Queen" tvg-logo="" group-title="Shows",[SHOW] Queen
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Racionais Mc's" tvg-logo="" group-title="Shows",[SHOW] Racionais Mc's
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39784.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RBS TV Porto Alegre HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40252.m3u8
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36947.m3u8
-#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RecordTV Minas " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Minas 
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41362.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41529.m3u8
-#EXTINF:-1 tvg-id="Record News FHD" tvg-name="Record News FHD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Full HD",Record News FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41502.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37050.m3u8
-#EXTINF:-1 tvg-id="RecordTV Paulista FHD" tvg-name="RecordTV Paulista FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Paulista FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41516.m3u8
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV Bahia FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Bahia FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV Bahia HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Bahia HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42624.m3u8
-#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RecordTV Brasilia" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42627.m3u8
-#EXTINF:-1 tvg-id="RecordTV Brasília HD" tvg-name="RecordTV Brasilia HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42626.m3u8
-#EXTINF:-1 tvg-id="RecordTV FHD" tvg-name="RecordTV FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38421.m3u8
-#EXTINF:-1 tvg-id="RecordTV Minas FHD" tvg-name="RecordTV Minas FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Minas FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42904.m3u8
-#EXTINF:-1 tvg-id="RecordTV Rio" tvg-name="RecordTV Rio" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Rio
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42637.m3u8
-#EXTINF:-1 tvg-id="RecordTV Rio FHD" tvg-name="RecordTV Rio FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Rio FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41521.m3u8
-#EXTINF:-1 tvg-id="RecordTV RS FHD" tvg-name="RecordTV RS FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV RS FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42907.m3u8
-#EXTINF:-1 tvg-id="RecordTV RS HD" tvg-name="RecordTV RS HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV RS HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42628.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Religioso",Rede Brasil
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Minas" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17007d69e234910da3da1ac85e3d49b9.jpg" group-title="Canais | Variedades",Rede Minas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40183.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37011.m3u8
-#EXTINF:-1 tvg-id="Rede Vida FHD" tvg-name="Rede Vida FHD" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Full HD",Rede Vida FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41519.m3u8
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37012.m3u8
-#EXTINF:-1 tvg-id="RedeTV! FHD" tvg-name="RedeTV! FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Full HD",RedeTV! FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41518.m3u8
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36946.m3u8
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37048.m3u8
-#EXTINF:-1 tvg-id="SBT FHD" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Full HD",SBT FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38420.m3u8
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36945.m3u8
-#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT SP Interior" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP Interior
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/42912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Show da Viola" tvg-logo="https://i.imgur.com/fAltLJd.jpg" group-title="Shows",[SHOW] Show da Viola
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[SHOW] Simone e Simaria - Bar das Coleguinhas" tvg-logo="" group-title="Shows",[SHOW] Simone e Simaria - Bar das Coleguinhas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/39792.m3u8
+
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony Channel
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37007.m3u8
 #EXTINF:-1 tvg-id="Sony Channel FHD" tvg-name="Sony Channel FHD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Full HD",Sony Channel FHD
@@ -821,52 +547,14 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37034.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41508.m3u8
 #EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36933.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37033.m3u8
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Variedades",TruTV
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37032.m3u8
-#EXTINF:-1 tvg-id="TruTV FHD" tvg-name="TruTV FHD" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Full HD",TruTV FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41509.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37003.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV Câmara
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40189.m3u8
-#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/Mki3wiO.jpg" group-title="Canais | Religioso",TV Evangelizar
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40072.m3u8
-#EXTINF:-1 tvg-id="TV Jornal Recife" tvg-name="TV Jornal [SBT PE]" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="Canais | Abertos",TV Jornal [SBT PE]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41371.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37015.m3u8
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Full HD",TV Ra Tim Bum FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41510.m3u8
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="TV Rede Gospel SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="Canais | Religioso",TV Rede Gospel SD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40247.m3u8
-#EXTINF:-1 tvg-id="Rede Seculo 21" tvg-name="TV Século 21" tvg-logo="http://i.imgur.com/ORv5J6Y.png" group-title="Canais | Religioso",TV Século 21
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40098.m3u8
-#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="TV TEM Bauru" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV TEM Bauru
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37030.m3u8
-#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="TV TEM Sorocaba" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV TEM Sorocaba
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37029.m3u8
+
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/37027.m3u8
 #EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Full HD",Studio Universal FHD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/41511.m3u8
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel HD
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36932.m3u8
-#EXTINF:-1 tvg-id="VH1 HD FHD" tvg-name="VH1 FHD" tvg-logo="http://2.bp.blogspot.com/-jtZjq4j1z5I/UMeFkmhloNI/AAAAAAAABAQ/rEe0YTqqo5E/s1600/Render+Logo+VH1.png" group-title="Canais | Full HD",VH1 FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/40271.m3u8
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36900.m3u8
-#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36997.m3u8
-#EXTINF:-1 tvg-id="Viva FHD" tvg-name="Viva FHD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Full HD",Viva FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/38393.m3u8
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36931.m3u8
+
 #EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36996.m3u8
 #EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Full HD",Warner Channel FHD
@@ -897,16 +585,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50644.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50646.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN [ALT]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN [ALT]
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD [ALT]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Alternativos",BAND CAMPINAS HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BandNews HD [ALT]" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BandNews [ALT]" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50655.m3u8
+
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50613.m3u8
 #EXTINF:-1 tvg-id="BandSports HD" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports HD
@@ -1109,10 +788,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50817.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50829.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME [ALT]" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME [ALT]
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",MAIS GLOBOSAT HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",MAIS GLOBOSAT [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50838.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MAX HD [ALT]" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Alternativos",MAX HD [ALT]
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MaxPrime [ALT]" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Alternativos",MaxPrime [ALT]
@@ -1197,24 +873,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50989.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIMEBOX BRASIL [ALT]" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Alternativos",PRIMEBOX BRASIL [ALT]
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD HD [ALT]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS [ALT]" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD [ALT]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL [ALT]" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Alternativos",REDE BRASIL [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD [ALT]" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV [ALT]" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA [ALT]" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Alternativos",REDE VIDA [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD [ALT]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT HD [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT [ALT]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT [ALT]
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51044.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY FULL HD H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",SONY FULL HD H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/50533.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE HD  [ALT]" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE HD  [ALT]
@@ -1271,85 +930,12 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51120.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES [ALT]
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Inter TV Alto Litoral FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Alto Litoral HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV dos Vales
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO INTER TV DOS VALES FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV dos Vales HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Grande Minas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO INTER TV GRANDE MINAS FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Grande Minas HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Serra Mar
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO INTER TV SERRA MAR FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Inter TV Serra Mar HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52573.m3u8
-#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="Globo NSC TV Blumenau" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Blumenau
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52571.m3u8
-#EXTINF:-1 tvg-id="NSC TV Blumenau FHD" tvg-name="NSC TV Blumenau FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Blumenau FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52569.m3u8
-#EXTINF:-1 tvg-id="NSC TV Blumenau HD" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Blumenau HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52570.m3u8
-#EXTINF:-1 tvg-id="NSC TV Joinville" tvg-name="Globo NSC TV Joinville" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Joinville
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV Joinville FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Joinville FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52538.m3u8
-#EXTINF:-1 tvg-id="NSC TV Joinville HD" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo NSC TV Joinville HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52539.m3u8
-#EXTINF:-1 tvg-id="RBS TV Caxias" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RBS TV Caxias do Sul
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52568.m3u8
-#EXTINF:-1 tvg-id="RBS TV Caxias FHD" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo RBS TV Caxias do Sul FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52566.m3u8
-#EXTINF:-1 tvg-id="RBS TV Caxias HD" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RBS TV Caxias do Sul HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52567.m3u8
-#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RBS TV Pelotas
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52543.m3u8
-#EXTINF:-1 tvg-id="RBS TV Pelotas FHD" tvg-name="RBS TV Pelotas FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RBS TV Pelotas FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52541.m3u8
-#EXTINF:-1 tvg-id="RBS TV Pelotas HD" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RBS TV Pelotas HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Cabo Branco
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV CABO BRANCO FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Cabo Branco HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Rio Sul
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV RIO SUL FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Rio Sul HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Santa Cruz
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV SANTA CRUZ FHD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Santa Cruz HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/52564.m3u8
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/36899.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",FOX SPORTS - H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51241.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX-H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",FX-H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Amazônica HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Amazônica HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",GLOBO NEWS - H265
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Paraná HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Paraná HD
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RN HD " tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo RN HD 
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51312.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Gloob - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",Gloob - H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",H2 H265
@@ -1366,8 +952,7 @@ http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51250.m3u8
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",MTV - H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",MULTISHOW H265
-http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51253.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",NAT GEO KIDS H265
 http://tv.minhalista.me:80/live/8GfHXFha/phantomiptv/51255.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OFF - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [02]",OFF - H265
@@ -7211,444 +6796,4 @@ http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51774.mp4
 http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51775.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.09" tvg-logo="http://tv.factoryiptv.com:80/images/f3y8xAcotCa3tROPOApUDeEHCgZ_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.09
 http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.10" tvg-logo="http://tv.factoryiptv.com:80/images/eQDpvA2GOtb2MprDsIiqywKfHyU_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.11" tvg-logo="http://tv.factoryiptv.com:80/images/yTZQkSsxUFJZJe67IenRM0AEklc_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.12" tvg-logo="http://tv.factoryiptv.com:80/images/oVitZ5lpHiDBge1HveaULMQkX9p_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.13" tvg-logo="http://tv.factoryiptv.com:80/images/yHXxOQ9PtYLbeQ8txr6TEox5GA9_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.14" tvg-logo="http://tv.factoryiptv.com:80/images/kCbIbtXQZ8agldYEiSzbeAhIgyw_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.15" tvg-logo="http://tv.factoryiptv.com:80/images/sHsnFWqEmDzL22t6mGmJkY6AwxX_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.15
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.16" tvg-logo="http://tv.factoryiptv.com:80/images/SFKGR1zsPT94hjUpNiRBOiWQAf_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.16
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.17" tvg-logo="http://tv.factoryiptv.com:80/images/ttJO9K9ygsoVhvyBojfos2tpAzF_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.17
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.18" tvg-logo="http://tv.factoryiptv.com:80/images/4QQaUqQTxOONKoaOAqvbDct9k5p_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.18
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.19" tvg-logo="http://tv.factoryiptv.com:80/images/6t6QGM1qYB15v7uiBkC8IQlDLpn_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.19
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.20" tvg-logo="http://tv.factoryiptv.com:80/images/1pGKZRK8O79AsVmjv0w8X7pkKEI_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.20
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.21" tvg-logo="http://tv.factoryiptv.com:80/images/owd1FY3CAn3cvyLcQO14zowgLTo_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.21
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.22" tvg-logo="http://tv.factoryiptv.com:80/images/1dbl4S3BFkue7gKqGs3FdSWCLs5_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E.22
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/51789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E01" tvg-logo="http://tv.factoryiptv.com:80/images/hvKW8cHFcsVgfeYV3aEOBbGcoy1_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E02" tvg-logo="http://tv.factoryiptv.com:80/images/tAQGR5iivfi20SAGaSG9o2yaiov_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E03" tvg-logo="http://tv.factoryiptv.com:80/images/cvzUZz5xTMsKXZDI9ANNG3xmwyM_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E04" tvg-logo="http://tv.factoryiptv.com:80/images/k4azXLZCuz4SqfqHO5yZ5S0MAS_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E05" tvg-logo="http://tv.factoryiptv.com:80/images/8xiWbUBh2k9mKxrq63GB1cy6cOx_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E06" tvg-logo="http://tv.factoryiptv.com:80/images/y9pQb9CsD7HTpm9LVZXGAprV7Rb_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E07" tvg-logo="http://tv.factoryiptv.com:80/images/yTZQkSsxUFJZJe67IenRM0AEklc_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E08" tvg-logo="http://tv.factoryiptv.com:80/images/yTZQkSsxUFJZJe67IenRM0AEklc_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E09" tvg-logo="http://tv.factoryiptv.com:80/images/zSUtveL8zZZRK1GOyD7fiXsFCm0_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E10" tvg-logo="http://tv.factoryiptv.com:80/images/yTZQkSsxUFJZJe67IenRM0AEklc_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E11" tvg-logo="http://tv.factoryiptv.com:80/images/yTZQkSsxUFJZJe67IenRM0AEklc_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E12" tvg-logo="http://tv.factoryiptv.com:80/images/gPDy5074E7oIRRgrJTNGQhBnyvY_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E13" tvg-logo="http://tv.factoryiptv.com:80/images/lokGUjObk99SE9pU3mkRMe0P6Xi_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E14" tvg-logo="http://tv.factoryiptv.com:80/images/eI6iKtUQODQRi9sB9syMXm1KP7f_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E15" tvg-logo="http://tv.factoryiptv.com:80/images/wsJzx71TGN58gPYGc4vDivqY6IP_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E15
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E16" tvg-logo="http://tv.factoryiptv.com:80/images/5EHDsfkDZs7XFglFCoy6JG5JdWm_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E16
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S11 S11E17" tvg-logo="http://tv.factoryiptv.com:80/images/4XUiaQZiGkQqa03WRt6WUOgvTrY_small.jpg" group-title="Series | Desenhos",The Simpsons S11 S11E17
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/56463.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E01" tvg-logo="http://tv.factoryiptv.com:80/images/9oifJEgVKWsiPsRVnvpdACiJB05_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E02" tvg-logo="http://tv.factoryiptv.com:80/images/8M744ue1I35jcfvM8XNtFmAnO6n_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E03" tvg-logo="http://tv.factoryiptv.com:80/images/sPTHeziA20nRw3NqA9j8FchsVdS_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E04" tvg-logo="http://tv.factoryiptv.com:80/images/8FmUcKUk88NjC7Iwju0nsNeLuXE_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E05" tvg-logo="http://tv.factoryiptv.com:80/images/sXpnjSU96ED3yYVrm9BqYhgf4eG_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E06" tvg-logo="http://tv.factoryiptv.com:80/images/yEDSHVRQiHtIWQ3fcLutr2CSgVC_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E07" tvg-logo="http://tv.factoryiptv.com:80/images/kj7XGHGwP2rAr9SZQl0361rc1Q8_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E08" tvg-logo="http://tv.factoryiptv.com:80/images/txfP3RGQrH975I1mVohAUOxYkjh_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E09" tvg-logo="http://tv.factoryiptv.com:80/images/lkrG22IN1cDzQUik3DSE0Gizkro_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E10" tvg-logo="http://tv.factoryiptv.com:80/images/gdmbxOWVmc35uryPjQdGeIFYhbU_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E11" tvg-logo="http://tv.factoryiptv.com:80/images/3FkVpR8xDoXlJ4E07JpwkTknaWK_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E12" tvg-logo="http://tv.factoryiptv.com:80/images/e0nr2JM5ZgLXtJejueg1uTIti6H_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E13" tvg-logo="http://tv.factoryiptv.com:80/images/yik9SnRIwGbJcbLKDdN64z796rl_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E14" tvg-logo="http://tv.factoryiptv.com:80/images/6Dx0gT8VsA9iC9migoWFiepWMQf_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E15" tvg-logo="http://tv.factoryiptv.com:80/images/xTNAUYH3FVQjdljPhsKWryYYjWW_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E15
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E16" tvg-logo="http://tv.factoryiptv.com:80/images/vu8eDZ7MiefrZxX2OhFbda6noB2_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E16
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E17" tvg-logo="http://tv.factoryiptv.com:80/images/wv69h7bKeHblo3taVkPhHLnCxk4_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E17
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E18" tvg-logo="http://tv.factoryiptv.com:80/images/4iPNBT5dpaBzRrylQPx6j7dI3nT_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E18
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E19" tvg-logo="http://tv.factoryiptv.com:80/images/XqD2Q7kM5lrTjDRwkKK7s3OzGz_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E19
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E20" tvg-logo="http://tv.factoryiptv.com:80/images/zvhenKXtBV24nzAI8mxlMyeyZRF_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E20
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E21" tvg-logo="http://tv.factoryiptv.com:80/images/jYnc1Ypn8Cdbme8hpe13RLEB0Ud_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E21
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E22" tvg-logo="http://tv.factoryiptv.com:80/images/yhxksl1jAcYfrDlC0QSFglisOTf_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E22
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E23" tvg-logo="http://tv.factoryiptv.com:80/images/1iG6nwkQb75R8zxsypJL5xVqpxy_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E23
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S10 S10E24" tvg-logo="http://tv.factoryiptv.com:80/images/zz9pvqUVLq9OWoei50kYXfVXccH_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S10 S10E24
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 The Big Bang Theory - S11E10 - The Confidence Erosion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPx5JJkoYGWdF2Tm2ZxkgJ51AqB.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 The Big Bang Theory - S11E10 - The Confidence Erosion
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E01" tvg-logo="http://tv.factoryiptv.com:80/images/oBOVgg2gIryBkWg2XtSr0svsO3a_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E02" tvg-logo="http://tv.factoryiptv.com:80/images/c82DYxLLoxwPKWQ0Evgmtphmleq_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E03" tvg-logo="http://tv.factoryiptv.com:80/images/mycjsvb91uw1WG6zqld9DEozlAB_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E04" tvg-logo="http://tv.factoryiptv.com:80/images/zNPtqkWh19br721s6IBwLOaoe22_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E05" tvg-logo="http://tv.factoryiptv.com:80/images/jHDHHiJbPIjJLPTpD31pAFgKhXc_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E06" tvg-logo="http://tv.factoryiptv.com:80/images/57CoA3eyykJU9q0dkOcJ1WkZaKV_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E07" tvg-logo="http://tv.factoryiptv.com:80/images/lM1VwTSFT5IOLqfHBcImibCNDcR_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E08" tvg-logo="http://tv.factoryiptv.com:80/images/AlDl3puuYZqQHIsZDypJCAoXtFP_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E09" tvg-logo="http://tv.factoryiptv.com:80/images/sUeYryl4noJ1ZeoygZki5mVSEAF_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E11" tvg-logo="http://tv.factoryiptv.com:80/images/g5IvVIhTmtqvrNjoLL5vQrJ7Gke_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E12" tvg-logo="http://tv.factoryiptv.com:80/images/Ak6A2V7tiXV5hU0UIRNupFUyThz_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E13" tvg-logo="http://tv.factoryiptv.com:80/images/twXUFhbnn9xuoBwzwHZzyi6qAtk_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E14" tvg-logo="http://tv.factoryiptv.com:80/images/aKGQFSnqc5r9mWCUcRjWYi5SiWc_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E15" tvg-logo="http://tv.factoryiptv.com:80/images/AnGIz9QR5vd1BvfaLKIavRYVdAx_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E15
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E16" tvg-logo="http://tv.factoryiptv.com:80/images/y8cPPUKibxpbGlo9feqkWHae4Gk_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E16
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E17" tvg-logo="http://tv.factoryiptv.com:80/images/jQSKIdLRcSamU7gXOmqJFH5o2sG_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E17
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E18" tvg-logo="http://tv.factoryiptv.com:80/images/eXK5rWsLFCznTnclbcKlhtVYd6Z_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E18
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E19" tvg-logo="http://tv.factoryiptv.com:80/images/noQkLOIcY439DTVA1mcqi07B2SW_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E19
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E20" tvg-logo="http://tv.factoryiptv.com:80/images/4onNHSndrG9u2DrkFI3Bw5ZEicl_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E20
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E21" tvg-logo="http://tv.factoryiptv.com:80/images/bRcRtDtinAA0q4OEGq68VF6GyQz_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E21
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E22" tvg-logo="http://tv.factoryiptv.com:80/images/bh6HEOeXk2hCrpt31wudk0wXGJu_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E22
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E23" tvg-logo="http://tv.factoryiptv.com:80/images/6sWYQEL0WliCVlytMjOBpBADtI_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E23
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 S11E24" tvg-logo="http://tv.factoryiptv.com:80/images/oz3gDLFjmte71Bc7yFhV6lQIjAj_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S11 S11E24
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E01" tvg-logo="http://tv.factoryiptv.com:80/images/tH6udsYfheFElUCMtc10PoxzhHH_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo7XJKGKLBcymivyVeRawWDDHtP.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E02" tvg-logo="http://tv.factoryiptv.com:80/images/6dkPSJozX9LPiNpv1nUfPSkCCZy_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E03" tvg-logo="http://tv.factoryiptv.com:80/images/3wKloxLk5kSVA8yM0wYeIpoR3Pv_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E04" tvg-logo="http://tv.factoryiptv.com:80/images/4C2p52FPZzjW1iB4hWi7kwfaZZc_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E05" tvg-logo="http://tv.factoryiptv.com:80/images/uglFferqXxOcIb7jOoFTYzzUGDv_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E07" tvg-logo="http://tv.factoryiptv.com:80/images/14abiXaAjOnkYMke8WOPYfJb2Ud_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E08" tvg-logo="http://tv.factoryiptv.com:80/images/u2Fvvq2DwjnmgCLXM3XKpZHtJUQ_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E09" tvg-logo="http://tv.factoryiptv.com:80/images/r7QzKWzJZ5nhRIHy8ffYRAHsSDb_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E10" tvg-logo="http://tv.factoryiptv.com:80/images/ifZjvUR7qrzRFeMidPv3WQIPX0n_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E11" tvg-logo="http://tv.factoryiptv.com:80/images/vM7wOcSvUb40eMTZvwqNJRJfXM_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E12" tvg-logo="http://tv.factoryiptv.com:80/images/yk9ngrWh99IferzYCzkzgmV4Y8H_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E13" tvg-logo="http://tv.factoryiptv.com:80/images/61E1tFoitHjKUQg0SMiZRDRRPap_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E14" tvg-logo="http://tv.factoryiptv.com:80/images/6A3l7dDqA9nA94pZNzJ8Fsv3Bp4_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E15" tvg-logo="http://tv.factoryiptv.com:80/images/8ZKXKQvrlWTyjEe6VYjpsHaaOZa_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E15
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E16" tvg-logo="http://tv.factoryiptv.com:80/images/v9o9lIGgrKn3CVC3VqjXsOxiDBu_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E16
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E17" tvg-logo="http://tv.factoryiptv.com:80/images/ibeFZjHPpdLLCsM9Ul4QZGU5Bns_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E17
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E18" tvg-logo="http://tv.factoryiptv.com:80/images/yNLmPBFzi9nGTtBsaQJNnbsDrwx_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E18
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E19" tvg-logo="http://tv.factoryiptv.com:80/images/hX1cQjB1uoCEBveWwx7ArPX2GKB_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E19
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E20" tvg-logo="http://tv.factoryiptv.com:80/images/6EwGVgvBRPX6huHhj80whNK3aXD_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E20
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E21" tvg-logo="http://tv.factoryiptv.com:80/images/Adw0tiCkOOBfQv0DGcxgopuWpYJ_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E21
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E22" tvg-logo="http://tv.factoryiptv.com:80/images/1u7GUeIFGsZRJpb6oQuP0mH7F0K_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E22
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E23 S12E24" tvg-logo="http://tv.factoryiptv.com:80/images/zJD3QYenp4Yw3ivGWKOiHkAwEq4_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E23 S12E24
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 S12E25" tvg-logo="http://tv.factoryiptv.com:80/images/ooBGRQBdbGzBxAVfExiO8r7kloA_small.jpg" group-title="Series | The Big Bang Theory",The Big Bang Theory S12 S12E25
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E01" tvg-logo="http://tv.factoryiptv.com:80/images/gds8KueKjgb69nABR17ssjiV4Y0_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E02" tvg-logo="http://tv.factoryiptv.com:80/images/ze4PXaLqejK6Cn3KSMDitrM7q9O_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E03" tvg-logo="http://tv.factoryiptv.com:80/images/dq1OgXa3d4Qq8NpczsFA2urLqKm_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E04" tvg-logo="http://tv.factoryiptv.com:80/images/ppJ2JNEO0modmNDIOVK8eOTtatE_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E05" tvg-logo="http://tv.factoryiptv.com:80/images/cWK0Ss3TPMyvfsWsQ86HyhbFIO7_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E06" tvg-logo="http://tv.factoryiptv.com:80/images/dDYdH3ZO0ejTesPzwv3bUwbrWGv_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E07" tvg-logo="http://tv.factoryiptv.com:80/images/sXMyMjytRLkkf1t5CxHQ9oH8guL_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E08" tvg-logo="http://tv.factoryiptv.com:80/images/h7ZA1jw7b8vVWPyh9Tq91Oxpamk_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E09" tvg-logo="http://tv.factoryiptv.com:80/images/uyC7jvGGvose8iKERwAk0O8hldg_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E10" tvg-logo="http://tv.factoryiptv.com:80/images/stGbKU9KQ5aaqitfuqy8ecYxWCp_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E11" tvg-logo="http://tv.factoryiptv.com:80/images/bgjEfrIWIXGlLl6oCgFLOIfOn9f_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E12" tvg-logo="http://tv.factoryiptv.com:80/images/zMM8YDyiB69Da5HOI3YaDw1aaDi_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S01 S01E13" tvg-logo="http://tv.factoryiptv.com:80/images/puAl4POFubNOiusR07EWFeiBXdx_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S01 S01E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E01" tvg-logo="http://tv.factoryiptv.com:80/images/f0ousZhzLNRpwOB2tP4By4skEGw_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E02" tvg-logo="http://tv.factoryiptv.com:80/images/8ylRdHIC2D5MSvLd4WoepEnpfg4_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E03" tvg-logo="http://tv.factoryiptv.com:80/images/6NPMpRXXZu6epsPzuJF2ozA6jvP_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E04" tvg-logo="http://tv.factoryiptv.com:80/images/qOmrd9VCG6p8JBmu5r5Id8sdc91_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E05" tvg-logo="http://tv.factoryiptv.com:80/images/femazZBekMnabBNRwUk6dRzeOr3_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E06" tvg-logo="http://tv.factoryiptv.com:80/images/z58UroKGXFmuG4KXVh3a1B88ImO_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E07" tvg-logo="http://tv.factoryiptv.com:80/images/4Kl8hYM1VdX7h2xSgPDOPAgIsgB_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E08" tvg-logo="http://tv.factoryiptv.com:80/images/jojbXGhFq4lBWS36QJACEugCFyY_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E09" tvg-logo="http://tv.factoryiptv.com:80/images/pN48rqCq3uegth4jAz56suOSvTV_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E10" tvg-logo="http://tv.factoryiptv.com:80/images/12YipMZLe1lCdk26F8N0cONYodc_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E11" tvg-logo="http://tv.factoryiptv.com:80/images/4g4WMvt8foJ497oIcT6OK7MfTUa_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E12" tvg-logo="http://tv.factoryiptv.com:80/images/471oQFUVzDvRgFdkZY4j6iAnvEa_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S02 S02E13" tvg-logo="http://tv.factoryiptv.com:80/images/7TVkV77m3NbJv44fkgwUBfVKbcZ_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S02 S02E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E01" tvg-logo="http://tv.factoryiptv.com:80/images/rK7xlHOrqpjapi5ptqvYDw9JA97_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E02" tvg-logo="http://tv.factoryiptv.com:80/images/gdiYkvTyTlSwYCbsDr5InBGc7VU_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E03" tvg-logo="http://tv.factoryiptv.com:80/images/eV1v7ptT9QSRIMYZ9pB3X5Q4jBJ_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E04" tvg-logo="http://tv.factoryiptv.com:80/images/kCCe5YzGba73VwdGJerPy8HSQub_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E05" tvg-logo="http://tv.factoryiptv.com:80/images/4UxE4MlIrqdVBBeg3snMbz0v2S8_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E06" tvg-logo="http://tv.factoryiptv.com:80/images/dY3b7NLpoubpYYYR2LjMWJTn7dJ_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E07" tvg-logo="http://tv.factoryiptv.com:80/images/rUg3fOndNz9u5WDTgsMqerMCdAj_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E08" tvg-logo="http://tv.factoryiptv.com:80/images/cXaXeG13DmopIRDSyrAfMM0E8J0_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E09" tvg-logo="http://tv.factoryiptv.com:80/images/kHMna9Bmn5hHpLhZiAHdQ2xDm3T_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E10" tvg-logo="http://tv.factoryiptv.com:80/images/97ZUeJzxNkOENh5ieXqKDGJB5Gd_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E11" tvg-logo="http://tv.factoryiptv.com:80/images/3ZTObxiAAMRpJNaMMJ04QZtLSeD_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E12" tvg-logo="http://tv.factoryiptv.com:80/images/zRcAGOZy4EptilwC2MeBNEoLZec_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S03 S03E13" tvg-logo="http://tv.factoryiptv.com:80/images/5XFvYTrjzk4WaSlAmrTWofTKjcR_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S03 S03E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E01" tvg-logo="http://tv.factoryiptv.com:80/images/aeJxx89c9qfkvVtxhXuVHNa3q6u_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E02" tvg-logo="http://tv.factoryiptv.com:80/images/oiQRo4iPj4ImG5C2Lot1EwdoL81_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E03" tvg-logo="http://tv.factoryiptv.com:80/images/dvQNnQQrlQDYFinclnE7N5SM5FK_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E04" tvg-logo="http://tv.factoryiptv.com:80/images/3DNXhrCzRFgSbTqLol4YztEKDur_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E05" tvg-logo="http://tv.factoryiptv.com:80/images/89sGVLFmVi0CTdt027CdQlIsCpP_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E06" tvg-logo="http://tv.factoryiptv.com:80/images/3MSlzRWNdHENysKBQIuVEuG0rVc_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E07" tvg-logo="http://tv.factoryiptv.com:80/images/uD3bPj7nLh1yvy1VrhjFrkcZv5F_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E08" tvg-logo="http://tv.factoryiptv.com:80/images/p4V3Y5dxEgDszbdvrAJOOnanps4_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E09" tvg-logo="http://tv.factoryiptv.com:80/images/2MwwX0LNkNIm6ipflufPgaczlzS_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E10" tvg-logo="http://tv.factoryiptv.com:80/images/pt41bim91loFmPCmvoF0g1RmHt1_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E11" tvg-logo="http://tv.factoryiptv.com:80/images/9zznf7SAzzJkND7spqoo9jeNDLw_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E12" tvg-logo="http://tv.factoryiptv.com:80/images/m4K0EJWiCQrtNB119iudASUUIGS_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E13" tvg-logo="http://tv.factoryiptv.com:80/images/zIPVw0ZAiFVXLxBfGbc2krNkGMt_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S04 S04E14" tvg-logo="http://tv.factoryiptv.com:80/images/2n74ysecf0PZj2ohA55fPfaQ8lh_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S04 S04E14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E01" tvg-logo="http://tv.factoryiptv.com:80/images/uULg37K8tHcwZKufiS2C03t5I60_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E02" tvg-logo="http://tv.factoryiptv.com:80/images/3JOBODBgdFVDr9NnDGVJall1qNi_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E03" tvg-logo="http://tv.factoryiptv.com:80/images/tQpiCCM3QQYQMh0da4WdCjD1JFP_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E04" tvg-logo="http://tv.factoryiptv.com:80/images/jKwGrrXuWgDU4ALHd1pkQSD7Plc_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E05" tvg-logo="http://tv.factoryiptv.com:80/images/7BBn6SUFOXrwtz5i57xxxhkKm1T_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E06" tvg-logo="http://tv.factoryiptv.com:80/images/jwcavL1aHE8C9PpI3jYR6X6DJcG_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E07" tvg-logo="http://tv.factoryiptv.com:80/images/zmoEZnHl3xAsamkRUvyPNLgrEZP_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E08" tvg-logo="http://tv.factoryiptv.com:80/images/qr085397eusLhhCTSwXW8syz8vp_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E09" tvg-logo="http://tv.factoryiptv.com:80/images/vZlSz8v11RRRMXrO9jk5A2V5UTB_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E10" tvg-logo="http://tv.factoryiptv.com:80/images/yacCtHgz2xAwO2HbgQk3qktLU3Y_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E11" tvg-logo="http://tv.factoryiptv.com:80/images/liYTxoboY88LEowOLbVI68yR3Kj_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E12" tvg-logo="http://tv.factoryiptv.com:80/images/6AeM8Np2w7VB17bllqtqFH5cTy1_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S05 S05E13" tvg-logo="http://tv.factoryiptv.com:80/images/icLm7Oo1DCW71nCSmbyklQr75Dc_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S05 S05E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E01" tvg-logo="http://tv.factoryiptv.com:80/images/olMD14hKT9BNuh66rT1CIBhyPNf_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E02" tvg-logo="http://tv.factoryiptv.com:80/images/zgsfyE6jT2PKcMFT9G1bgVRWOSv_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E03" tvg-logo="http://tv.factoryiptv.com:80/images/vKssMnqxfgTlv5xP9dRfC5sXkg9_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E04" tvg-logo="http://tv.factoryiptv.com:80/images/hYfCs7x1zycWBtOGpyTyt0GZy6T_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E05" tvg-logo="http://tv.factoryiptv.com:80/images/5NT3zkQCyS0H8NcNuvqOMcouXPY_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E06" tvg-logo="http://tv.factoryiptv.com:80/images/hJE5Bo8DjTcWfn38f6sBdZPfo1U_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E07" tvg-logo="http://tv.factoryiptv.com:80/images/pzxZv9Z8BIskEZqoDbXQUNEKPUW_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E08" tvg-logo="http://tv.factoryiptv.com:80/images/zBwFuy6iWDIt1HtZfaLRXde0XoV_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E09" tvg-logo="http://tv.factoryiptv.com:80/images/v74bArZAKFje4efuq8WQfu8dOwW_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E10" tvg-logo="http://tv.factoryiptv.com:80/images/sgszDSvluxn8xhEX9R1OUAgxt8D_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E11" tvg-logo="http://tv.factoryiptv.com:80/images/Asd4g154Wh14nn4eYsU4YqlXFxP_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E12" tvg-logo="http://tv.factoryiptv.com:80/images/oggqBaJiu9QgcLAkUwNwvMBh8tq_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S06 S06E13" tvg-logo="http://tv.factoryiptv.com:80/images/k2qQ5kFxg0vmuiMNnzk9EIgSuZJ_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S06 S06E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/61829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E01" tvg-logo="http://tv.factoryiptv.com:80/images/w0COzxT0Q4U2EMkGRDWaTjFN6Zi_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E02" tvg-logo="http://tv.factoryiptv.com:80/images/em6jp2hlg23AjT4P3cUyeyJK30f_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E03" tvg-logo="http://tv.factoryiptv.com:80/images/rCtcx5Slf6GCkLtMrB6P6tmoDmV_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E04" tvg-logo="http://tv.factoryiptv.com:80/images/oTetiRHLKLRU4aQ3eHct85FGoEF_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E05" tvg-logo="http://tv.factoryiptv.com:80/images/coRet28yUEJi2s2YjfZF7TNojTZ_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E06" tvg-logo="http://tv.factoryiptv.com:80/images/scLRbPLbgC5YD3M1PXSy9OVFKO4_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E07" tvg-logo="http://tv.factoryiptv.com:80/images/pD2mcBnUQ7KITKJSSirhFjgvIM7_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E08" tvg-logo="http://tv.factoryiptv.com:80/images/7bMfIDIRT4ucXXlhtKiwo57vCfj_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E09" tvg-logo="http://tv.factoryiptv.com:80/images/bj3cacbceL8a8MtveZ4W6GLGgx6_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E10" tvg-logo="http://tv.factoryiptv.com:80/images/sLjF9mGMu0EfssDxUP9kV7LiUDb_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E11" tvg-logo="http://tv.factoryiptv.com:80/images/8L6F49XHg0PyKviXG8USvM9uQsN_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E12" tvg-logo="http://tv.factoryiptv.com:80/images/1XitKgHHG7EjZh5Nh7QJy9TgRZR_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sons of Anarchy S07 S07E13" tvg-logo="http://tv.factoryiptv.com:80/images/mbHsHNKHfc8xIq1naQ6rxXIaSdo_small.jpg" group-title="Series | Sons of Anarchy",Sons of Anarchy S07 S07E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/58249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E01" tvg-logo="http://tv.factoryiptv.com:80/images/e4Xsv7bIBwZKR6rL5uuWUxgSw7u_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E01
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E02" tvg-logo="http://tv.factoryiptv.com:80/images/oroaYQ3TNqK43NGz3S8nFpho8qc_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E02
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E03" tvg-logo="http://tv.factoryiptv.com:80/images/6QIFdFBxdTjFMiSkdmGs2fQlNyD_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E03
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E04" tvg-logo="http://tv.factoryiptv.com:80/images/kafIs5K6Yhe0nqjBo8hekay4rg0_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E04
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E05" tvg-logo="http://tv.factoryiptv.com:80/images/uHWThD7W2AesRneEYHAaygpvObv_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E05
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E06" tvg-logo="http://tv.factoryiptv.com:80/images/fpdBoac8OseVHLv2FDyY4dgHBV0_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E06
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E07" tvg-logo="http://tv.factoryiptv.com:80/images/mkXMC4VFo9yPkdWm9v7L4rIJ1pP_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E07
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E08" tvg-logo="http://tv.factoryiptv.com:80/images/9eb1a43PFh9YAd5c0nzDdQ6lowS_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E08
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E09" tvg-logo="http://tv.factoryiptv.com:80/images/88uMFgP1CwgquruJ7I3cT7KcLZY_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E09
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E10" tvg-logo="http://tv.factoryiptv.com:80/images/8wtFaSYD26vTrl0QSJADjsUGneW_small.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E10
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E11" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E11
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E12" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E12
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E13" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E13
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E14" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E14
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E15" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E15
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E16" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E16
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E17" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E17
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E18" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E18
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E19" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E19
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E20" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E20
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E21" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E21
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E22" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E22
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E23" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E23
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E24" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E24
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E25" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E25
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Rock S01 S01E26" tvg-logo="https://i.imgur.com/qJfA2HQ.jpg" group-title="Serie | Hora do Rock",Hora do Rock S01 S01E26
-http://tv.minhalista.me:80/series/8GfHXFha/phantomiptv/59742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons S10 Os.Simpsons.S10.E.10" tvg-logo="http://tv.factoryiptv.com:80/images/eQDpvA2GOtb2MprDsIiqywKfHyU_small.jpg" group-title="Series | Desenhos",The Simpsons S10 Os.Simpsons.S10.E
